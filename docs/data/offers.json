@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:46:35+00:00",
+ "updated": "2026-10-25T22:55:01+00:00",
  "offers": [
   {
    "source": "francetravail",
@@ -11257,6 +11257,52 @@
    }
   },
   {
+   "source": "meteojob",
+   "source_id": "57376238",
+   "title": "Tourneur fraiseur (H/F)",
+   "url": "https://www.meteojob.com/jobs/57376238",
+   "company": "Manpower",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41260",
+   "lat": 47.61621,
+   "lon": 1.36765,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "À partir de 13 € par heure",
+   "hours": "Temps Plein",
+   "description": "Manpower BLOIS recherche pour son client, un acteur du secteur des Industries manufacturières et production, un Tourneur fraiseur (H/F)\n- Lire les consignes affichées.\n- Vérifier l'ordre de fabrication.\n- Contrôler le matériel de contrôle.\n- Vérifier les niveaux d'huile.\n- Lire le dossier technique.\n- Alimenter la machine en pièces.\n- Réaliser le contrôle croisé des pièces.\n- Saisir les informations sur S.A.P.\n- Formation en usinage ? CAP/BEP/Bac Pro/BTS en productique ou technicien d'usinage.\n- Expérience en tournage/fraisage ? Réglages, montage d'outils, usinage et contrôle.\n- Maîtrise du contrôle ? Pied à coulisse, micromètre, comparateur.\n- Lecture de plans ? Interprétation des cotes et tolérances.\n- Rigueur et précision ? Respect des tolérances et qualité des pièces.\n- Autonomie ? Réglages machine et choix des outils.\n- Travail en équipe ? Coordination avec production et qualité.\nCe poste vous intéresse n'hésitez plus et venez rejoindre Manpower.\nLes avantages Manpower\n- Comité d'entreprise attractif : chèques vacances, remboursement location vacances, voyages, chèques cadeaux, remboursement sport et culture, billetterie, courts séjours et week-ends.\n- Mutuelle et prévoyance.\n- Location de véhicule.\n- Application Mon Manpower pour suivre vos missions.\n- Compte épargne rémunéré à 8% bruts annuels pour placer vos IFM, 13e mois.\n- Parrainage : 150 euros pour vous (selon règlement en vigueur).\nDans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap\n13 € par heure",
+   "published": "2026-10-22",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Tourneur Fraiseur (H/F)"
+    ]
+   },
+   "uid": "meteojob:57376238",
+   "distance_km": 4.1,
+   "fp": "2ec9733238fa2669",
+   "first_seen": "2026-10-25",
+   "ai": {
+    "uid": "meteojob:57376238",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste qualifié d'usinage qui demande un diplôme (CAP/BEP/Bac Pro/BTS), la lecture de plans et des réglages machine.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Torna ve freze operatörü",
+    "summary_tr": "Fabrikada metal parça işleme makinesi kullanılıyor. İş La Chaussée-Saint-Victor'da.",
+    "tasks_tr": [
+     "Makineye parça koymak",
+     "Parçaları ölçmek",
+     "Makine ayarı yapmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "Saatte 13 € ve üstü",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à La Chaussée-Saint-Victor. J'ai plusieurs années d'expérience en production et en conditionnement en usine. Je suis rapide, sérieuse et disponible sur tous les horaires. Je serais heureuse de discuter avec vous d'une mission."
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "8236062",
    "title": "Mécanicien TP H/F",
@@ -19488,33 +19534,6 @@
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par vos offres en production. J'ai plusieurs années d'expérience en usine. Je cherche un poste d'opératrice. Je suis disponible rapidement."
    }
-  },
-  {
-   "source": "meteojob",
-   "source_id": "57376238",
-   "title": "Tourneur fraiseur (H/F)",
-   "url": "https://www.meteojob.com/jobs/57376238",
-   "company": "Manpower",
-   "city": "La Chaussée-Saint-Victor",
-   "postal_code": "41260",
-   "lat": 47.61621,
-   "lon": 1.36765,
-   "contract": "Intérim",
-   "duration": "",
-   "salary": "À partir de 13 € par heure",
-   "hours": "Temps Plein",
-   "description": "Manpower BLOIS recherche pour son client, un acteur du secteur des Industries manufacturières et production, un Tourneur fraiseur (H/F)\n- Lire les consignes affichées.\n- Vérifier l'ordre de fabrication.\n- Contrôler le matériel de contrôle.\n- Vérifier les niveaux d'huile.\n- Lire le dossier technique.\n- Alimenter la machine en pièces.\n- Réaliser le contrôle croisé des pièces.\n- Saisir les informations sur S.A.P.\n- Formation en usinage ? CAP/BEP/Bac Pro/BTS en productique ou technicien d'usinage.\n- Expérience en tournage/fraisage ? Réglages, montage d'outils, usinage et contrôle.\n- Maîtrise du contrôle ? Pied à coulisse, micromètre, comparateur.\n- Lecture de plans ? Interprétation des cotes et tolérances.\n- Rigueur et précision ? Respect des tolérances et qualité des pièces.\n- Autonomie ? Réglages machine et choix des outils.\n- Travail en équipe ? Coordination avec production et qualité.\nCe poste vous intéresse n'hésitez plus et venez rejoindre Manpower.\nLes avantages Manpower\n- Comité d'entreprise attractif : chèques vacances, remboursement location vacances, voyages, chèques cadeaux, remboursement sport et culture, billetterie, courts séjours et week-ends.\n- Mutuelle et prévoyance.\n- Location de véhicule.\n- Application Mon Manpower pour suivre vos missions.\n- Compte épargne rémunéré à 8% bruts annuels pour placer vos IFM, 13e mois.\n- Parrainage : 150 euros pour vous (selon règlement en vigueur).\nDans le cadre de sa politique diversité, Manpower étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap\n13 € par heure",
-   "published": "2026-10-22",
-   "phone": "",
-   "extra": {
-    "jobs": [
-     "Tourneur Fraiseur (H/F)"
-    ]
-   },
-   "uid": "meteojob:57376238",
-   "distance_km": 4.1,
-   "fp": "2ec9733238fa2669",
-   "first_seen": "2026-10-25"
   },
   {
    "source": "jobijoba",
