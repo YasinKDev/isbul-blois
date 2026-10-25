@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>İş Bul</title>
+<meta name="theme-color" content="#1F2430">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="İş Bul">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-row">
+    <h1>İş Bul <span class="where">· Blois</span></h1>
+    <button class="icon-btn" id="refresh" aria-label="Yenile">↻</button>
+  </div>
+  <p class="updated" id="updated">Yükleniyor…</p>
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="new" class="on">🆕 Yeni <b id="count-new"></b></button>
+    <button role="tab" data-tab="all">📋 Hepsi <b id="count-all"></b></button>
+    <button role="tab" data-tab="saved">⭐ Kayıtlı <b id="count-saved"></b></button>
+  </nav>
+</header>
+
+<main id="list" aria-live="polite"></main>
+
+<dialog id="sheet">
+  <div class="sheet-inner">
+    <button class="close" id="close" aria-label="Kapat">✕</button>
+    <div id="detail"></div>
+  </div>
+</dialog>
+
+<div class="toast" id="toast" role="status"></div>
+
+<template id="card-tpl">
+  <article class="card">
+    <div class="card-head">
+      <span class="emoji"></span>
+      <div class="card-title">
+        <h2></h2>
+        <p class="meta"></p>
+      </div>
+      <span class="badge-new">YENİ</span>
+    </div>
+    <div class="chips"></div>
+  </article>
+</template>
+
+<script src="app.js"></script>
+</body>
+</html>
