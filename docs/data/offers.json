@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T11:04:03+00:00",
+ "updated": "2026-10-26T17:53:37+00:00",
  "offers": [
   {
    "source": "francetravail",
@@ -315,6 +315,55 @@
    }
   },
   {
+   "source": "adecco",
+   "source_id": "2133346701",
+   "title": "Magasinier (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2133346701",
+   "company": "Adecco",
+   "city": "Cour Cheverny",
+   "postal_code": "41700",
+   "lat": 47.5057,
+   "lon": 1.4725,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nDans le cadre de son développement, notre client spécialisé dans la commercialisation de matériels d'Elevage et agricole\nrecherche un(e) Magasinier Polyvalent H/F pour rejoindre son équipe et participer à la gestion quotidienne de son magasin et de son entrepôt. Votre mission\nEn collaboration étroite avec le Responsable des Stocks, vous participez à l'ensemble des activités du magasin et de l'entrepôt.\nVos principales missions seront :\n- Préparer et organiser les commandes clients ainsi que leur expédition.\n- Accueillir les clients et assurer la vente au comptoir.\n- Participer à la gestion, au suivi et à l'inventaire des stocks.\n- Réceptionner les marchandises et assurer leur rangement.\n- Organiser et maintenir la plateforme de stockage (bois, rouleaux de grillage, matériel divers...).\n- Participer à la fabrication de miradors (environ 5 à 10 % du temps de travail).\n- Veiller à la bonne tenue, à la propreté et à l'organisation de l'entrepôt.\nVotre profil\nProfil recherché\n- Aisance relationnelle et goût du service client.\n- Polyvalence, autonomie et sens des responsabilités.\n- Rigueur dans l'application des procédures et l'organisation du travail.\n- Dynamisme et esprit d'équipe.\n- Débutant(e) accepté(e), formation assurée.\n- Connaissances en gestion et tenue des stocks\nCompétences appréciées\n- Bonne maîtrise des outils informatiques (Word, Excel).\n- Une expérience en magasinage, logistique ou vente comptoir est un plus.\nCe que nous vous proposons\n✅ Un poste varié mêlant logistique, relation client et manutention.\n✅ Une ambiance familiale et conviviale.\n✅ Une proximité avec la clientèle, les collègues et la Direction.\n✅ De réelles perspectives d'évolution pour les candidats motivés et investis.\n- Horaires du lundi au vendredi\n- Début de Mission au 15 Décembre 2026\n- Possibilité d'intégration\nSi ce poste vous intéresse, postulez en ligne!",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "secteur": "Exploitation de logistique - supply chain",
+    "postes": 1,
+    "debut_asap": false,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2133346701",
+    "agence": "ADFR_H48",
+    "debut": "2026-12-15"
+   },
+   "uid": "adecco:2133346701",
+   "distance_km": 13.6,
+   "fp": "3eb9ff8f596d6c61",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "adecco:2133346701",
+    "suitable": true,
+    "score": 50,
+    "reason_fr": "Préparation de commandes et rangement proches de son expérience, mais une partie vente au comptoir demande du français.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Depo görevlisi",
+    "summary_tr": "Tarım malzemesi satan firmada depo işi. Cour Cheverny'de.",
+    "tasks_tr": [
+     "Sipariş hazırlamak",
+     "Mal almak ve yerleştirmek",
+     "Biraz tezgahta satış"
+    ],
+    "schedule_tr": "Pazartesi-cuma, gündüz",
+    "salary_tr": "",
+    "duration_tr": "3 ay, 15 Aralık 2026 başlangıç",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de magasinier à Cour Cheverny. J'ai plusieurs années d'expérience en intérim en préparation de commandes, réception et manutention en entrepôt. Je suis rapide, sérieuse et j'ai le permis B avec une voiture. Je suis disponible pour un entretien."
+   }
+  },
+  {
    "source": "hellowork",
    "source_id": "77185715",
    "title": "Conducteur de Machines H/F",
@@ -353,6 +402,93 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste de conducteur de machines. J'ai plusieurs années d'expérience en production et conditionnement en usine. Je suis rapide, sérieuse et disponible en horaires d'équipe. Je vous remercie pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "fb8dba3bd44eda3f786ca3cf605d4975",
+   "title": "Cariste en Préparation Logistique H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/fb8dba3bd44eda3f786ca3cf605d4975",
+   "company": "Synergie",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "20 000 € par an",
+   "hours": "",
+   "description": "Nous recrutons pour notre client, leader dans la logistique de pneumatiques et spécialisé dans la préparation de commandes sur différentes plateformes, un",
+   "published": "2026-10-20",
+   "phone": "",
+   "extra": {
+    "metier": "Cariste"
+   },
+   "uid": "jobijoba:fb8dba3bd44eda3f786ca3cf605d4975",
+   "distance_km": 18.4,
+   "fp": "c6b3f22ab7c13a12",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:fb8dba3bd44eda3f786ca3cf605d4975",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Poste de cariste qui demande normalement le CACES, qu'elle n'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Forkliftçi - sipariş hazırlama",
+    "summary_tr": "Mer'de lastik deposu. Forklift ile sipariş hazırlama.",
+    "tasks_tr": [
+     "Forklift kullanmak",
+     "Sipariş hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 20 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "021a5b43a5cfd6b973f0efa0def320d2",
+   "title": "Magasinier Cariste H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/021a5b43a5cfd6b973f0efa0def320d2",
+   "company": "CRIT Intérim - Offres Premium",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "13 € de l'heure",
+   "hours": "",
+   "description": "Dans le cadre du développement de son activité, nous recherchons pour notre client un Magasinier cariste à MER pour un CDD.",
+   "published": "2026-10-20",
+   "phone": "",
+   "extra": {
+    "metier": "Magasinier"
+   },
+   "uid": "jobijoba:021a5b43a5cfd6b973f0efa0def320d2",
+   "distance_km": 18.4,
+   "fp": "8d76f758055e1125",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:021a5b43a5cfd6b973f0efa0def320d2",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Poste de cariste qui demande normalement un CACES, qu'elle n'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Depocu - Forklift operatörü",
+    "summary_tr": "Mer'de bir depoda iş. Forklift kullanmak gerekiyor.",
+    "tasks_tr": [
+     "Forklift kullanmak",
+     "Ürünleri yerleştirmek",
+     "Depo düzeni"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 13 €",
+    "duration_tr": "Belirli süreli (CDD)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de magasinier à Mer. J'ai plusieurs années d'expérience en préparation de commandes et en manutention en entrepôt. Je n'ai pas encore le CACES, mais je suis prête à être formée. Je suis disponible rapidement."
    }
   },
   {
@@ -395,6 +531,138 @@
     "salary_tr": "Saati 12,31 €",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste de manutentionnaire à Mer. J'ai plusieurs années d'expérience en manutention et chargement de colis. Je suis rapide, sérieuse et disponible sur tous les horaires. Je serais heureuse de vous rencontrer."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215QVVX",
+   "title": "Assistant / Assistante de vie aux familles (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QVVX",
+   "company": "GEIQ AIDE A DOMICILE",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "L'assistant(e) de vie intervient auprès de personnes fragiles à leur domicile et les accompagne dans les gestes de la vie quotidienne.\nVos missions:\n- Entretien du logement, du linge.\n- Courses,...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215QVVX",
+   "distance_km": 0.0,
+   "fp": "e9f68f04da33aecd",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215QVVX",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Aide à domicile avec beaucoup de relationnel auprès de personnes fragiles.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Evde yaşam yardımcısı",
+    "summary_tr": "Yaşlı ve zor durumdaki insanlara evde yardım. Blois'da.",
+    "tasks_tr": [
+     "Ev temizliği",
+     "Çamaşır",
+     "Alışveriş"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "CDD",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215RHND",
+   "title": "Opérateur sur cn (tourneur / fraiseur) (F/H)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RHND",
+   "company": "ACTUAL BLOIS 1014",
+   "city": "Fossé",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Au sein de l'atelier d'usinage, vous assurez la production de pièces conformément aux ordres de fabrication (OF) et aux exigences qualité :\n- Approvisionner la machine en matière première (bruts,...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215RHND",
+   "distance_km": 6.6,
+   "fp": "789e730ffa0df19b",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215RHND",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Poste qualifié de tourneur-fraiseur sur machine à commande numérique.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "CNC tezgah operatörü",
+    "summary_tr": "Atölyede makine ile parça üretimi. Fossé'de.",
+    "tasks_tr": [
+     "Makineye malzeme koymak",
+     "Parça üretmek",
+     "Kalite kontrol"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215LPFV",
+   "title": "Employé polyvalent / Employée polyvalente de libre-service",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LPFV",
+   "company": "PICARD",
+   "city": "La Chaussee St Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "Au quotidien vous assurez, \nUn accueil chaleureux et du conseil personnalisé\nLa promotion du programme de fidélité\nLe maintien des rayons pleins, propres et commerçants\nUn encaissement fiable et le...",
+   "published": "2026-10-20",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215LPFV",
+   "distance_km": 3.2,
+   "fp": "6c6c6562fc2a8151",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215LPFV",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de vente avec accueil, conseil et caisse.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Mağaza çalışanı",
+    "summary_tr": "Donmuş gıda mağazasında satış ve kasa. La Chaussee St Victor'da.",
+    "tasks_tr": [
+     "Müşteri karşılamak",
+     "Raf doldurmak",
+     "Kasa"
+    ],
+    "schedule_tr": "Yarım gün",
+    "salary_tr": "",
+    "duration_tr": "CDD",
+    "apply_message_fr": ""
    }
   },
   {
@@ -486,6 +754,53 @@
     "salary_tr": "Yıllık 24.000 - 28.000 €",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par vos offres. J'ai de l'expérience en production. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "84805730",
+   "title": "Opérateur sur CN Tourneur - Fraiseur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84805730.html",
+   "company": "Actual group",
+   "city": "Fossé",
+   "postal_code": "41330",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n Notre client spécialisé dans le domaine de l'aéronautique recherche un opérateur CN Tourneur Fraiseur.\nAu sein de l'atelier d'usinage, vous assurez la production de pièces conformément aux ordres de fabrication (OF) et aux exigences qualité : \n- Approvisionner la machine en matière première (bruts, barres, lopins).\n- Sélectionner et lancer les programmes d'usinage adaptés selon les dossiers de fabrication.\n- Surveiller le bon déroulement des cycles d'usinage sur tour et/ou centre d'usinage.\n- Réaliser le contrôle visuel et dimensionnel des premières pièces et en cours de série à l'aide des instruments de mesure standards (pied à coulisse, micromètre, etc.).\n- Décharger les pièces usinées, ébavurer et conditionner selon les consignes.\n- Assurer la maintenance de premier niveau et maintenir un poste de travail propre et sécurisé.\nContrat en interim à pourvoir dès que possible \nPoste en 2x8 (5h-13h/12h45-20h30) \nRémunération : 12,40€ + Prime équipe à 8,94€/J\n Le profil recherché\n Profil recherchéFormation : Titulaire d'un Bac Pro (Technicien en Réalisation de Produits Mécaniques / Usinage) ou BTS (Conception des Processus de Réalisation de Produits - CPRP / Productique) ou formation équivalente.Expérience : Première expérience réussie en atelier d'usinage (stages/alternance inclus) ou profil confirmé.Compétences : Maîtrise de la lecture de plans mécaniques, rigueur dimensionnelle et respect strict des règles de sécurité.\n Bienvenue chez Actual group\n Notre client spécialisé dans le domaine de l'aéronautique recherche un opérateur CN Tourneur Fraiseur.",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:84805730",
+   "distance_km": 6.6,
+   "fp": "f6b67ce73af530b7",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "hellowork:84805730",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Bac Pro ou BTS en usinage exigé et lecture de plans nécessaire.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "CNC torna-freze operatörü",
+    "summary_tr": "Fossé'de uçak parçası atölyesi. Makinede parça üretimi.",
+    "tasks_tr": [
+     "Makineye malzeme koymak",
+     "Parça ölçmek",
+     "Parça paketlemek"
+    ],
+    "schedule_tr": "2 vardiya (5-13 / 12:45-20:30)",
+    "salary_tr": "Saatte 12,40 € + günlük ekip primi 8,94 €",
+    "duration_tr": "6 ay",
+    "apply_message_fr": ""
    }
   },
   {
@@ -699,6 +1014,56 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "84791563",
+   "title": "Technicien de Laboratoire H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84791563.html",
+   "company": "Hays",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "2 000 - 2 050 € / mois",
+   "hours": "",
+   "description": "",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:84791563",
+   "distance_km": 0.0,
+   "fp": "a897b4fc53c7ae5a",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/7ca2e2a7f5003eaf6d4ed9bd2e7d09ff"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/ac5de05e15325315e8a4d14b48048fff"
+    }
+   ],
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "hellowork:84791563",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien de laboratoire qui demande un diplôme scientifique.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Laboratuvar teknisyeni",
+    "summary_tr": "Blois'ta laboratuvar işi. Diploma lazım.",
+    "tasks_tr": [
+     "Laboratuvar testleri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Ayda 2 000 - 2 050 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "jobijoba",
    "source_id": "7a45ee22e412f03ba4ff0056d9551a10",
    "title": "Chauffeur de bus (H/F)",
@@ -739,6 +1104,399 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par vos offres en intérim à Blois. J'ai plusieurs années d'expérience en conditionnement, préparation de commandes et tri. Je suis disponible tout de suite, avec permis B et voiture. Je vous remercie pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215QZDL",
+   "title": "Moniteur Éducateur - Accueil de Jour (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QZDL",
+   "company": "MEDITALIS CONSULTING",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "VITALIS Médical Blois, votre agence de recrutement spécialisée dans les métiers de la santé et du médico-social, recherche un(e) Moniteur Éducateur (H/F) pour l'un de ses partenaires reconnus, une...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215QZDL",
+   "distance_km": 0.0,
+   "fp": "729803ee51f3179f",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215QZDL",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste éducatif qui exige un diplôme et beaucoup de communication en français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Eğitmen (gündüz merkezi)",
+    "summary_tr": "Sağlık ve sosyal alanda eğitmen işi. Blois'da.",
+    "tasks_tr": [
+     "İnsanlara destek olmak",
+     "Etkinlik yapmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "CDD",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215RLBH",
+   "title": "Chauffeur PL Hydrocureur H/F (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLBH",
+   "company": "RAS BLOIS",
+   "city": "La Chaussee St Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "En tant que Chauffeur PL Hydrocureur, vous intervenez sur les réseaux d'assainissement pour des prestations de curage, nettoyage et dépannage.\nVos missions principales :\nAssurer la conduite d'un...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215RLBH",
+   "distance_km": 3.2,
+   "fp": "9ea538198e7a888d",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215RLBH",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Exige le permis poids lourd.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kamyon şoförü (kanal temizliği)",
+    "summary_tr": "Kamyonla kanal temizliği işi. La Chaussee St Victor'da.",
+    "tasks_tr": [
+     "Kamyon sürmek",
+     "Kanal temizlemek"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215RLGK",
+   "title": "Conducteur / Conductrice de travaux Voirie, Réseaux Divers (VRD) (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RLGK",
+   "company": "RAS BLOIS",
+   "city": "La Chaussee St Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Assurer le transport de matériel, outils et matériaux vers les différents chantiers de voirie et réseaux divers (VRD) en respectant la sécurité routière et les procédures internes.\nRéaliser des...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215RLGK",
+   "distance_km": 3.2,
+   "fp": "b85826fe5990969d",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:215RLGK",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste d'encadrement de chantier qualifié.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Yol şantiye şefi",
+    "summary_tr": "Yol ve şebeke şantiyelerinde iş. La Chaussee St Victor'da.",
+    "tasks_tr": [
+     "Malzeme taşımak",
+     "Şantiye işleri"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-BLS-R000311_02R",
+   "title": "SECRÉTAIRE MÉDICAL(E) (F/H)",
+   "url": "https://www.randstad.fr/emploi/secretaire-medicale-fh_blois_307-bls-r000311_02r/",
+   "company": "Appel Medical",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.58594,
+   "lon": 1.3301,
+   "contract": "CDD",
+   "duration": "1 mois",
+   "salary": "12,87 €/heure",
+   "hours": "",
+   "description": "descriptif du poste\nMissions principales\nSaisie et contrôle de la facturation des séjours (PMSI / HDJ)\nTélétransmission, suivi des rejets et retours Noémie\nGestion des dossiers patients et de l'accueil\n- Contrat: CDD de 1 mois, renouvelable\n- Horaire: 35h/ semaine soit du lundi au vendredi\n- Salaire: Négociable selon expérience\nprofil recherché\nVous justifiez d'une première expérience en secrétariat médical et maîtrisez les exigences d'un établissement de soins de suite et réadaptation\n- Vous détenez un titre professionnel de Secrétaire assistant(e) médico-social(e) ou une formation équivalente\n- Vous assurez l'accueil des patientes et patients avec discrétion, courtoisie et sens de l'écoute\n- Vous maîtrisez la gestion des dossiers médicaux, des rendez-vous et des outils bureautiques\n- Vous appliquez rigoureusement les règles de confidentialité et le respect du secret médical\n- Vous faites preuve d'organisation, de réactivité et d'aisance dans la coordination administrative\nProcessus de recrutement\nIntéressé(e) par cette offre d'emploi ? Postulez facilement !\nNos consultants spécialisés examineront votre candidature avec respect de l'égalité des chances et de bienveillance. Nous vous donnerons une réponse transparente, quelle que soit l'issue de votre candidature.\nà propos de notre client\nNotre partenaire est un centre médical de prévention et réadaptation situé à BLOIS.\nPourquoi rejoindre cet établissement ?\nPlongez-vous dans un établissement mettant l'accent sur le bien-être de ses salarié(e)s, valorisant les efforts individuels et porteur de fortes valeurs humaines, offrant ainsi un environnement professionnel épanouissant pour construire une carrière solide.",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Ag Appel médical Blois",
+    "marque": "appel medical",
+    "debut": "2026-12-10",
+    "fin": "2027-01-10",
+    "qualification": "Secrétaire médical(e) (F/H)"
+   },
+   "uid": "randstad:307-BLS-R000311_02R",
+   "distance_km": 0.4,
+   "fp": "aaa784459f96d6ef",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "randstad:307-BLS-R000311_02R",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste administratif avec accueil et titre professionnel exigé, le français écrit est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Tıbbi sekreter",
+    "summary_tr": "Blois'ta bir sağlık merkezinde sekreterlik. Fatura, dosya ve hasta karşılama işi.",
+    "tasks_tr": [
+     "Fatura girmek",
+     "Hasta dosyası",
+     "Hasta karşılamak"
+    ],
+    "schedule_tr": "Haftada 35 saat, pazartesi-cuma",
+    "salary_tr": "Saatte 12,87 €",
+    "duration_tr": "1 ay, uzayabilir",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "84796177",
+   "title": "Soudeur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84796177.html",
+   "company": "Partnaire",
+   "city": "Le Controis-en-Sologne",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 - 13 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:84796177",
+   "distance_km": 19.9,
+   "fp": "b854b632bb67af8b",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "hellowork:84796177",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le métier de soudeur demande une qualification qu'elle n'a pas.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Kaynakçı",
+    "summary_tr": "Le Controis-en-Sologne'da kaynak işi. Meslek bilgisi lazım.",
+    "tasks_tr": [
+     "Kaynak yapmak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatte 12,31 - 13 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "84805367",
+   "title": "Mécanicien PL H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84805367.html",
+   "company": "Intérim 36 Châteauroux",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12,31 - 13,50 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:84805367",
+   "distance_km": 0.0,
+   "fp": "3484464a09021c1f",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/93e7ef423e15e46d7752f10e9ec0cdce"
+    }
+   ],
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "hellowork:84805367",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de mécanicien poids lourd qui demande une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kamyon tamircisi",
+    "summary_tr": "Blois'ta kamyon tamiri. Meslek bilgisi lazım.",
+    "tasks_tr": [
+     "Kamyon tamir etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,31 - 13,50 €",
+    "duration_tr": "6 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "84807440",
+   "title": "Mecanicien H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84807440.html",
+   "company": "Interaction",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 - 14 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:84807440",
+   "distance_km": 0.0,
+   "fp": "14785dd5c5cdd1db",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "hellowork:84807440",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de mécanicien qui demande une formation technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Tamirci",
+    "summary_tr": "Blois'ta tamir işi. Meslek bilgisi lazım.",
+    "tasks_tr": [
+     "Tamir yapmak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatte 13 - 14 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8267021",
+   "title": "Aide comptable H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8267021",
+   "company": "ADERIM",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Vous aimez donner du sens aux chiffres et appréciez les matinées bien rythmées ?\nADERIM recherche un assistant comptable H/F pour renforcer son équipe finance sur une mission en intérim, à temps...",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "origin": "TALENT_DETECTION"
+   },
+   "uid": "francetravail:8267021",
+   "distance_km": 3.1,
+   "fp": "adaff7689cc5a472",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "francetravail:8267021",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste administratif de comptabilité.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Muhasebe yardımcısı",
+    "summary_tr": "Ofiste muhasebe işi. Vineuil'de.",
+    "tasks_tr": [
+     "Hesap işleri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57721732",
+   "title": "Educateur spécialisé (H/F)",
+   "url": "https://www.meteojob.com/jobs/57721732",
+   "company": "Domino RH",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.59432,
+   "lon": 1.32912,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "20 000 € - 40 000 € par an",
+   "hours": "Temps Plein",
+   "description": "Vos missions :\nÉlaborer et mettre en oeuvre des projets personnalisés adaptés aux besoins de chaque personne ;\nAssurer un accompagnement éducatif et social individualisé ;\nFavoriser l'autonomie, l'inclusion et le développement des capacités des personnes accompagnées ;\nParticiper à la vie quotidienne et à la dynamique collective de la structure ;\nMettre en place et animer des activités éducatives, sociales, culturelles ou de loisirs ;\nObserver, analyser et transmettre les informations nécessaires à la continuité de l'accompagnement ;\nParticiper aux réunions d'équipe et travailler en collaboration avec les différents professionnels ;\nDévelopper une relation éducative basée sur l'écoute, la bienveillance et le respect ;\nAssurer la rédaction des écrits professionnels et le suivi des situations ;\nCollaborer avec les familles, les partenaires et les différents acteurs du parcours lorsque cela est nécessaire.\nVous êtes titulaire du diplôme d'Etat de Moniteur Educateur Vous avez une expérience significative dans un établissement socio-médical Vous êtes capable d'élaborer et de proposer un cadre éducatif Vous êtes capable de travailler en équipe avec l'équipe éducative Vous êtes capable d'encadrer un groupe d'adolescents Vous êtes rigoureux et vous êtes à l'écoute Permis B souhaité.\nMutuelle intérimaire",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Educateur spécialisé (H/F)",
+     "Moniteur-éducateur (H/F)"
+    ]
+   },
+   "uid": "meteojob:57721732",
+   "distance_km": 1.0,
+   "fp": "9942bb38f0731160",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "meteojob:57721732",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Diplôme d'État exigé et métier très relationnel avec beaucoup d'écrits.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Özel eğitmen",
+    "summary_tr": "Blois'ta sosyal kurumda eğitim ve destek işi. Diploma lazım.",
+    "tasks_tr": [
+     "Kişilere destek",
+     "Etkinlik yapmak",
+     "Rapor yazmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "Yılda 20 000 - 40 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
    }
   },
   {
@@ -1076,6 +1834,175 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par vos offres. J'ai de l'expérience en logistique. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "e36bd124df8508095f154422d8fdaae9",
+   "title": "Responsable d'Exploitation en Reconversion H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/e36bd124df8508095f154422d8fdaae9",
+   "company": "Aquila Rh",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "De 50 000 € à 100 000 € par an",
+   "hours": "",
+   "description": "Vous êtes actuellement Responsable d'exploitation dans le secteur du transport ou de la logistique ? - Développer votre portefeuille clients dans les",
+   "published": "2026-10-20",
+   "phone": "",
+   "extra": {
+    "metier": "Responsable exploitation"
+   },
+   "uid": "jobijoba:e36bd124df8508095f154422d8fdaae9",
+   "distance_km": 0.0,
+   "fp": "0f2978eb1e323ace",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:e36bd124df8508095f154422d8fdaae9",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'encadrement et commercial, demande une grande expérience de responsable.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "İşletme müdürü",
+    "summary_tr": "Blois'da yönetici işi. Müşteri bulmak ve yönetmek gerekiyor.",
+    "tasks_tr": [
+     "Müşteri bulmak",
+     "Ekip yönetmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 50 000 € - 100 000 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en logistique. Je reste disponible pour échanger."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "4f3eb389dec72907a961f2590fca00d1",
+   "title": "Acheteur (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/4f3eb389dec72907a961f2590fca00d1",
+   "company": "LHH",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "dans un environnement industriel.Maîtrise des techniques de négociation et de gestion de fournisseurs.Bonne capacité d'analyse et de synthèse.Anglais",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:4f3eb389dec72907a961f2590fca00d1",
+   "distance_km": 0.0,
+   "fp": "f06d097b32146f69",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:4f3eb389dec72907a961f2590fca00d1",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'acheteur qui demande négociation, analyse et anglais.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satın alma uzmanı",
+    "summary_tr": "Blois'da bir fabrikada satın alma işi. Pazarlık ve İngilizce gerekiyor.",
+    "tasks_tr": [
+     "Tedarikçilerle pazarlık",
+     "Analiz yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en milieu industriel. Je reste disponible pour échanger."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "12817dd188aab661ccb15f8c61ab2a0a",
+   "title": "Technicien Travaux H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/12817dd188aab661ccb15f8c61ab2a0a",
+   "company": "Adecco",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 2 300 € à 2 500 € par mois",
+   "hours": "",
+   "description": "liée à la candidature est traitée avec la plus stricte confidentialité. A propos de nous Vous cherchez un job pour quelques heures, quelques jours ou pour",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {},
+   "uid": "jobijoba:12817dd188aab661ccb15f8c61ab2a0a",
+   "distance_km": 0.0,
+   "fp": "bcc8fa8d159261ab",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:12817dd188aab661ccb15f8c61ab2a0a",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de technicien qui demande une qualification.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "İnşaat teknisyeni",
+    "summary_tr": "Blois'da teknisyen işi. Diploma ve tecrübe gerekiyor.",
+    "tasks_tr": [
+     "İşleri takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Ayda 2 300 € - 2 500 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en intérim. Je reste disponible pour échanger."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "6ed8e626d7642cb926ef17876e2e078e",
+   "title": "Soudeur Tuyauteur TIG CACES R486 H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/6ed8e626d7642cb926ef17876e2e078e",
+   "company": "LIP",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "14 € de l'heure",
+   "hours": "",
+   "description": "des installations et à la qualité finale des ouvrages, grâce à votre savoir-faire en soudage et en tuyauterie. Les conditions de la mission - Horaires :",
+   "published": "2026-10-26",
+   "phone": "",
+   "extra": {
+    "metier": "Tuyauteur"
+   },
+   "uid": "jobijoba:6ed8e626d7642cb926ef17876e2e078e",
+   "distance_km": 0.0,
+   "fp": "9624edd81b7c16b2",
+   "first_seen": "2026-10-26",
+   "ai": {
+    "uid": "jobijoba:6ed8e626d7642cb926ef17876e2e078e",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de soudeur qui exige un métier qualifié et un CACES.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Kaynakçı - Boru ustası",
+    "summary_tr": "Blois'da kaynak ve boru işi. Usta ve sertifika gerekiyor.",
+    "tasks_tr": [
+     "Kaynak yapmak",
+     "Boru takmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 14 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en production. Je reste disponible pour échanger."
    }
   },
   {
