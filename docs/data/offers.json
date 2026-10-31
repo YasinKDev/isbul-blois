@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T10:55:42+00:00",
+ "updated": "2026-10-31T16:31:37+00:00",
  "offers": [
   {
    "source": "jobijoba",
@@ -43,6 +43,50 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de quai à Mer. J'ai plusieurs années d'expérience en intérim dans la manutention, le chargement de colis et la préparation de commandes. Je suis rapide, sérieuse et disponible pour tous les horaires. J'ai le permis B et une voiture."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "b86ad9828a166cc32d4e0f748cb5a045",
+   "title": "Opérateur de production (H/F) H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/b86ad9828a166cc32d4e0f748cb5a045",
+   "company": "CRIT NANTES Tertiaire Transp-Log",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste de Opérateur de production (H/F) H/F Dans le cadre du développement de son activité, nous recherchons pour notre client,",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Opérateur de production"
+   },
+   "uid": "jobijoba:b86ad9828a166cc32d4e0f748cb5a045",
+   "distance_km": 18.4,
+   "fp": "42c13ed61d8e911d",
+   "first_seen": "2026-10-31",
+   "ai": {
+    "uid": "jobijoba:b86ad9828a166cc32d4e0f748cb5a045",
+    "suitable": true,
+    "score": 65,
+    "reason_fr": "Poste d'opérateur de production sans qualification, proche de son expérience, mais peu de détails.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim işçisi",
+    "summary_tr": "Fabrikada üretim işi. İş Mer'de.",
+    "tasks_tr": [
+     "Hatta çalışmak",
+     "Ürün hazırlamak",
+     "Kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de production à Mer. J'ai plusieurs années d'expérience en intérim dans le conditionnement et la production en usine. Je suis rapide, sérieuse et j'accepte tous les horaires. J'ai le permis B et une voiture."
    }
   },
   {
@@ -135,6 +179,48 @@
     "salary_tr": "Saatte 12,31 €",
     "duration_tr": "7 gün",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre de manutentionnaire à Mer. J'ai plusieurs années d'expérience en manutention, chargement de colis et préparation de commandes. Je n'ai pas de CACES, mais je suis rapide et sérieuse. Je suis disponible tout de suite et j'ai une voiture."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85024611",
+   "title": "Conducteur de Ligne H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85024611.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "La Chapelle-Vendômoise",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85024611",
+   "distance_km": 12.6,
+   "fp": "26fb96effa769db9",
+   "first_seen": "2026-10-31",
+   "ai": {
+    "uid": "hellowork:85024611",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "La conduite de ligne est un poste technique avec réglages, hors de son profil d'exécution.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Hat sorumlusu (makine kullanma)",
+    "summary_tr": "Üretim hattında makineleri yönetmek. İş La Chapelle-Vendômoise'da.",
+    "tasks_tr": [
+     "Makineyi çalıştırmak",
+     "Ayar yapmak",
+     "Kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": ""
    }
   },
   {
@@ -883,6 +969,94 @@
     "schedule_tr": "",
     "salary_tr": "Yılda 29 000 € - 42 000 €",
     "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8448284",
+   "title": "Infirmiers diplômés 2026, lancez-vous avec Vitalis Médical Blois ! H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8448284",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Vous venez d'obtenir votre diplôme d'État Infirmier en et vous souhaitez faire vos premiers pas dans le monde professionnel ? Vitalis Médical Blois est là pour vous accompagner !\nChez Vitalis Médical...",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8448284",
+   "distance_km": 0.0,
+   "fp": "4e8e22214375b181",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/d17cd5fea0fa921ba7126a802b0f1d4c"
+    }
+   ],
+   "first_seen": "2026-10-31",
+   "ai": {
+    "uid": "francetravail:8448284",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le poste exige un diplôme d'État d'infirmier.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (diplomalı)",
+    "summary_tr": "Diplomalı hemşire aranıyor. İş Blois'da.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "84978391",
+   "title": "Infirmier de en Salle de Réveil H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/84978391.html",
+   "company": "Appel Médical",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "8 jours",
+   "salary": "15,17 - 16,16 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-10-30",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:84978391",
+   "distance_km": 3.9,
+   "fp": "c2b6743de2e3dde0",
+   "first_seen": "2026-10-31",
+   "ai": {
+    "uid": "hellowork:84978391",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le poste exige un diplôme d'infirmier.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Ameliyat sonrası hemşire",
+    "summary_tr": "Hastanede diplomalı hemşire. İş La Chaussée-Saint-Victor'da.",
+    "tasks_tr": [
+     "Hasta takibi"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 15,17 - 16,16 €",
+    "duration_tr": "8 gün",
     "apply_message_fr": ""
    }
   },
