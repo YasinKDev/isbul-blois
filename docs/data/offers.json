@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T11:53:21+00:00",
+ "updated": "2026-11-01T17:26:30+00:00",
  "offers": [
+  {
+   "source": "jobijoba",
+   "source_id": "f0d5ec576ab643d779f95d8102a97e17",
+   "title": "Opérateur Logistique (F/H)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/f0d5ec576ab643d779f95d8102a97e17",
+   "company": "GoldenBess",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Vous participez activement au bon fonctionnement d'une chaîne logistique complexe, au cœur d'un pôle économique en constante synergie avec les autres",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Opérateur logistique"
+   },
+   "uid": "jobijoba:f0d5ec576ab643d779f95d8102a97e17",
+   "distance_km": 0.0,
+   "fp": "f9cb56efdfc51ceb",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:f0d5ec576ab643d779f95d8102a97e17",
+    "suitable": true,
+    "score": 65,
+    "reason_fr": "Poste d'opérateur logistique à Blois proche de son expérience en préparation de commandes, mais détails flous.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Lojistik operatörü",
+    "summary_tr": "Depoda lojistik işleri yapmak. Yer: Blois.",
+    "tasks_tr": [
+     "Sipariş hazırlamak",
+     "Koli taşımak",
+     "Ürün tasnif etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice logistique à Blois. J'ai plusieurs années d'expérience en préparation de commandes au scanner et en manutention de colis. Je suis rapide, sérieuse et j'accepte tous les horaires. Je suis disponible rapidement, merci pour votre réponse."
+   }
+  },
   {
    "source": "hellowork",
    "source_id": "83984903",
@@ -272,6 +316,142 @@
     "salary_tr": "Profile göre",
     "duration_tr": "1 ay geçici, sonra belki süresiz",
     "apply_message_fr": "Bonjour, je suis intéressée par ce poste de magasinier. J'ai plusieurs années d'expérience en logistique et en préparation de commandes. Je suis sérieuse et rapide. Je reste disponible pour un échange."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "a2f9f2193d89bdfb659072656e563815",
+   "title": "Chef d'Équipe (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/a2f9f2193d89bdfb659072656e563815",
+   "company": "Golden Bees",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Poste de Chef d'Équipe (h/f) \\n Notre Cabinet Adecco Recrutement recrute pour son client, acteur industriel basé à Blois (41), un Chef d'Équipe Production",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Chef d'équipe production"
+   },
+   "uid": "jobijoba:a2f9f2193d89bdfb659072656e563815",
+   "distance_km": 0.0,
+   "fp": "e071f663deafc9be",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/84cc663afc39366ff44f20f388f1578c"
+    }
+   ],
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:a2f9f2193d89bdfb659072656e563815",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste d'encadrement d'équipe, ne correspond pas à un poste d'exécution.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Ekip şefi (üretim)",
+    "summary_tr": "Fabrikada bir ekibi yönetmek. Yer: Blois.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Üretimi takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos offres dans la production à Blois. J'ai plusieurs années d'expérience en conditionnement et en production en intérim. Je suis disponible rapidement et j'accepte tous les horaires. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "abed8e1b0536bbf999a887078244214e",
+   "title": "Chef d'Équipe (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/abed8e1b0536bbf999a887078244214e",
+   "company": "Golden Bees",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Poste de Chef d'Équipe (h/f) \\n Notre Cabinet Adecco Recrutement recrute pour son client, acteur industriel basé à Blois (41), un Chef d'Équipe Production",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Chef d'équipe production"
+   },
+   "uid": "jobijoba:abed8e1b0536bbf999a887078244214e",
+   "distance_km": 18.4,
+   "fp": "e9e95c2523ac0eed",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:abed8e1b0536bbf999a887078244214e",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste d'encadrement d'équipe, non adapté.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Ekip şefi (üretim)",
+    "summary_tr": "Fabrikada bir ekibi yönetmek. Yer: Mer / Blois.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Üretimi takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en production. J'ai plusieurs années d'expérience en conditionnement en intérim. Je suis disponible rapidement et j'accepte tous les horaires. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "0cdf56c86247d6a40e35dddffb187d80",
+   "title": "Chef D'Équipe Production H/F H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/0cdf56c86247d6a40e35dddffb187d80",
+   "company": "NOMADS TALENTS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "à l'amélioration continue des lignes Coordonner les activités avec la production, la logistique et les approvisionnements Gérer les besoins en emballages",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Chef d'équipe production"
+   },
+   "uid": "jobijoba:0cdf56c86247d6a40e35dddffb187d80",
+   "distance_km": 0.0,
+   "fp": "cda17a3bd1db9f22",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:0cdf56c86247d6a40e35dddffb187d80",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de chef d'équipe avec coordination, trop de responsabilités et de français.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Üretim ekip şefi",
+    "summary_tr": "Üretim hatlarında ekibi yönetmek. Yer: Blois.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Lojistik ile çalışmak",
+     "Ambalaj ihtiyacını takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par un poste d'opératrice dans votre entreprise. J'ai plusieurs années d'expérience en conditionnement et emballage. Je suis disponible rapidement. Merci pour votre réponse."
    }
   },
   {
@@ -773,6 +953,92 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "e0b6256a855c783705611eaff08d26f7",
+   "title": "Directeur Production Et Méthodes",
+   "url": "https://www.jobijoba.com/fr/annonce/54/e0b6256a855c783705611eaff08d26f7",
+   "company": "LHH",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "LHH accompagne entreprises et talents pour atteindre leurs objectifs et créer un impact durable. Nos solutions en conseil RH et gestion des talents couvrent tous les enjeux de transformation : recrutement, développement du leadership, formation, reconversion et mobilité professionnelle. Grâce à plus de 50 ans d’expertise, 12 000 spécialistes dans 60 pays et 1 000 consultants en France, nous apportons une approche alliant innovation, pragmatisme et attention à l’humain, pour des résultats mesurables. Nos expertises recrutement : - Intérim spécialisé - Recrutement CDI - Management de transition - RPO - Executive search LHH Recruitment Solutions, cabinet de conseil en recrutement, intérim spécialisé, management de transition, et évaluation d'expert.E.S, cadres et dirigeant.E.S, recherche pour son client suite à une création de poste un Directeur Production-Méthodes H/F. Rattaché(e) à la Direction Générale, vous êtes responsable de la performance globale de la production et de l'atteinte des objectifs de qualité, coûts, délais et sécurité. Pour renforcer l'organisation composée de 27 personnes dont 23 opérateurs de production, 2 chefs d’équipe et 2 responsables. Les missions s’articulent principalement autour de 3 axes : Le management La gestion organisationnelle du service La gestion de projet Vous avez pour missions : Définir la stratégie industrielle : projets à lancer, objectifs de performance, robustesse du service Management : management des équipes encadrantes, définir un plan de développement des compétences, de polyvalence. Alerter la direction RH de tous problème disciplinaire. Assurer la communication et l’animation d’équipe Coordination avec la direction Gestion de projets Gestion organisationnelle du service Gestion des priorités Gestion des risques d’AT Garantir la sécurité Gestion des procédures Résolution des problèmes Amélioration des conditions de travail (réduction de la pénibilité) Méthodes : Amélioration continue et performance Gestion des flux et capacité, implantation, investissements MLT Digitalisation des processus Qualité et conformité Gestion des indicateurs clés du service Profil recherché : De formation supérieure de type Ingénieur ou Master spécialisé en production industrielle. Expérience significative (10 ans minimum) dans un environnement industriel, dont plusieurs années sur un poste de direction. Solides compétences en management d'équipes pluridisciplinaires. Excellente maîtrise des outils d'amélioration continue et de gestion de la performance industrielle. Forte capacité d'analyse, de prise de décision et de gestion du changement. Leadership reconnu, sens du terrain et orientation résultats.",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Directeur de production",
+    "first_published": "2026-11-01"
+   },
+   "uid": "jobijoba:e0b6256a855c783705611eaff08d26f7",
+   "distance_km": 0.0,
+   "fp": "227da31320560b96",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:e0b6256a855c783705611eaff08d26f7",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de direction qui exige un diplôme d'ingénieur et 10 ans de management.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Üretim müdürü",
+    "summary_tr": "Fabrikada üretimi yönetmek. Yer: Blois.",
+    "tasks_tr": [
+     "Ekipleri yönetmek",
+     "Projeleri yönetmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je cherche un poste d'opératrice de production à Blois. J'ai plusieurs années d'expérience en conditionnement et en logistique. Je suis disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3c792e7ef1021ab193489c2dd425aa72",
+   "title": "Directeur Production et Méthodes (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3c792e7ef1021ab193489c2dd425aa72",
+   "company": "LHH",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "De transition, et évaluation d'expert.e.s, cadres et dirigeant.e.s, recherche pour son client suite à une création de poste un Directeur Production -Méthodes",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Directeur de production"
+   },
+   "uid": "jobijoba:3c792e7ef1021ab193489c2dd425aa72",
+   "distance_km": 18.4,
+   "fp": "f1dae3db4b70863d",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:3c792e7ef1021ab193489c2dd425aa72",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de direction pour cadre diplômé.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Üretim müdürü",
+    "summary_tr": "Fabrikada üretimi yönetmek. Yer: Mer.",
+    "tasks_tr": [
+     "Ekipleri yönetmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je cherche un poste d'opératrice de production. J'ai plusieurs années d'expérience en conditionnement. Je suis disponible rapidement. Merci pour votre réponse."
    }
   },
   {
