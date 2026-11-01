@@ -1,6 +1,780 @@
 {
- "updated": "2026-10-31T16:31:37+00:00",
+ "updated": "2026-11-01T11:53:21+00:00",
  "offers": [
+  {
+   "source": "hellowork",
+   "source_id": "83984903",
+   "title": "Préparateurs de Commandes C1 H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/83984903.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "12,31 - 13 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n Le groupe ADWORK'S est un réseau de Travail Temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel. \nNotre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\nNotre agence Adwork's Blois recherche actuellement pour un de ses clients, acteur de la logistique basé à MER (41500), plusieurs préparateurs de commandes h/f titulaires du caces 1. \n?? Le poste : \nPréparation des commandes à l'aide du CACES 1 \nManutention et déplacement de marchandises \nContrôle des produits et des quantités \nRespect des consignes de sécurité et de qualité \nTravail en équipe au sein d'un environnement logistique dynamique \n?? Les horaires : \nDu lundi au vendredi - 8h00 à 16h00 \n?? La rémunération : \n12,51 EUR brut/heure \nTickets restaurant \n?? Votre profil : \nVous êtes titulaire du CACES 1 et vous avez idéalement une première expérience en préparation de commandes ou en logistique. \nVous êtes sérieux(se), dynamique, organisé(e) et appréciez le travail en équipe ? \nVous êtes à l'aise avec la manutention et souhaitez intégrer un environnement professionnel dynamique ? Ce poste est fait pour vous ! \n?? Intéressé(e) ? Postulez dès maintenant et rejoignez nous !\n Le profil recherché\n Titulaire du caces 1 en cours de validitéPremière expérience sur des fonctions similairesSérieux, rigueur, bonnes conditions physiques\n Bienvenue chez Adwork’s Travail Temporaire\n Le groupe ADWORK'S est un réseau de Travail Temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel.Notre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\n Mais aussi...\n tickets restaurants",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:83984903",
+   "distance_km": 18.4,
+   "fp": "db30a8362f212502",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "hellowork:83984903",
+    "suitable": false,
+    "score": 25,
+    "reason_fr": "Le CACES 1 en cours de validité est obligatoire pour ce poste.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlayıcı (CACES 1)",
+    "summary_tr": "Mer'de lojistik deposunda sipariş hazırlama. CACES 1 şart.",
+    "tasks_tr": [
+     "Sipariş hazırlamak",
+     "Mal taşımak",
+     "Ürün kontrol"
+    ],
+    "schedule_tr": "Pazartesi-cuma 8:00-16:00",
+    "salary_tr": "Saat 12,31 - 13 € brüt + yemek kartı",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste de préparatrice de commandes à Mer. J'ai plusieurs années d'expérience en préparation de commandes au scanner. Je suis rapide et sérieuse. Je peux suivre une formation CACES si besoin."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "80800647",
+   "title": "Technicien de Chantier Manoeuvre de Chantier H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/80800647.html",
+   "company": "ADERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12,50 - 13,50 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:80800647",
+   "distance_km": 0.0,
+   "fp": "2f9907a0696d74d5",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "hellowork:80800647",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Poste dans le bâtiment sur chantier, loin de son expérience, avec peu d'informations.",
+    "category": "diger",
+    "french_level": "az",
+    "title_tr": "İnşaat işçisi",
+    "summary_tr": "Blois'da şantiyede yardımcı iş. Detay az.",
+    "tasks_tr": [
+     "Şantiyede yardım",
+     "Malzeme taşımak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saat 12,50 - 13,50 €",
+    "duration_tr": "6 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Blois. J'ai l'habitude de la manutention et du travail physique. Je suis endurante et disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "81925638",
+   "title": "Cariste CACES 3 et 5 H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/81925638.html",
+   "company": "Adéquat Intérim &",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "1 867,02 - 2 250 € / mois",
+   "hours": "",
+   "description": "Les missions du poste\n Adéquat, c'est la société de travail temporaire et de recrutement préférée des intérimaires avec une moyenne de 94,5% de taux de satisfaction.\nNotre mission ? Contribuer à votre épanouissement professionnel à chaque étape de votre vie, en vous décrochant le job qui vous plaît.\nPlus de 350 agences en France pour vous accompagner dans votre recherche d'emploi (intérim, CDD, CDI, CDI Intérimaire) dans tous les secteurs d'activité : Industrie, Logistique, Transport, Bâtiment Travaux Public, Tertiaire...\nDans le cadre de sa politique Diversité et RSE, à compétences égales, toutes candidatures sont ouvertes aux personnes en situation de handicap.\nEnvie de vivre la meilleure expérience de recrutement ? Candidatez en quelques clics et rejoignez Adéquat.\nA pourvoir de suite - Management de proximité - Bon environnement de travail - Poste polyvalent - Poste nécessitant le CACES 1\nNotre agence Adéquat de Blois recrute de nouveau talent : Préparateur de commande H/F pour son client expert dans la logistique pour des clients de grande marque situé à Mer (41)\nMissions :\n- Descendre, monter et prélever les palettes\n- Charger et décharger les camions\n- Préparer les commandes\n- Maintenir sa zone de travail propre\n- Manutentions diverses\n Le profil recherché\n Profil :\n- Posséder à jour et avoir une première expérience réussie avec le CACES 1 et sur un même type de poste\n- Connaitre et appliquer les règles de sécurité dans un entrepôt\n- Selon site : port de charge à prévoir jusqu'à 17kg\nRémunération :\n- taux horaires : 12,31 euros brut/heure\n- Possibilité d'heures supplémentaires payés\n- + Paniers\nHoraires :\n- Travail en 2x8 : 06h00-13h00 / 13h00-20h00 du lundi au vendredi\nRémunération et avantages :\n- Taux horaire fixe + 10% de fin de mission + 10% de congés payés\n- Primes collective et/ou individuelle + participation aux bénéfices + CET 5%\n- Acompte de paye à la semaine si besoin,\n- Possibilité d'intégration rapide, de formation et d'évolution,\n- Bénéficiez d'aides et de services dédiés (mutuelle, logement, garde enfant, déplacement).\nPour toutes questions, vous pouvez nous joindre au **.**.**.**.**\nRejoignez le groupe Adéquat, l'acteur le plus dynamique du secteur de l'emploi depuis 3 ans !\nAdéquat, Simplement pour vous !\n Bienvenue chez Adéquat Intérim &\n Adéquat, c'est la société de travail temporaire et de recrutement préférée des intérimaires avec une moyenne de 94,5% de taux de satisfaction.\nNotre mission ? Contribuer à votre épanouissement professionnel à chaque étape de votre vie, en vous décrochant le job qui vous plaît.\nPlus de 350 agences en France pour vous accompagner dans votre recherche d'emploi (intérim, CDD, CDI, CDI Intérimaire) dans tous les secteurs d'activité : Industrie, Logistique, Transport, Bâtiment Travaux Public, Tertiaire...\nDans le cadre de sa politique Diversité et RSE, à compétences égales, toutes candidatures sont ouvertes aux personnes en situation de handicap.\nEnvie de vivre la meilleure expérience de recru",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:81925638",
+   "distance_km": 18.4,
+   "fp": "8e6f0e8f387e612c",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "hellowork:81925638",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le CACES 1 à jour et une expérience avec cet engin sont exigés.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlayıcı (CACES 1)",
+    "summary_tr": "Mer'de depoda palet ve sipariş işi. CACES 1 şart.",
+    "tasks_tr": [
+     "Palet indirmek",
+     "Kamyon yüklemek",
+     "Sipariş hazırlamak"
+    ],
+    "schedule_tr": "2 vardiya: 6:00-13:00 / 13:00-20:00, pazartesi-cuma",
+    "salary_tr": "Saat 12,31 € brüt + yemek primi",
+    "duration_tr": "6 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Mer. J'ai plusieurs années d'expérience en préparation de commandes et en chargement de colis. J'accepte le travail en 2x8. Je reste disponible pour un échange."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57382764",
+   "title": "Paysagiste H/F",
+   "url": "https://www.meteojob.com/jobs/57382764",
+   "company": "Avantage Intérim",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.59432,
+   "lon": 1.32912,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "Salaire non précisé",
+   "hours": "Temps Plein",
+   "description": "Acteur local et indépendant de l'intérim et du recrutement, Avantage Intérim intervient sur l'ensemble des secteurs d'activité hormis le médical. Basée sur des valeurs humaines c'est ainsi que nous pouvons établir une synergie entre nos clients et intérimaires. C'est pourquoi au quotidien nos équipes chargées de recrutement sont à votre écoute.\nAvantage Intérim Blois vous accueille tous les jours du Lundi au Vendredi de 8h à 12h30 et de 13h30 à 18h. Adresse : 146 avenue de Châteaudun - 41000 Blois \n Téléphone : ***\nNous recherchons un paysagiste pour l'un de nos client qui va avoir un surcroit d'activité, les missions sont les suivantes : \n Préparer les sols et effectuer les plantations\n Réaliser des travaux de terrassement\n Poser des bordures, pavés et dalles\n Travaux de petite maçonnerie\n Installer des clôtures",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Paysagiste (H/F)",
+     "Ouvrier paysagiste (H/F)"
+    ]
+   },
+   "uid": "meteojob:57382764",
+   "distance_km": 1.0,
+   "fp": "e10e840bc5ffe64f",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "meteojob:57382764",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Métier de paysagiste avec maçonnerie et terrassement, qui demande un savoir-faire spécifique.",
+    "category": "diger",
+    "french_level": "az",
+    "title_tr": "Bahçe düzenleme işçisi",
+    "summary_tr": "Blois'da bahçe ve dış alan işleri. Küçük duvar işleri de var.",
+    "tasks_tr": [
+     "Bitki dikmek",
+     "Taş döşemek",
+     "Çit kurmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Blois. J'aime le travail physique en extérieur. Je suis sérieuse et endurante. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "2b2d30bd928608c4ece2ab07efec53e7",
+   "title": "Menuisier Poseur H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/2b2d30bd928608c4ece2ab07efec53e7",
+   "company": "CRIT BLOIS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "étape de votre parcours professionnel. Nous proposons des missions en CDI, CDD, CDI Intérimaire et Intérim dans de nombreux secteurs partout en France. Avec",
+   "published": "2026-10-30",
+   "phone": "",
+   "extra": {
+    "metier": "Menuisier poseur"
+   },
+   "uid": "jobijoba:2b2d30bd928608c4ece2ab07efec53e7",
+   "distance_km": 0.0,
+   "fp": "ff7b6cec713fcf76",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:2b2d30bd928608c4ece2ab07efec53e7",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Le poste de menuisier poseur est un métier qualifié qui demande en général un CAP et une expérience en menuiserie, ce qui ne correspond pas au profil.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Marangoz ve montajcı",
+    "summary_tr": "Kapı, pencere gibi ahşap işleri yapıp takmak. Blois'da, CRIT ajansı ile.",
+    "tasks_tr": [
+     "Ahşap parçaları kesmek",
+     "Kapı ve pencere takmak",
+     "Müşteri evinde çalışmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions d'intérim à Blois. J'ai plusieurs années d'expérience en manutention et en conditionnement. Je suis rapide, sérieuse et disponible tout de suite, sur tous les horaires. Je vous remercie de votre attention."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "73063884",
+   "title": "Magasinier Cariste H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/73063884.html",
+   "company": "Global Interim",
+   "city": "Vineuil",
+   "postal_code": "41350",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "1 mois",
+   "salary": "",
+   "hours": "",
+   "description": "Les missions du poste\nGLOBAL INTERIM, agence spécialisée dans le travail temporaire, recrutement CDD - CDI, vous accompagne depuis 2001 dans la gestion de votre carrière professionnelle.\nEn rejoignant GLOBAL INTERIM, vous bénéficiez des avantages suivants :\n- les primes Indemnités de Fin de Mission (IFM) à 10% et Indemnités Compensatrice de Congés Payés (ICP) à 10%\n- un Compte Épargne Temps (CET) à 8% : c'est l'opportunité d'épargner à un taux avantageux\n- des Cartes cadeaux Parrainage : nous récompensons le parrainage avec des cartes cadeaux, reconnaissant la fidélité et l'engagement de nos intérimaires et les incitant à recommander notre agence\n- une Mutuelle santé\nContactez-nous et rejoignez-nous !\nNotre agence recherche pour l'un de ses clients un(e) magasinier/approvisionneur.\nMissions : \nVous effectuez les opérations de réception et d'expédition de marchandises. \n Réception et expédition de produits \n Manutention des produits \n Gestion des stocks\nPour ce faire vous : \n Réceptionnez, contrôlez et placez les commandes fournisseurs \n Enregistrez les bons de livraison dans l'ERP (Cegid) \n Effectuez les sorties de stock en fonction des encours \n Suivez les besoins en réassort sur certaines références (boulonnerie, \npeinture...) \n Assurez l'approvisionnement des consommables ateliers et outillage \n Effectuez l'expédition des pièces détachées (BL et conditionnement) \n Assurez l'organisation du magasin\n- Poste en temps plein soit 8h-12h 13h30-17h du lundi au vendredi (1h30 de pause non rémunérée + 1h de RTT acquise par semaine)\n- Salaire à fixer en fonction du profil\n- Poste a pourvoir en CDI après 3 mois en intérim\n Le profil recherché\n Vous possédez des notions techniques et justifiez d'une expérience minimum de 5 à 7 ans sur un poste similaire.Pour ce poste, vous devrez utiliser quotidiennement un engin de manutention(formation possible)Vous êtes à l'aise avec l'utilisation d'un ERP (Cegid) et faites preuve de méthode et d'organisationCompétence en informatique exigé.CACES 1 3 et 5 VALIDERecherche candidat qui cherche a s'investir sur du long terme\n Bienvenue chez Global Interim\n GLOBAL INTERIM, agence spécialisée dans le travail temporaire, recrutement CDD - CDI, vous accompagne depuis 2001 dans la gestion de votre carrière professionnelle.En rejoignant GLOBAL INTERIM, vous bénéficiez des avantages suivants :- les primes Indemnités de Fin de Mission (IFM) à 10% et Indemnités Compensatrice de Congés Payés (ICP) à 10%- un Compte Épargne Temps (CET) à 8% : c'est l'opportunité d'épargner à un taux avantageux- des Cartes cadeaux Parrainage : nous récompensons le parrainage avec des cartes cadeaux, reconnaissant la fidélité et l'engagement de nos intérimaires et les incitant à recommander notre agence- une Mutuelle santéContactez-nous et rejoignez-nous !",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:73063884",
+   "distance_km": 3.1,
+   "fp": "537475f18f4e52f4",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "hellowork:73063884",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Le poste exige les CACES 1, 3 et 5 valides, 5 à 7 ans d'expérience et l'usage d'un logiciel informatique.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Depocu forklift operatörü",
+    "summary_tr": "Depoda mal giriş ve çıkışı. Yer Vineuil.",
+    "tasks_tr": [
+     "Mal almak ve kontrol",
+     "Bilgisayara kayıt",
+     "Forklift kullanmak"
+    ],
+    "schedule_tr": "Pazartesi-cuma 8:00-12:00 ve 13:30-17:00",
+    "salary_tr": "Profile göre",
+    "duration_tr": "1 ay geçici, sonra belki süresiz",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste de magasinier. J'ai plusieurs années d'expérience en logistique et en préparation de commandes. Je suis sérieuse et rapide. Je reste disponible pour un échange."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57395021",
+   "title": "ELECTRCIEN (H/F)",
+   "url": "https://www.meteojob.com/jobs/57395021",
+   "company": "JOBANDTALENT",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": 47.70555,
+   "lon": 1.50621,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "14,5 € - 15 € par heure",
+   "hours": "Temps Plein",
+   "description": "Lieu : Mer (41500), Loir-et-Cher\n Prise de poste : Dès que possible\n Contrat : CDD de 2 mois renouvelable, avec possibilité d'évolution en CDI\n Rémunération : 14,50 € à 15,00 € brut/heure selon expérience\n Statut : Ouvrier qualifié\n Description du poste \n Nous recrutons un Électricien H/F pour intégrer l'atelier de montage d'une entreprise spécialisée dans la conception et la fabrication d'équipements nautiques.\n Vous serez chargé(e) de préparer, monter et câbler les installations électriques embarquées sur des postes de pilotage, tout en assurant les essais et les contrôles nécessaires à leur bon fonctionnement.\n Vous appréciez le travail technique, la lecture de plans et le secteur industriel ? Vous souhaitez mettre vos compétences en électricité au service d'un environnement spécialisé et stimulant ? Ce poste est fait pour vous !\n Vos missions \n Réaliser le montage et le câblage des installations électriques des postes de pilotage.\n Installer les réseaux électriques basse tension à partir de plans et de schémas techniques.\n Poser et raccorder les équipements électriques et électroniques embarqués.\n Assurer le passage des câbles, faisceaux et gaines techniques.\n Effectuer les raccordements électriques et électroniques sur les embarcations.\n Participer à l'intégration des équipements de navigation et de communication : GPS, radar, VHF, sondeur, etc.\n Réaliser les essais et les tests de fonctionnement des installations.\n Identifier et corriger les anomalies électriques constatées.\n Veiller au respect des normes électriques, des exigences qualité et des procédures en vigueur.\n Profil recherché \n Vous disposez d'une expérience professionnelle en électricité.\n Vous savez lire et interpréter des plans et des schémas électriques.\n Une expérience dans les secteurs de l'automobile ou des machines spéciales serait appréciée.\n Vous êtes rigoureux(se), méthodique et appréciez le travail en atelier.\n Vous êtes motivé(e) à l'idée de découvrir ou d'évoluer dans le secteur du nautisme.\n Horaires de travail \n Du lundi au jeudi : 7h30 - 12h30 / 13h15 - 16h15.\n Le vendredi : 7h30 - 12h00.\n Pauses de 10 minutes le matin et l'après-midi.\n Les avantages du poste \n Rémunération attractive selon votre expérience.\n Possibilité d'évolution vers un CDI.\n Participation et intéressement selon les résultats de l'entreprise.\n Prime de salissure.\n Indemnités kilométriques domicile-travail ou prise en charge à 50 % de l'abonnement SNCF.\n Chèques cadeaux à Noël et avantages proposés par le CSE.\n Titres-restaurant à compter du 1er janvier 2027.\n Mutuelle et prévoyance.\n Intéressé(e) par cette opportunité ? Postulez dès maintenant !\n Travailler en intérim \n Quand vous travaillez en intérim vous bénéficiez aussi, selon les dispositions légales:\n Indemnités de fin de missions\n Indemnités de congés payés\n Mutuelle à partir de 414 heures de travail\n Prévoyance\n Avantage FASTT https://www.fastt.org/\n Si ce poste vous intéresse, cliquez sur \"Postuler\" et un membre de notre équipe vous ",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Ouvrier de montage en électricité (H/F)"
+    ]
+   },
+   "uid": "meteojob:57395021",
+   "distance_km": 18.4,
+   "fp": "df1f1841652e3724",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "meteojob:57395021",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste d'électricien qualifié avec lecture de plans électriques.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Elektrikçi",
+    "summary_tr": "Mer'de tekne elektrik montajı. Uzmanlık gerekli.",
+    "tasks_tr": [
+     "Kablo döşemek",
+     "Elektrik bağlantısı",
+     "Test yapmak"
+    ],
+    "schedule_tr": "Pzt-perş 7:30-16:15, cuma 7:30-12:00",
+    "salary_tr": "Saat 14,50 - 15 € brüt",
+    "duration_tr": "2 ay, uzayabilir",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste. J'ai de l'expérience en production industrielle. Je suis rigoureuse. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "687d5356e37f35ea0b6cb9af6bc7447b",
+   "title": "Chef D'Équipe (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/687d5356e37f35ea0b6cb9af6bc7447b",
+   "company": "ADECCO.FR",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste de Chef d'Équipe (h/f)Notre Cabinet Adecco Recrutement recrute pour son client, acteur industriel basé à Blois (41), un Chef d'Équipe Production",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Chef d'équipe production"
+   },
+   "uid": "jobijoba:687d5356e37f35ea0b6cb9af6bc7447b",
+   "distance_km": 0.0,
+   "fp": "6fbd347fb647fd35",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/7c0724315c45b566265968a8a1477b82"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/8b6a7f444991ea583c7e6c220e0b1b19"
+    }
+   ],
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:687d5356e37f35ea0b6cb9af6bc7447b",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste d'encadrement d'équipe en production.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Ekip şefi",
+    "summary_tr": "Blois'da fabrikada ekip yönetmek. Yönetici işi.",
+    "tasks_tr": [
+     "Ekibi yönetmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste. J'ai plusieurs années d'expérience en production. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "00f72facb90d5029bed83d9115820574",
+   "title": "Infirmier anesthésiste en intérim (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/00f72facb90d5029bed83d9115820574",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "la prise en charge anesthésique des patients en chirurgie programmée et d'urgence, en veillant au respect strict des protocoles de sécurité. La mission",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:00f72facb90d5029bed83d9115820574",
+   "distance_km": 0.0,
+   "fp": "4a7c276845bfc86d",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:00f72facb90d5029bed83d9115820574",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste médical qui exige un diplôme d'infirmier anesthésiste.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi",
+    "summary_tr": "Blois'da hastanede anestezi işi. Diploma şart.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yıllık 32 000 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par cette offre. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "177a3fed6ea17846bb0e79267daff0b2",
+   "title": "Infirmier anesthésiste intérimaire (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/177a3fed6ea17846bb0e79267daff0b2",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "à l'Ordre National des Infirmiers * Expérience réussie au sein d'un bloc opératoire polyvalent * Rigueur, réactivité et excellent sens du",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:177a3fed6ea17846bb0e79267daff0b2",
+   "distance_km": 0.0,
+   "fp": "265027eee1b2d5fa",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/395c61b779cfc92a1f31c50f48691fa6"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/3e6249f159d53a2b12a2dcb7957db246"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/bfb9a7dd2a370d46c85f001e17773b63"
+    }
+   ],
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:177a3fed6ea17846bb0e79267daff0b2",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi (geçici)",
+    "summary_tr": "Ameliyathanede anestezi hemşiresi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 32 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "23663c6b972088b2c6596ad7beb56b70",
+   "title": "Infirmier anesthésiste diplômé d'État (H/F) en intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/23663c6b972088b2c6596ad7beb56b70",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "en intérim du 30 novembre au 3 décembre et le 18 décembre à Blois, Loir-et-Cher. Le poste implique la prise en charge anesthésique des patients en chirurgie",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:23663c6b972088b2c6596ad7beb56b70",
+   "distance_km": 0.0,
+   "fp": "84bdff45041e04a8",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:23663c6b972088b2c6596ad7beb56b70",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Diplomalı anestezi hemşiresi (geçici)",
+    "summary_tr": "Blois'da ameliyatta anestezi işi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 32 000 €",
+    "duration_tr": "30 Kasım - 3 Aralık ve 18 Aralık",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "2b3f98b8d2687be669d513ea772afd86",
+   "title": "Infirmier anesthésiste (H/F) intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/2b3f98b8d2687be669d513ea772afd86",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "(IADE) est à pourvoir en intérim dans un établissement de Blois, dans le Loir-et-Cher. Vous interviendrez du 30 novembre au 3 décembre et le 18 décembre sur",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:2b3f98b8d2687be669d513ea772afd86",
+   "distance_km": 0.0,
+   "fp": "aaa4e60270e02950",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/ad9ef18aadcb10bf3beb1f7658bd2d90"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/ca3f9dd7f7f034abd9fc99b4870ae4f4"
+    }
+   ],
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:2b3f98b8d2687be669d513ea772afd86",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi (geçici)",
+    "summary_tr": "Blois'da bir hastanede anestezi işi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 32 000 €",
+    "duration_tr": "30 Kasım - 3 Aralık ve 18 Aralık",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "318d5aa36db949a19e6bfa3ee5d681ee",
+   "title": "Infirmier anesthésiste DE (H/F) intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/318d5aa36db949a19e6bfa3ee5d681ee",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "de courte durée dans un établissement de Blois, Loir-et-Cher. Vous interviendrez du 30 novembre au 3 décembre et le 18 décembre sur des horaires de jour",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:318d5aa36db949a19e6bfa3ee5d681ee",
+   "distance_km": 0.0,
+   "fp": "a14ba3cb41ccd594",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:318d5aa36db949a19e6bfa3ee5d681ee",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi (geçici)",
+    "summary_tr": "Blois'da kısa süreli anestezi işi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Yılda 32 000 €",
+    "duration_tr": "30 Kasım - 3 Aralık ve 18 Aralık",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "423a7677e4c649794e8461ddedf4f914",
+   "title": "Infirmier anesthésiste (H/F) en intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/423a7677e4c649794e8461ddedf4f914",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "d'infirmier anesthésiste diplômé d'État (IADE) est à pourvoir en intérim dans un établissement de la ville de Blois, dans le département du",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:423a7677e4c649794e8461ddedf4f914",
+   "distance_km": 0.0,
+   "fp": "419a35be53c231db",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:423a7677e4c649794e8461ddedf4f914",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi (geçici)",
+    "summary_tr": "Blois'da anestezi hemşiresi işi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 32 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "6deeee3e16340a5b51b064b5b7dd6dc6",
+   "title": "Infirmier anesthésiste IDE (H/F) intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/6deeee3e16340a5b51b064b5b7dd6dc6",
+   "company": "Hiring & Apply",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "32 000 € par an",
+   "hours": "",
+   "description": "18 décembre dans une clinique à Blois. Vous travaillerez en horaires de jour bien équilibrés, de 7h30 à 16h30, avec une rémunération comprise entre 27 € et 32",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:6deeee3e16340a5b51b064b5b7dd6dc6",
+   "distance_km": 0.0,
+   "fp": "5bc562dbe9d20e72",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:6deeee3e16340a5b51b064b5b7dd6dc6",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier anesthésiste qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi (geçici)",
+    "summary_tr": "Blois'da bir klinikte anestezi işi. Diploma gerekli.",
+    "tasks_tr": [
+     "Hastaya anestezi yapmak"
+    ],
+    "schedule_tr": "7:30 - 16:30",
+    "salary_tr": "Saati 27-32 €",
+    "duration_tr": "18 Aralık'a kadar",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "a8554f729dfa9a4e1e4cee1f15b6b2f2",
+   "title": "RESPONSABLE D'AGENCE DE TRAVAIL TEMPORAIRE - BLOIS H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/a8554f729dfa9a4e1e4cee1f15b6b2f2",
+   "company": "Camo Emploi",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "continue son développement et s'apprête à conquérir Blois avec l'ouverture de sa nouvelle agence : une opportunité unique de rejoindre une aventure",
+   "published": "2026-11-01",
+   "phone": "",
+   "extra": {
+    "metier": "Directeur d'agence"
+   },
+   "uid": "jobijoba:a8554f729dfa9a4e1e4cee1f15b6b2f2",
+   "distance_km": 0.0,
+   "fp": "fe22219d22f388e2",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:a8554f729dfa9a4e1e4cee1f15b6b2f2",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de direction d'agence avec beaucoup de relationnel et de français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Geçici iş ajansı müdürü",
+    "summary_tr": "Blois'da yeni ajansı yönetmek. Yönetici işi.",
+    "tasks_tr": [
+     "Ajansı yönetmek",
+     "Müşteri bulmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "b86ae8a559c5c0b33c15ca479af7f4d6",
+   "title": "Infirmier D.E H/F - EHPAD - situé entre Blois et Vendôme - Intérim",
+   "url": "https://www.jobijoba.com/fr/annonce/54/b86ae8a559c5c0b33c15ca479af7f4d6",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "* Profitez des services du FASTT : aide au logement, garde d'enfants, location de véhicule, accompagnement social et bien plus encore. Notre équipe reste",
+   "published": "2026-10-30",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier ehpad"
+   },
+   "uid": "jobijoba:b86ae8a559c5c0b33c15ca479af7f4d6",
+   "distance_km": 0.0,
+   "fp": "f932f9c159cd63fa",
+   "first_seen": "2026-11-01",
+   "ai": {
+    "uid": "jobijoba:b86ae8a559c5c0b33c15ca479af7f4d6",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire - huzurevi (geçici)",
+    "summary_tr": "Blois ve Vendôme arası bir huzurevinde hemşirelik. Diploma gerekli.",
+    "tasks_tr": [
+     "Yaşlılara bakım"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
   {
    "source": "jobijoba",
    "source_id": "c3096d41e8bcebc72ba6f1fc650bc14f",
