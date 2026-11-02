@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:26:30+00:00",
+ "updated": "2026-11-02T21:03:12+00:00",
  "offers": [
   {
    "source": "jobijoba",
@@ -200,6 +200,51 @@
     "salary_tr": "Saati 12,31 €",
     "duration_tr": "Uzun süreli geçici iş",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice sur robot de soudure et plieuse. J'ai plusieurs années d'expérience en intérim en production, avec du contrôle visuel et de la manutention. Je suis rapide et rigoureuse. Je peux commencer dès lundi et m'engager sur le long terme."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "1d625e6e726d74326e649d2a12c3c2a2",
+   "title": "Agent de Tri H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/1d625e6e726d74326e649d2a12c3c2a2",
+   "company": "Staffmatch",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "1 868 € par mois",
+   "hours": "",
+   "description": "Vos missions\nRéceptionner les marchandises et contrôler leur conformité à la livraison \n- Vérifier les quantités, les références et l'état des produits par rapport aux bons de livraison \n- Décharger, déplacer et stocker les marchandises à l'aide des engins de manutention \n- Trier, identifier et ranger les produits dans les zones de stockage adaptées \n- Préparer les commandes et les marchandises destinées aux magasins ou aux clients \n- Approvisionner les rayons et les différents espaces de vente en fonction des besoins \n- Participer au chargement et au déchargement des marchandises \n- Assurer le suivi des stocks et signaler les éventuelles anomalies ou ruptures \n- Veiller au respect des consignes de sécurité lors de la manutention et du déplacement des marchandises",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Agent de tri",
+    "first_published": "2026-11-02"
+   },
+   "uid": "jobijoba:1d625e6e726d74326e649d2a12c3c2a2",
+   "distance_km": 18.4,
+   "fp": "3854cd37eb7f9c10",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:1d625e6e726d74326e649d2a12c3c2a2",
+    "suitable": true,
+    "score": 68,
+    "reason_fr": "Poste de tri et préparation de commandes proche de son expérience, mais l'usage d'engins pourrait être demandé.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Ayıklama elemanı (depo)",
+    "summary_tr": "Mer'de depoda ürün ayıklama ve sipariş hazırlama. Mal kabul ve yükleme de var.",
+    "tasks_tr": [
+     "Ürünleri ayıklamak ve yerleştirmek",
+     "Sipariş hazırlamak",
+     "Yükleme boşaltma"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Ayda 1 868 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'agent de tri à Mer. J'ai plusieurs années d'expérience en intérim dans la préparation de commandes, le tri de colis et la manutention. Je suis rapide, sérieuse et disponible pour tous les horaires. J'ai le permis B et une voiture."
    }
   },
   {
@@ -642,6 +687,188 @@
    }
   },
   {
+   "source": "francetravail",
+   "source_id": "215YCMD",
+   "title": "Cariste  (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YCMD",
+   "company": "CRIT INTERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Rejoignez une équipe dynamique, avec une bonne ambiance et venez travailler chez nos clients ! Nous recrutons des Caristes 1 3 5 sur Blois\nVos missions : \n- Charger-décharger les...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215YCMD",
+   "distance_km": 0.0,
+   "fp": "a2417fa44e73dfab",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215YCMD",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de cariste qui demande le CACES 1, 3, 5 qu'elle n'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Forklift operatörü",
+    "summary_tr": "Depoda forkliftle yük taşımak. Yer: Blois.",
+    "tasks_tr": [
+     "Yük yüklemek ve indirmek"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57850906",
+   "title": "Cariste en préparation logistique F/H",
+   "url": "https://www.meteojob.com/jobs/57850906",
+   "company": "SYNERGIE",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": 47.70555,
+   "lon": 1.50621,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "À partir de 20 000 € par an",
+   "hours": "Temps Plein",
+   "description": "Rattaché(e) au Responsable Logistique, vous intervenez au cœur de l'activité et jouez un rôle clé dans la fluidité des opérations.\nVos missions principales :\n- Préparer les commandes à l'aide du CACES 1B et/ou CACES 5 (R489),\n- Effectuer le chargement et le déchargement des camions,\n- Participer activement aux opérations de manutention, notamment la manipulation de pneumatiques.\nLe poste implique un effort physique réel, avec du port de charges répétitif. C'est un environnement de travail stimulant, idéal pour les personnes aimant les défis physiques, le travail d'équipe et les journées qui passent vite.\nConditions et avantages :\n- Horaires : Journée en 2x8, selon l'organisation\n- Prime mensuelle : 40 € brut, spécifiquement liée au port de charges\n- Poste formateur, dynamique et valorisant sur le plan opérationnel\nVous avez une expérience réussie en conduite de chariots, vous aimez travailler en équipe et vous êtes reconnu(e) pour votre organisation ?\nAlors cette opportunité est faite pour vous.\nCe poste comporte un rythme dynamique et implique du port de charges régulier, idéal pour les personnes recherchant un travail physique et actif dans un environnement logistique.\nIntéressé(e) ? Alors, candidatez !\nNotre équipe de recruteurs prendra contact avec vous dès réception de votre candidature !\n<20 K€",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Cariste logistique (H/F)",
+     "Cariste (H/F)",
+     "Responsable logistique (H/F)",
+     "Chef d'équipe logistique (H/F)"
+    ]
+   },
+   "uid": "meteojob:57850906",
+   "distance_km": 18.4,
+   "fp": "74d54ffb65eb28db",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "meteojob:57850906",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Le poste demande le CACES 1B ou 5 et une expérience de cariste, qu'elle n'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Forklift operatörü (depo)",
+    "summary_tr": "Mer'de depoda forklift ile sipariş hazırlamak. CACES belgesi şart.",
+    "tasks_tr": [
+     "Forklift ile sipariş hazırlamak",
+     "Kamyon yükleme boşaltma",
+     "Lastik taşımak"
+    ],
+    "schedule_tr": "Tam zaman, 2 vardiya (2x8)",
+    "salary_tr": "Yılda yaklaşık 20 000 €, ayda 40 € ek prim",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57855247",
+   "title": "Agent de bascule H/F",
+   "url": "https://www.meteojob.com/jobs/57855247",
+   "company": "ARTUS INTERIM",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.59432,
+   "lon": 1.32912,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € - 13 € par heure",
+   "hours": "Temps Plein",
+   "description": "L'agence ARTUS Blois, recherche pour son client spécialisé en recyclage un AGENT DE BASCULE H/F. Votre mission :\n- Assurer l'accueil des chauffeurs\n- Réalisé les pesées de matériaux\n- Gérer la saisie et la mise à jour des dossiers administratifs\n- Gérer le planning de livraisons\nHoraires : contrat du lundi au vendredi de 8h à 12h et 13H30 à 16h30\nSalaire : 12.60EUR/H Brut\nAvantages rémunération : 10% d'Indemnité de Fin de Mission + 10% de Congés Payés\nProcessus de recrutement : après étude de votre candidature, si celle-ci correspond, nous vous recontacterons pour un entretien puis une inscription en agence fin de démarrer votre mission.\n- Ne jamais mentionner la possibilité d'un CDI dans une offre d'intérim.\nDe formation de type administratif, vous avez déjà pu occuper un poste similaire, ou dans le milieu BTP / agricole.\nVous êtes à l'aise avec l'accueil physique et téléphonique et saurez prioriser vos tâches.\nVous avez idéalement des connaissances en matériaux de type métaux et saurez appréhender rapidement les spécificités des différents produits à traiter.\nVous maîtrisez la gestion administrative de dossiers et de plannings. 1 an sur un poste similaire\n10% indemnités fin de mission 10% CP",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Agent de bascule (H/F)",
+     "Agent de bascule et logistique flux matières en métallurgie (H/F)"
+    ]
+   },
+   "uid": "meteojob:57855247",
+   "distance_km": 1.0,
+   "fp": "573c8ec6aee2731a",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "meteojob:57855247",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste administratif avec accueil téléphonique et saisie, le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kantar görevlisi",
+    "summary_tr": "Blois'da geri dönüşüm firmasında tartı ve evrak işi. Çok telefon ve yazı var.",
+    "tasks_tr": [
+     "Şoförleri karşılamak",
+     "Malzeme tartmak",
+     "Evrak ve plan tutmak"
+    ],
+    "schedule_tr": "Pazartesi-cuma 8:00-12:00 ve 13:30-16:30",
+    "salary_tr": "Saati 12,60 € brüt + %10 + %10",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3cbc52d39e80ee1a1dec5e81643f2762",
+   "title": "Fraiseur H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3cbc52d39e80ee1a1dec5e81643f2762",
+   "company": "Sphère Intérim",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 1 960 € à 2 312 € par mois",
+   "hours": "",
+   "description": "- Réaliser la maintenance de premier niveau des équipements - Respecter les cadences et les consignes de sécurité Ici, la précision compte autant que la",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Fraiseur"
+   },
+   "uid": "jobijoba:3cbc52d39e80ee1a1dec5e81643f2762",
+   "distance_km": 0.0,
+   "fp": "7c248a0084ecfaaf",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:3cbc52d39e80ee1a1dec5e81643f2762",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de fraiseur qualifié avec maintenance, nécessite une formation technique en usinage.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Freze operatörü",
+    "summary_tr": "Blois'da metal parçaları freze makinesiyle işlemek. Teknik bilgi gerekir.",
+    "tasks_tr": [
+     "Freze makinesini kullanmak",
+     "Makinenin basit bakımı",
+     "Hıza ve güvenliğe uymak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Ayda 1 960 € - 2 312 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en production et en conditionnement en intérim. Je suis rapide, sérieuse et disponible tout de suite. Merci pour votre réponse."
+   }
+  },
+  {
    "source": "jobijoba",
    "source_id": "280dc54a6107c6d3adca4dc8753e2fc6",
    "title": "Chef D'Équipe Logistique H/F - €33.000 Par An",
@@ -951,6 +1178,263 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215XZMW",
+   "title": "Hôte de Caisse (h/f) (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XZMW",
+   "company": "ADECCO",
+   "city": "Villebarou",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "Adecco recherche un Hôte de caisse (h/f) à Villebarou :\nVos missions :\n - Vous contribuez à une expérience d'achat fluide, depuis l'accueil jusqu'à l'encaissement final.\n - Assurer l'ouverture et...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215XZMW",
+   "distance_km": 4.3,
+   "fp": "6884d6d162fe79c6",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215XZMW",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de caisse et d'accueil où le français oral est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kasiyer",
+    "summary_tr": "Mağazada kasada çalışmak. Yer: Villebarou.",
+    "tasks_tr": [
+     "Müşteri karşılamak",
+     "Ödeme almak"
+    ],
+    "schedule_tr": "Yarım gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215YHGK",
+   "title": "Cuisinier (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YHGK",
+   "company": "ACTUAL BLOIS 1014",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "L'agence Actual recherche pour l'un de ses clients un Cuisinier grillardin (h/f) \nDans le cadre de cette mission vous serez en charge principalement de la cuisson des viandes et veillerez à la...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215YHGK",
+   "distance_km": 0.0,
+   "fp": "f4f96fe01d3b9b60",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215YHGK",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de cuisinier qualifié, hors de son expérience.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Aşçı (ızgara)",
+    "summary_tr": "Restoranda et pişirmek. Yer: Blois.",
+    "tasks_tr": [
+     "Et pişirmek"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215YCVN",
+   "title": "Enquêteur TRAINS REGIONAUX BLOIS H/F (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YCVN",
+   "company": "EN-QUALITE",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "Pour le compte de la Région Centre Val de Loire, autorité organisatrice des transports, vous serez en charge de poser un questionnaire d'intérêt général à tous les usagers des lignes Rémi (cars)...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215YCVN",
+   "distance_km": 0.0,
+   "fp": "afa139b2593ea9b0",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215YCVN",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Enquêteur : poser des questions aux usagers, le français oral est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anketör",
+    "summary_tr": "Tren ve otobüs yolcularına anket yapmak. Yer: Blois.",
+    "tasks_tr": [
+     "Yolculara soru sormak"
+    ],
+    "schedule_tr": "Yarım gün",
+    "salary_tr": "",
+    "duration_tr": "Belirli süreli",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8473815",
+   "title": "Canalisateur Maçon VRD (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8473815",
+   "company": "Adwork's Contres",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "nous recrutons un Poseur Maçon VRD H/F pour l'un de ses clients spécialisé dans les Travaux Publics. \nPose de buses en béton de diamètre 800 \nraccordement\nréglage\npetites maçonneries \n Vous...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:8473815",
+   "distance_km": 3.1,
+   "fp": "7d35b46eb751b8cd",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:8473815",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Métier qualifié du bâtiment (maçon VRD), hors de son parcours.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kanal ve yol işçisi",
+    "summary_tr": "Beton boru döşeme ve küçük duvar işi. Yer: Vineuil.",
+    "tasks_tr": [
+     "Boru döşemek",
+     "Küçük duvar işi"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3bd75c5b2a28e55879587431ba4863a9",
+   "title": "Carreleur H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3bd75c5b2a28e55879587431ba4863a9",
+   "company": "Global Interim",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "différents types de bâtiments tels que des maisons, des bureaux ou des commerces. Vos missions principales seront les suivantes : - Préparation des surfaces à",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Carreleur"
+   },
+   "uid": "jobijoba:3bd75c5b2a28e55879587431ba4863a9",
+   "distance_km": 0.0,
+   "fp": "5b1241cb7fc77a76",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:3bd75c5b2a28e55879587431ba4863a9",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Métier qualifié du bâtiment qui demande une formation de carreleur.",
+    "category": "diger",
+    "french_level": "az",
+    "title_tr": "Fayansçı",
+    "summary_tr": "Blois'da binalarda fayans döşemek. Meslek bilgisi gerekli.",
+    "tasks_tr": [
+     "Yüzey hazırlamak",
+     "Fayans döşemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "0a6048b8917fa3882770e588789e9748",
+   "title": "Vendeur en Cosmétique H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/0a6048b8917fa3882770e588789e9748",
+   "company": "Staffmatch",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Horaires : Lundi au samedi - Horaires compris entre : 09h45 et 19h45 À pourvoir dans l'immédiat Lieux : Établissement de vente parfumerie/cosmétique",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Vendeur cosmétique"
+   },
+   "uid": "jobijoba:0a6048b8917fa3882770e588789e9748",
+   "distance_km": 0.0,
+   "fp": "58fe2f20848a2f75",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:0a6048b8917fa3882770e588789e9748",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de vente en magasin, le français oral avec les clients est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kozmetik satış elemanı",
+    "summary_tr": "Blois'da bir parfüm mağazasında satış. Müşterilerle çok konuşmak gerekir.",
+    "tasks_tr": [
+     "Müşterilere tavsiye vermek",
+     "Ürün satmak",
+     "Rafları düzenlemek"
+    ],
+    "schedule_tr": "Pazartesi-cumartesi, 09:45-19:45 arası",
+    "salary_tr": "Saatte 12,31 €",
+    "duration_tr": "Hemen başlıyor, geçici iş",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en conditionnement dans la cosmétique. Je suis sérieuse et disponible tout de suite. Merci pour votre réponse."
    }
   },
   {
@@ -1385,6 +1869,440 @@
     "salary_tr": "Yılda 30.000 € - 34.000 €",
     "duration_tr": "",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8477032",
+   "title": "TRAVAILLEUR SOCIAL - H/F - Service Social Accueil Évaluation et Orientation territoire Centre (CDD de 8 mois)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8477032",
+   "company": "CD41",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Entreprise \nNOS PRIORITÉS\n * Réaliser notre projet d'administration \"Loir-et-Cher en action\"\n * Mettre en œuvre notre agenda 2030 pour répondre aux enjeux environnementaux et sociétaux\n *...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "Intuition Software"
+   },
+   "uid": "francetravail:8477032",
+   "distance_km": 0.0,
+   "fp": "472dbd1e160a421e",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:8477032",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de travailleur social qui exige un diplôme d'État et beaucoup de français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Sosyal görevli",
+    "summary_tr": "İnsanlara sosyal yardım ve yönlendirme. Yer: Blois.",
+    "tasks_tr": [
+     "İnsanları dinlemek",
+     "Yönlendirmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "8 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215YBZX",
+   "title": "Soudeur (h/f) (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YBZX",
+   "company": "ADECCO",
+   "city": "Fossé",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Adecco, spécialiste du recrutement en CDD, CDI et intérim recherche pour l'un de ses clients, leader mondial dans le domaine de la conception, du développement et de la fabrication de pièces de haute...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215YBZX",
+   "distance_km": 6.6,
+   "fp": "3414d86c95710893",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215YBZX",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le poste de soudeur exige une qualification.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Kaynakçı",
+    "summary_tr": "Fabrikada kaynak işi. Yer: Fossé.",
+    "tasks_tr": [
+     "Kaynak yapmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "215XXTJ",
+   "title": "Animateur (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XXTJ",
+   "company": "MAIRIE",
+   "city": "Chailles",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "La commune de Chailles recrute au sein du service Enfance Jeunesse, un(e) animateur(trice) \nPoste à pourvoir du 04-01-2027 au 31-08-2027.\nLes missions du service :\nAccueillir et accompagner les...",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:215XXTJ",
+   "distance_km": 5.7,
+   "fp": "21b25bd8aa11f403",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "francetravail:215XXTJ",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Animation avec des enfants, le français et un diplôme sont nécessaires.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Çocuk animatörü",
+    "summary_tr": "Belediyede çocuklarla etkinlik. Yer: Chailles.",
+    "tasks_tr": [
+     "Çocuklarla ilgilenmek"
+    ],
+    "schedule_tr": "Yarım gün",
+    "salary_tr": "",
+    "duration_tr": "04.01.2027 - 31.08.2027",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85044191",
+   "title": "Chauffeur Bus Urbain - Interurbain H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85044191.html",
+   "company": "Partnaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "22 000 € / an",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85044191",
+   "distance_km": 0.0,
+   "fp": "88747aa0194c4027",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "hellowork:85044191",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Ce poste exige un permis transport en commun (D) qu'elle n'a pas.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Şehir otobüsü şoförü",
+    "summary_tr": "Blois'da otobüs kullanmak. Özel ehliyet gerekli.",
+    "tasks_tr": [
+     "Otobüs kullanmak",
+     "Yolcu taşımak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Yılda 22 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "7b96f53ea2eb698057bdfdc1b2045ed0",
+   "title": "Responsable D’exploitation - Snea 2026 F/H",
+   "url": "https://www.jobijoba.com/fr/annonce/54/7b96f53ea2eb698057bdfdc1b2045ed0",
+   "company": "DOMAINE LA PORTE DOREE CONSERVERIE & CONFITURERIE DE CHEVERNY",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Gestion de la chaîne de production : Gestion des stocks et des approvisionnements Gestion des achats de matières premières et emballages , sélection de",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Responsable exploitation"
+   },
+   "uid": "jobijoba:7b96f53ea2eb698057bdfdc1b2045ed0",
+   "distance_km": 0.0,
+   "fp": "b4e7b6c2c65f50cd",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/c9f327cbb681ef896170c7397e8efd9b"
+    }
+   ],
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:7b96f53ea2eb698057bdfdc1b2045ed0",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'encadrement et de gestion, hors de son profil.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "İşletme müdürü",
+    "summary_tr": "Blois'da konserve fabrikasında yönetim işi. Stok ve satın alma yönetimi.",
+    "tasks_tr": [
+     "Üretimi yönetmek",
+     "Stok yönetmek",
+     "Satın alma"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "24eb26c5ebabb50c6878f2728aa39d32",
+   "title": "CONSEILLER COMMERCIAL EN INTéRIM",
+   "url": "https://www.jobijoba.com/fr/annonce/54/24eb26c5ebabb50c6878f2728aa39d32",
+   "company": "Connectt",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "travail temporaire / agence d'intérim en tant que Responsable d'agence ou Commercial(e) d'agence : 1 an Portefeuille client : Facultatif Nous",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Conseiller commercial"
+   },
+   "uid": "jobijoba:24eb26c5ebabb50c6878f2728aa39d32",
+   "distance_km": 0.0,
+   "fp": "a769eb5be5b8d8ca",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:24eb26c5ebabb50c6878f2728aa39d32",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste commercial où le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış danışmanı (geçici iş ajansı)",
+    "summary_tr": "Blois'da iş ajansında satış işi. Çok konuşma gerekir.",
+    "tasks_tr": [
+     "Müşteri bulmak",
+     "Satış yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "cd33eed23314c85f10f8a12aeb877a21",
+   "title": "COMMERCIAL EN INTERIM (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/cd33eed23314c85f10f8a12aeb877a21",
+   "company": "Connectt",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "travail temporaire / agence d'intérim en tant que Responsable d'agence ou Commercial(e) d'agence : 1 an Portefeuille client : Facultatif Nous",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Commercial"
+   },
+   "uid": "jobijoba:cd33eed23314c85f10f8a12aeb877a21",
+   "distance_km": 0.0,
+   "fp": "456a2b84a69be767",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:cd33eed23314c85f10f8a12aeb877a21",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste commercial où le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış elemanı (geçici iş ajansı)",
+    "summary_tr": "Blois'da iş ajansında satış işi. Çok konuşma gerekir.",
+    "tasks_tr": [
+     "Müşteri bulmak",
+     "Satış yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "540b37812a242bdaa3d4da4d45a7725a",
+   "title": "Responsable D'Agence De Travail Temporaire D'Insertion - H/F - €2.800 - €3.000 Par Mois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/540b37812a242bdaa3d4da4d45a7725a",
+   "company": "Id'Ees Interim",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "sociale axé sur l'insertion professionnelle de personnes en difficulté. Responsable du développement commercial, du management d'équipe, et de la",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Directeur d'agence"
+   },
+   "uid": "jobijoba:540b37812a242bdaa3d4da4d45a7725a",
+   "distance_km": 0.0,
+   "fp": "d36d1ac8c5dee755",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:540b37812a242bdaa3d4da4d45a7725a",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'encadrement et commercial, le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Geçici iş ajansı müdürü",
+    "summary_tr": "Blois'da bir iş ajansını yönetmek. Ekip ve satış işi var.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Yeni müşteri bulmak",
+     "Ajansı geliştirmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Ayda 2 800 € - 3 000 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre agence à Blois. J'ai plusieurs années d'expérience en intérim dans la logistique et le conditionnement. Je suis disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3b89a88246961c2db1b53c6017d67514",
+   "title": "INFIRMIER ANESTHÉSISTE DE (F/H)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3b89a88246961c2db1b53c6017d67514",
+   "company": "Select TT- Appel Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "s'appuie sur une culture d'excellence, de sécurité des soins et de bienveillance. Vous intégrerez un plateau technique d'envergure doté",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier anesthésiste"
+   },
+   "uid": "jobijoba:3b89a88246961c2db1b53c6017d67514",
+   "distance_km": 0.0,
+   "fp": "7182c0649ae13a6c",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:3b89a88246961c2db1b53c6017d67514",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Exige un diplôme d'infirmier anesthésiste.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Anestezi hemşiresi",
+    "summary_tr": "Blois'da hastanede anestezi hemşiresi. Diploma gerekir.",
+    "tasks_tr": [
+     "Ameliyatta anestezi yardımı",
+     "Hastayı takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par un travail à Blois. J'ai plusieurs années d'expérience en intérim en production. Je suis disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "57051949ac2ce2c1d52ca5722e5303a5",
+   "title": "Infirmier H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/57051949ac2ce2c1d52ca5722e5303a5",
+   "company": "Staffmatch",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "16,63 € de l'heure",
+   "hours": "",
+   "description": "bon esprit d'équipe - Vous êtes dynamique et autonome dans votre travail - Les jeunes diplômé(e)s sont accepté(e)s (non soumis Loi Valletoux) Prérequis",
+   "published": "2026-11-02",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:57051949ac2ce2c1d52ca5722e5303a5",
+   "distance_km": 0.0,
+   "fp": "b237457fcb9c3db8",
+   "first_seen": "2026-11-02",
+   "ai": {
+    "uid": "jobijoba:57051949ac2ce2c1d52ca5722e5303a5",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Exige un diplôme d'infirmier.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire",
+    "summary_tr": "Blois'da hemşirelik işi. Diploma gerekir.",
+    "tasks_tr": [
+     "Hastalara bakım",
+     "Ekiple çalışmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 16,63 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par un travail à Blois. J'ai plusieurs années d'expérience en intérim en production. Je suis disponible rapidement. Merci pour votre réponse."
    }
   },
   {
