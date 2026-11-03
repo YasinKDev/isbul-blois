@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:48:43+00:00",
+ "updated": "2026-11-03T18:50:52+00:00",
  "offers": [
   {
    "source": "hellowork",
@@ -46,6 +46,59 @@
     "salary_tr": "Saat 12,80 € + primler + yemek parası",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de conditionnement à Villebarou. J'ai plusieurs années d'expérience en conditionnement et étiquetage dans la cosmétique et la pharmacie. Je suis rapide, minutieuse et j'accepte le travail en 2x8. Je suis disponible rapidement et j'ai une voiture."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85099841",
+   "title": "Operateur de Production H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85099841.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n SUPPLAY, infiniment humain depuis 1968 \nDepuis plus de 50 ans, Supplay accompagne les talents dans leur parcours professionnel avec une conviction forte : placer l'humain au coeur de chaque décision. \nChez nous, prendre le temps de vous connaître n'est pas une option, c'est notre métier. Comprendre votre parcours, vos compétences et vos ambitions nous permet de vous proposer des missions qui vous correspondent vraiment. \nQue vous recherchiez un emploi en CDD, CDI, alternance ou intérim, dans le BTP, l'industrie, le nautisme, le transport, la logistique, le pharmaceutique, l'agroalimentaire ou le tertiaire, nos équipes vous accompagnent à chaque étape. \nDu développement de vos compétences grâce à des formations, à votre arrivée chez nos clients pour des missions ponctuelles ou de longue durée, nos équipes sont à vos côtés. \nAvec 180 agences réparties partout en France, nous privilégions une relation de proximité, basée sur l'écoute, la confiance et la transparence. \nNos règles d'or : \n* 100 % maison : un accompagnement par nos équipes à chaque étape de votre mission. \n* La sécurité : votre sécurité et vos conditions de travail sont une priorité. \n* La proximité : des agences proches de vous et à l'écoute du marché local. \n* Du temps pour les talents : comprendre votre parcours pour mieux vous accompagner. \n* La fidélisation : construire une relation durable avec nos intérimaires. \n* La solidarité : valoriser chaque talent et favoriser l'inclusion. \n* Le digital au service de l'humain : avec l'application Supplayer, gérez simplement vos missions et vos contrats. \nRejoindre Supplay, c'est accéder à de nombreuses opportunités professionnelles tout en bénéficiant d'un accompagnement infiniment humain et d'avantages tout au long de votre parcours.\nAu sein d'un site industriel spécialisé dans la fabrication de produits destinés au secteur agroalimentaire, vous participez aux différentes étapes de production dans le respect des consignes de qualité, d'hygiène et de sécurité. \nVos principales missions seront : \nAlimenter les lignes de production en matières premières ; \nRéaliser les opérations de fabrication selon les procédures établies ; \nEffectuer le contrôle visuel et qualitatif des produits ; \nAssurer le conditionnement et l'emballage des produits finis ; \nRenseigner les documents de suivi de production ; \nParticiper au nettoyage et au rangement du poste de travail ; \nRespecter strictement les règles d'hygiène, de sécurité et de traçabilité propres au milieu agroalimentaire.\n Le profil recherché\n Une première expérience en industrie ou en production est appréciée ;Vous êtes rigoureux(se), dynamique et appréciez le travail en équipe ;Vous êtes sensible aux règles d'hygiène et de qualité ;Vous êtes capable de suivre une cadence de production tout en maintenant un travail soigné ;Débutant(e) motivé(e) accepté(e).\n Bienvenue chez Supplay\n SUPPLAY, infiniment humain depuis 1968Depuis plus de 50 ans, Supplay accompagne les talents da",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85099841",
+   "distance_km": 0.0,
+   "fp": "cb04bbf75442c6ff",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/ab182a1a3751dc4bcbf31c40b75eabfc"
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85099841",
+    "suitable": true,
+    "score": 90,
+    "reason_fr": "Opérateur de production agroalimentaire avec conditionnement, débutant accepté, à Blois.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim işçisi",
+    "summary_tr": "Gıda fabrikasında üretim ve paketleme yaparsınız. Yer: Blois.",
+    "tasks_tr": [
+     "Hatta malzeme koymak",
+     "Ürünleri kontrol etmek",
+     "Paketlemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de production à Blois. J'ai plusieurs années d'expérience en intérim en conditionnement, emballage et tri. Je suis rapide, endurante et j'accepte tous les horaires. Je suis disponible rapidement."
    }
   },
   {
@@ -96,6 +149,53 @@
     "salary_tr": "Saatte 12,8 €",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je souhaite postuler au poste d'opératrice de conditionnement à Blois. J'ai plusieurs années d'expérience en conditionnement et étiquetage dans la cosmétique et la pharmacie. Je travaille vite et bien, et j'accepte tous les horaires. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85100154",
+   "title": "Conditionneur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85100154.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Le Controis-en-Sologne",
+   "postal_code": "41120",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n Le Groupe Adwork's est un groupe de travail temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel. \nNotre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\nNous recherchons pour notre client, des Conditionneurs H/F \nAu sein de l'usine de notre client, fabrication agroalimentaire, vous serez en charge de Contrôler la qualité des produits nus, des emballages, des produits finis, d'informer votre responsable en cas de non-conformités, de réaliser le conditionnement des produits \nposte en Horaire de travail 3x8 (du lundi au vendredi) ou en 2x8 selon l'endroit ou vous êtes affectés \npossibilité d'évolution vers poste de conducteur de machines, ainsi si vous le souhaitez la mission peut durer longtemps et une embauche est possible\n Le profil recherché\n Débutant accepté. Une expérience en industrie serait un plus.Vous êtes reconnu pour votre esprit d'équipe et vos qualités relationnelles. Ponctuel, rigoureux et méthodique.\n Bienvenue chez Adwork’s Travail Temporaire\n Le Groupe Adwork's est un groupe de travail temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel. Notre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\n Mais aussi...\n panier, primes",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85100154",
+   "distance_km": 19.9,
+   "fp": "7e32c58dfc2c70e6",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85100154",
+    "suitable": true,
+    "score": 88,
+    "reason_fr": "Poste de conditionnement en agroalimentaire, débutant accepté, intérim long, proche de son expérience.",
+    "category": "paketleme",
+    "french_level": "az",
+    "title_tr": "Paketleme işçisi",
+    "summary_tr": "Gıda fabrikasında ürünleri paketlersiniz. Yer: Le Controis-en-Sologne.",
+    "tasks_tr": [
+     "Ürünleri kontrol etmek",
+     "Ürünleri paketlemek",
+     "Sorun olunca şefe söylemek"
+    ],
+    "schedule_tr": "3 vardiya veya 2 vardiya, pazartesi-cuma",
+    "salary_tr": "Saati 12,31 €, prim ve yemek parası",
+    "duration_tr": "6 ay, uzayabilir",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de conditionneur à Le Controis-en-Sologne. J'ai plusieurs années d'expérience en intérim en conditionnement et étiquetage dans la cosmétique et la pharmacie. Je suis rapide, sérieuse et j'accepte les horaires en 2x8 et 3x8. Je suis disponible rapidement."
    }
   },
   {
@@ -241,6 +341,106 @@
     "salary_tr": "",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de fabrication à Blois. J'ai plusieurs années d'expérience en intérim dans la production et le conditionnement. Je suis rapide, sérieuse et j'accepte tous les horaires. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85100051",
+   "title": "Operateur de Finition Manuelle H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85100051.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n SUPPLAY, infiniment humain depuis 1968 \nDepuis plus de 50 ans, Supplay accompagne les talents dans leur parcours professionnel avec une conviction forte : placer l'humain au coeur de chaque décision. \nChez nous, prendre le temps de vous connaître n'est pas une option, c'est notre métier. Comprendre votre parcours, vos compétences et vos ambitions nous permet de vous proposer des missions qui vous correspondent vraiment. \nQue vous recherchiez un emploi en CDD, CDI, alternance ou intérim, dans le BTP, l'industrie, le nautisme, le transport, la logistique, le pharmaceutique, l'agroalimentaire ou le tertiaire, nos équipes vous accompagnent à chaque étape. \nDu développement de vos compétences grâce à des formations, à votre arrivée chez nos clients pour des missions ponctuelles ou de longue durée, nos équipes sont à vos côtés. \nAvec 180 agences réparties partout en France, nous privilégions une relation de proximité, basée sur l'écoute, la confiance et la transparence. \nNos règles d'or : \n* 100 % maison : un accompagnement par nos équipes à chaque étape de votre mission. \n* La sécurité : votre sécurité et vos conditions de travail sont une priorité. \n* La proximité : des agences proches de vous et à l'écoute du marché local. \n* Du temps pour les talents : comprendre votre parcours pour mieux vous accompagner. \n* La fidélisation : construire une relation durable avec nos intérimaires. \n* La solidarité : valoriser chaque talent et favoriser l'inclusion. \n* Le digital au service de l'humain : avec l'application Supplayer, gérez simplement vos missions et vos contrats. \nRejoindre Supplay, c'est accéder à de nombreuses opportunités professionnelles tout en bénéficiant d'un accompagnement infiniment humain et d'avantages tout au long de votre parcours.\nVotre agence Supplay Blois recrute pour l'un de ses clients spécialisé dans la fabrication de pièces techniques un(e) Opérateur(trice) de finition manuelle. \nVos missions : \nRéaliser les opérations de finition manuelle sur les pièces produites. \nEffectuer l'ébavurage, le ponçage et les retouches nécessaires. \nContrôler visuellement la conformité des pièces. \nDétecter et signaler les éventuels défauts. \nRespecter les consignes de qualité, de sécurité et les modes opératoires. \nMaintenir son poste de travail propre et organisé.\n Le profil recherché\n Vous êtes minutieux(se), manuel(le) et rigoureux(se).Vous aimez le travail de précision et les tâches nécessitant de la dextérité.Une première expérience en industrie, production ou finition est appréciée.Vous êtes autonome, impliqué(e) et avez le goût du travail bien fait.\n Bienvenue chez Supplay\n SUPPLAY, infiniment humain depuis 1968Depuis plus de 50 ans, Supplay accompagne les talents dans leur parcours professionnel avec une conviction forte : placer l'humain au coeur de chaque décision.Chez nous, prendre le temps de vous connaître n'est pas une option, c'est notre métier. Comprendre votre parcours, vos compétences et vos ambitions nous p",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85100051",
+   "distance_km": 0.0,
+   "fp": "f86e5b3a4c75378a",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/539ac8f34e703b647059c795c0b4e6fa"
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85100051",
+    "suitable": true,
+    "score": 75,
+    "reason_fr": "Travail manuel de finition et contrôle visuel, sans diplôme, à Blois.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Elle parça bitirme işçisi",
+    "summary_tr": "Fabrikada parçaları elle temizler ve zımparalarsınız. Yer: Blois.",
+    "tasks_tr": [
+     "Çapak almak, zımparalamak",
+     "Parçalara gözle bakmak",
+     "Hataları söylemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de finition manuelle à Blois. J'ai plusieurs années d'expérience en usine, avec du travail minutieux et du contrôle visuel. Je suis rapide, précise et sérieuse. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85100104",
+   "title": "Agent de Fabrication Pharmaceutique H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85100104.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Valloire-sur-Cisse",
+   "postal_code": "41150",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 13 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n Le Groupe Adwork's est un groupe de travail temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel. \nNotre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\nAdworks recherche pour son client, spécialisé dans le domaine pharmaceutique, un agent de fabrication H/F. \nMission: \n- Préparer le démarrage de la machine \n- Effectuer les réglages en fonctionnement \n- Approvisionner la machine en consommables \n- S'assurer de la conformité des produits \n- Réaliser les réglages pour les changements de série \n- Assurer la maintenance et le nettoyage de premier niveau de la ligne \n- Connaitre et respecter les règles de qualité, d'hygiène, de sécurité et d'environnement. \nProfil : expérience sur ligne de fabrication dans le domaine pharmaceutique ou en agroalimentaire. Vous avez une première expérience en manipulation de poudres alimentaires ou pharmaceutique. Les qualités indispensables sont le travail en équipe, la réactivité et le dynamisme ainsi que la rigueur. \nTravail en semaine - Horaires en 2/8 \nLong contrat intérim \nSi cette offre vous intéresse, envoyez-nous votre CV\n Le profil recherché\n Profil : expérience sur ligne de fabrication dans le domaine pharmaceutique ou en agroalimentaire. Vous avez une première expérience en manipulation de poudres alimentaires ou pharmaceutique. Les qualités indispensables sont le travail en équipe, la réactivité et le dynamisme ainsi que la rigueur.\n Bienvenue chez Adwork’s Travail Temporaire\n Le Groupe Adwork's est un groupe de travail temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel.Notre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\n Mais aussi...\n -",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85100104",
+   "distance_km": 11.2,
+   "fp": "bc616df8b94a395a",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85100104",
+    "suitable": true,
+    "score": 62,
+    "reason_fr": "Production pharmaceutique proche de son expérience, mais réglages machine demandés, donc adéquation moyenne.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "İlaç üretim işçisi",
+    "summary_tr": "İlaç fabrikasında makine hattında çalışırsınız. Yer: Valloire-sur-Cisse.",
+    "tasks_tr": [
+     "Makineye malzeme koymak",
+     "Ürünleri kontrol etmek",
+     "Hattı temizlemek"
+    ],
+    "schedule_tr": "2 vardiya, hafta içi",
+    "salary_tr": "Saati 12,31 - 13 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de fabrication pharmaceutique. J'ai déjà travaillé en intérim en conditionnement dans le secteur pharmaceutique. J'apprends vite et j'accepte les horaires en 2x8. Je suis disponible rapidement."
    }
   },
   {
@@ -466,6 +666,47 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "85099914",
+   "title": "Conducteur de Ligne H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85099914.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85099914",
+   "distance_km": 0.0,
+   "fp": "e1650af296467595",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85099914",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Conduite de ligne, poste plus technique que son profil.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Hat sürücüsü",
+    "summary_tr": "Fabrikada üretim hattını yönetirsiniz. Yer: Blois.",
+    "tasks_tr": [
+     "Makineyi çalıştırmak",
+     "Ayar yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Blois. J'ai plusieurs années d'expérience en production et conditionnement. Je suis sérieuse et j'apprends vite. Je suis disponible rapidement."
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "8509111",
    "title": "Opérateur en usinage-aéronautique(h/f) (H/F)",
@@ -593,6 +834,104 @@
    }
   },
   {
+   "source": "crit",
+   "source_id": "b22d99e8-b2aa-43eb-8121-a29b2ca70e97",
+   "title": "Agent de production et cariste H/F",
+   "url": "https://www.crit-job.com/offres/b22d99e8-b2aa-43eb-8121-a29b2ca70e97",
+   "company": "Crit",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.582,
+   "lon": 1.306,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12,31 à 13 € / heure",
+   "hours": "Temps plein",
+   "description": "Dans le cadre de son développement, nous recherchons pour notre client, spécialisé dans la transformation des grains, un Agent de Production & Cariste H/F titulaire des CACES 1B et 3.\nVos missions\n- Assurer la fabrication : réception des matières premières, suivi de production, chargement des camions\n- Conduire les chariots élévateurs CACES 1B et 3 pour l’approvisionnement et la gestion des flux\n- Contrôler la qualité et la conformité des produits\n- Surveiller, régler et ajuster les machines selon les procédures\n- Signaler les anomalies et participer à la maintenance de 1er niveau\n- Respecter les règles QHSE, porter les EPI, contribuer à la propreté et à la sécurité du site\n- Participer au nettoyage et à l’entretien des installations",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "debut": "Dès que possible",
+    "secteur": "Agriculture / Sylviculture / Pêche / Chasse",
+    "fonction": "Production & Opérations",
+    "avantages": "Panier"
+   },
+   "uid": "crit:b22d99e8-b2aa-43eb-8121-a29b2ca70e97",
+   "distance_km": 2.3,
+   "fp": "f39399bd6903ae74",
+   "also_on": [
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85094865.html"
+    },
+    {
+     "source": "meteojob",
+     "url": "https://www.meteojob.com/jobs/57865573"
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "crit:b22d99e8-b2aa-43eb-8121-a29b2ca70e97",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Les CACES 1B et 3 sont obligatoires pour ce poste.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim elemanı ve forklift şoförü",
+    "summary_tr": "Tahıl fabrikasında üretim ve forklift. Blois'da.",
+    "tasks_tr": [
+     "Üretimi takip etmek",
+     "Forklift kullanmak",
+     "Kamyon yüklemek"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "Saati 12,31-13 €",
+    "duration_tr": "6 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85099820",
+   "title": "Acceuil Chauffeur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85099820.html",
+   "company": "Supplay",
+   "city": "Mer",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85099820",
+   "distance_km": 18.4,
+   "fp": "f0e496fb775647b3",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85099820",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Accueil des chauffeurs, poste de relation et d'administratif en français.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Şoför karşılama",
+    "summary_tr": "Depoda kamyon şoförlerini karşılarsınız. Yer: Mer.",
+    "tasks_tr": [
+     "Şoförleri karşılamak",
+     "Evrak işleri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Mer. J'ai plusieurs années d'expérience en logistique et préparation de commandes. Je suis sérieuse et disponible rapidement."
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "8485490",
    "title": "Coffreur / bancheur (H/F)",
@@ -629,6 +968,99 @@
      "Plan okumak",
      "Kalıp hazırlamak",
      "Beton dökmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85099906",
+   "title": "Usineur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85099906.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n SUPPLAY, infiniment humain depuis 1968 \nDepuis plus de 50 ans, Supplay accompagne les talents dans leur parcours professionnel avec une conviction forte : placer l'humain au coeur de chaque décision. \nChez nous, prendre le temps de vous connaître n'est pas une option, c'est notre métier. Comprendre votre parcours, vos compétences et vos ambitions nous permet de vous proposer des missions qui vous correspondent vraiment. \nQue vous recherchiez un emploi en CDD, CDI, alternance ou intérim, dans le BTP, l'industrie, le nautisme, le transport, la logistique, le pharmaceutique, l'agroalimentaire ou le tertiaire, nos équipes vous accompagnent à chaque étape. \nDu développement de vos compétences grâce à des formations, à votre arrivée chez nos clients pour des missions ponctuelles ou de longue durée, nos équipes sont à vos côtés. \nAvec 180 agences réparties partout en France, nous privilégions une relation de proximité, basée sur l'écoute, la confiance et la transparence. \nNos règles d'or : \n* 100 % maison : un accompagnement par nos équipes à chaque étape de votre mission. \n* La sécurité : votre sécurité et vos conditions de travail sont une priorité. \n* La proximité : des agences proches de vous et à l'écoute du marché local. \n* Du temps pour les talents : comprendre votre parcours pour mieux vous accompagner. \n* La fidélisation : construire une relation durable avec nos intérimaires. \n* La solidarité : valoriser chaque talent et favoriser l'inclusion. \n* Le digital au service de l'humain : avec l'application Supplayer, gérez simplement vos missions et vos contrats. \nRejoindre Supplay, c'est accéder à de nombreuses opportunités professionnelles tout en bénéficiant d'un accompagnement infiniment humain et d'avantages tout au long de votre parcours.\nVos missions : \nRéaliser les opérations d'usinage sur machines conventionnelles et/ou à commande numérique. \nPréparer, régler et conduire les machines selon les plans et gammes de fabrication. \nContrôler la conformité des pièces produites à l'aide des outils de mesure. \nEffectuer les changements d'outillages et les réglages nécessaires. \nAssurer la maintenance de premier niveau des équipements. \nRespecter les consignes de sécurité, de qualité et les délais de production. \nIdentifier et signaler toute anomalie de fabrication.\n Le profil recherché\n Expérience en usinage industriel appréciée.Connaissance de la lecture de plans et des instruments de contrôle.Maîtrise des techniques de tournage, fraisage ou commande numérique.Rigueur, précision et autonomie.Esprit d'équipe et sens de l'organisation.\n Bienvenue chez Supplay\n SUPPLAY, infiniment humain depuis 1968Depuis plus de 50 ans, Supplay accompagne les talents dans leur parcours professionnel avec une conviction forte : placer l'humain au coeur de chaque décision.Chez nous, prendre le temps de vous connaître n'est pas une option, c'est notre métier. Comprendre votre parcours, vos compétences et vos ambitions nous permet de vous proposer ",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85099906",
+   "distance_km": 0.0,
+   "fp": "6394ce2ae833bd15",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/4d980bed7009785bca58f3b69410f369"
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85099906",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Usinage technique avec lecture de plans et machines numériques, hors de son profil.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Tornacı / frezeci",
+    "summary_tr": "Makinelerde metal parça yaparsınız. Yer: Blois.",
+    "tasks_tr": [
+     "Makine ayarı",
+     "Plan okumak",
+     "Ölçüm yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 - 14 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Blois. J'ai plusieurs années d'expérience en usine. Je suis sérieuse et rapide. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85116629",
+   "title": "Monteur Mécanicien H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85116629.html",
+   "company": "Avantage Intérim",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85116629",
+   "distance_km": 3.1,
+   "fp": "0da1cd8a3f5d5b02",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85116629",
+    "suitable": false,
+    "score": 8,
+    "reason_fr": "Poste de monteur mécanicien qui demande une qualification technique.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Mekanik montajcı",
+    "summary_tr": "Makine montajı. Vineuil'de.",
+    "tasks_tr": [
+     "Parça monte etmek"
     ],
     "schedule_tr": "",
     "salary_tr": "",
@@ -942,6 +1374,132 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "85106924",
+   "title": "Serveur·se Restaurant H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85106924.html",
+   "company": "ADERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "2 mois",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85106924",
+   "distance_km": 0.0,
+   "fp": "df021c8963f228c3",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85106924",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Service en restaurant, le contact client en français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Garson",
+    "summary_tr": "Restoranda müşterilere servis yaparsınız. Yer: Blois.",
+    "tasks_tr": [
+     "Sipariş almak",
+     "Servis yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "2 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste à Blois. Je suis sérieuse et travailleuse. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85100208",
+   "title": "Maçon Finisseur - Gd H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85100208.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85100208",
+   "distance_km": 3.9,
+   "fp": "63bcce9ad2e9e64c",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85100208",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de maçon finisseur dans le bâtiment qui demande un savoir-faire de métier qualifié, éloigné de son expérience.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Duvarcı (inşaat ustası)",
+    "summary_tr": "İnşaatta duvar ve bitirme işi. La Chaussée-Saint-Victor'da.",
+    "tasks_tr": [
+     "Duvar örmek",
+     "Beton bitirme işleri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre de maçon finisseur. J'ai plusieurs années d'expérience en intérim dans la manutention et la production. Je suis travailleuse et disponible rapidement. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "04ea88d8033e4a6a2efdf442932c8819",
+   "title": "Opérateur en découpe Métaux Durs H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/04ea88d8033e4a6a2efdf442932c8819",
+   "company": "CRIT AERO REZE - LOIRE ATLANTIQUE",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste de Opérateur en découpe Métaux Durs H/F Envie de faire bouger les choses ? Notre client recherche un Opérateur en découpe Métaux Durs (H/F) à Nantes. Les missions du poste sont les suivantes : Préparer et régler les machines de découpe Effectuer la découpe des métaux durs Saisir les commandes et programmer les équipements Contrôler la qualité des pièces découpées Assurer la maintenance de premier niveau Respecter les consignes de sécurité Le profil recherché Ce qu'on recherche chez vous : Première expérience en industrie des métaux durs, Aisance avec l'informatique pour la saisie de commandes et programmation, CACES R489 3, 5 et le CACES R484-1 Pontier. Et pour que tout roule parfaitement, Marin de Crit estlà pour vous accompagner à chaque étape ! L'entreprise L'équipe Crit Solutions RH Saint-Maximin recrute un(e) conducteur(trice) de bus urbain H/F pour une mission à Montataire (60160). Vous rejoindrez une équipe dynamique et engagée, participant au renforcement du service de transport urbain et contribuant au confort et à la sécurité des voyageurs. Ce qu'on recherche chez vous : Première expérience en industrie des métaux durs, Aisance avec l'informatique pour la saisie de commandes et programmation, CACES R489 3, 5 et le CACES R484-1 Pontier. Et pour que tout roule parfaitement, Marin de Crit estlà pour vous accompagner à chaque étape !",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "first_published": "2026-11-03"
+   },
+   "uid": "jobijoba:04ea88d8033e4a6a2efdf442932c8819",
+   "distance_km": 18.4,
+   "fp": "006f41112ad93ecf",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "jobijoba:04ea88d8033e4a6a2efdf442932c8819",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Le poste exige des CACES obligatoires, du réglage de machines et de la programmation informatique.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Sert metal kesim operatörü",
+    "summary_tr": "Fabrikada sert metalleri makineyle kesmek. İlan Mer için ama iş Nantes'ta olabilir.",
+    "tasks_tr": [
+     "Kesim makinesini ayarlamak",
+     "Metal kesmek",
+     "Parça kalitesini kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'opérateur en découpe. J'ai plusieurs années d'expérience en production et en contrôle de produits en usine. Je suis rapide, sérieuse et disponible sur tous les horaires. Merci pour votre attention."
+   }
+  },
+  {
    "source": "jobijoba",
    "source_id": "d552351e8eac83602d571c1635b5a20b",
    "title": "Mécanicien Engins TP (H/F)",
@@ -981,6 +1539,190 @@
     "schedule_tr": "",
     "salary_tr": "",
     "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "adecco",
+   "source_id": "2143680601",
+   "title": "Electricien Industriel (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2143680601",
+   "company": "Adecco",
+   "city": "Champigny En Beauce",
+   "postal_code": "41330",
+   "lat": 47.7193,
+   "lon": 1.2581,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "13 €/heure",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco recrute pour son client, spécialisé dans la fabrication de machines agricoles et forestières, un(e) Electricien Industriel (H/F) en mission d’intérim à Champigny-en-Beauce.\nVous intégrez une équipe technique dédiée à la maintenance et aux travaux d’amélioration des machines et des infrastructures électriques du site de production.\nVotre rôle consiste à assurer l’installation, le câblage et la maintenance des équipements électriques industriels afin de garantir la continuité de production et la sécurité des installations. Vos principales missions :\n- Assurer la lecture et l’interprétation de schémas électriques pour intervenir sur les armoires et les lignes de production.\n- Réaliser le câblage d’armoires électriques et d’éléments de commande en respectant les normes en vigueur, notamment la norme NF C 15-100 , ainsi que les consignes internes.\n- Effectuer la maintenance préventive et curative des équipements, diagnostiquer les pannes électriques et proposer des solutions techniques adaptées aux contraintes de l’atelier.\n- Intervenir sur les automates programmables et les systèmes d’instrumentation industrielle, en lien avec les autres services, afin d’optimiser le fonctionnement des installations.\nVous travaillez en journée, en collaboration avec les équipes de production et de maintenance, dans le respect strict des procédures de sécurité et des habilitations électriques requises.\nVotre profil\nCe poste s’adresse à une personne disposant d’une première expérience significative en environnement industriel. Vous êtes à l’aise dans la lecture de schémas, l’analyse de pannes et la recherche de solutions, tout en respectant les normes de sécurité. Une formation initiale de niveau inférieur au Bac dans le domaine électrique ou une qualification équivalente complétée par l’expérience est adaptée à ce poste. Compétences comportementales\n- Vous faites preuve de rigueur professionnelle et d’une grande attention au détail.\n- Vous respectez scrupuleusement les consignes de sécurité et les procédures internes.\n- Vous savez gérer les priorités, travailler en équipe et communiquer de manière claire.\nCompétences techniques\n- Vous maîtrisez la lecture de schémas électriques, le câblage d’armoires, l’instrumentation industrielle et appliquez les exigences de la norme NF C 15-100 .\n- Vous êtes capable de réaliser une maintenance préventive, de diagnostiquer les pannes électriques et de mettre en œuvre les réparations nécessaires.\n- Vous intervenez sur des automates programmables avec autonomie opérationnelle et possédez les habilitations électriques adaptées au poste.\nUne première expérience en milieu industriel est un atout pour réussir dans cette fonction. Le poste est proposé en intérim pour une durée de 3 mois, à temps plein, en horaires de journée, sur le site de Champigny-en-Beauce. La rémunération sera communiquée lors du processus de sélection, en cohérence avec le niveau de compétence et les responsabilités confiées. Pour ce rôle d’ Ele",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "secteur": "Electricité - Electronique - Automatisme",
+    "postes": 1,
+    "debut_asap": false,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2143680601",
+    "agence": "ADFR_169",
+    "debut": "2026-11-30"
+   },
+   "uid": "adecco:2143680601",
+   "distance_km": 15.9,
+   "fp": "3a72ccbb3bcc97da",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "adecco:2143680601",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste d'électricien qui exige une formation électrique et des habilitations.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Sanayi elektrikçisi",
+    "summary_tr": "Makinelerde elektrik bakımı. Champigny En Beauce'ta.",
+    "tasks_tr": [
+     "Elektrik şeması okumak",
+     "Kablo bağlamak",
+     "Arıza bulmak"
+    ],
+    "schedule_tr": "Tam gün, gündüz",
+    "salary_tr": "Saati 13 €",
+    "duration_tr": "3 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "adecco",
+   "source_id": "2143678101",
+   "title": "Électrotechnicien  (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2143678101",
+   "company": "Adecco",
+   "city": "Champigny En Beauce",
+   "postal_code": "41330",
+   "lat": 47.7193,
+   "lon": 1.2581,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "13 €/heure",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco recrute pour son client un(e) Électrotechnicien (H/F) en intérim à CHAMPIGNY EN BEAUCE, pour intervenir au sein d’une entreprise spécialisée dans la fabrication de machines agricoles et forestières. Ce poste en journée, à temps plein, vous permet de participer concrètement à la fiabilité et à la sécurité des équipements.\nCette entreprise industrielle met l’accent sur la qualité de ses produits et le respect des normes, au sein d’équipes techniques impliquées et attentives à la sécurité.\nVotre rôle consiste à assurer l’installation, le câblage et la maintenance des équipements électrotechniques intégrés aux machines, afin de garantir leur bon fonctionnement dans la durée. Vos principales missions seront :\n- Réaliser le câblage électrique des machines à partir des plans et assurer la lecture de schémas en respectant les normes électriques NFC et les consignes internes.\n- Intervenir sur les automates programmables pour effectuer les réglages de base, participer aux diagnostics de pannes et proposer les actions correctives adaptées.\n- Effectuer des mesures électrotechniques, des contrôles de conformité et des opérations de maintenance préventive afin de prévenir les dysfonctionnements et d’optimiser la fiabilité des installations.\n- Travailler en lien avec les autres services de production et maintenance, renseigner les documents de suivi, et appliquer rigoureusement les règles de sécurité liées à votre habilitation électrique.\nCe poste est à pourvoir en horaire de journée, sur un rythme à temps plein à CHAMPIGNY EN BEAUCE (41330). La rémunération sera communiquée lors du processus de recrutement, en cohérence avec le niveau de responsabilité et le marché local.\nVotre profil\nVous êtes une personne rigoureuse techniquement, à l’aise dans un environnement industriel, et vous souhaitez mettre vos compétences en électrotechnique au service de machines agricoles et forestières. Une première expérience est un atout pour évoluer rapidement sur le poste et prendre en charge des interventions en autonomie. Ce poste convient à un(e) candidat(e) disposant d’un niveau de diplôme inférieur au bac, mais fort(e) d’un savoir-faire concret et d’un réel sens des responsabilités, notamment en matière de sécurité électrique. Compétences comportementales\n- Vous faites preuve d’une rigueur technique constante, avec un fort sens des responsabilités et un respect scrupuleux des consignes de sécurité.\n- Vous savez gérer les imprévus, analyser les situations rapidement et communiquer de manière claire avec vos collègues et votre hiérarchie.\n- Vous travaillez volontiers en équipe tout en restant autonome dans l’organisation de vos tâches, avec un esprit d’analyse.\nCompétences techniques\n- Vous maîtrisez la lecture de schémas, le câblage électrique et les mesures électrotechniques associées aux installations industrielles.\n- Vous intervenez sur les automates programmables, réalisez des diagnostics de pannes et mettez en œuvre la maintenance préventive néces",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "secteur": "Electricité - Electronique - Automatisme",
+    "postes": 1,
+    "debut_asap": false,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2143678101",
+    "agence": "ADFR_169",
+    "debut": "2026-11-30"
+   },
+   "uid": "adecco:2143678101",
+   "distance_km": 15.9,
+   "fp": "d5ebd77e94f8568b",
+   "also_on": [
+    {
+     "source": "meteojob",
+     "url": "https://www.meteojob.com/jobs/57876460"
+    }
+   ],
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "adecco:2143678101",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien en électrotechnique avec habilitation obligatoire.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Elektroteknisyen",
+    "summary_tr": "Tarım makinelerinde elektrik işi. Champigny En Beauce'ta.",
+    "tasks_tr": [
+     "Kablo bağlamak",
+     "Otomat ayarı",
+     "Bakım yapmak"
+    ],
+    "schedule_tr": "Tam gün, gündüz",
+    "salary_tr": "Saati 13 €",
+    "duration_tr": "3 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85116624",
+   "title": "Soudeur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85116624.html",
+   "company": "Avantage Intérim",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85116624",
+   "distance_km": 3.1,
+   "fp": "6ddfa23d86df8fa0",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85116624",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le métier de soudeur exige une qualification.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Kaynakçı",
+    "summary_tr": "Kaynak işi. Vineuil'de.",
+    "tasks_tr": [
+     "Kaynak yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85100200",
+   "title": "Soudeur MAG H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85100200.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Le Controis-en-Sologne",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "4 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85100200",
+   "distance_km": 19.9,
+   "fp": "35ae4ea34baac5ef",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "hellowork:85100200",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Soudeur MAG : qualification de soudure obligatoire.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "MAG kaynakçı",
+    "summary_tr": "MAG kaynak işi. Le Controis-en-Sologne'da.",
+    "tasks_tr": [
+     "Kaynak yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31-14 €",
+    "duration_tr": "4 ay",
     "apply_message_fr": ""
    }
   },
@@ -1571,6 +2313,101 @@
     "schedule_tr": "",
     "salary_tr": "",
     "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-CAK-D008102_01R",
+   "title": "MASSEUR KINÉSITHÉRAPEUTE (F/H)",
+   "url": "https://www.randstad.fr/emploi/masseur-kinesitherapeute-fh_la-chaussee-saint-victor_307-cak-d008102_01r/",
+   "company": "Appel Medical",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41260",
+   "lat": 47.61593,
+   "lon": 1.36724,
+   "contract": "CDD",
+   "duration": "82 jour(s)",
+   "salary": "19 €/heure",
+   "hours": "",
+   "description": "descriptif du poste\nVoici les informations sur le poste :\n- contrat possible en : CDD ou libéral\n- temps partiel de 80%\n- poste à pourvoir dès que possible pour le service SMR Nutrition adulte\n- Salaire selon l'ancienneté et la convention de l'établissement convention FHP (négociation possible ) / montant de ségur : 206 € (+54€ a temps plein)\n- fiche de poste à disposition\n- PAS DE PRISE EN CHARGE LOGEMENT ET TRANSPORTS\n- repas : avantage en nature\nprofil recherché\nLe candidat idéal est un masseur kinésithérapeute qualifié, passionné par la rééducation et le bien-être des patients.\n- Diplôme d'Etat de Masseur-Kinésithérapeute requis\n- Aptitude à travailler efficacement au sein d'une équipe pluridisciplinaire\n- Excellentes compétences en communication pour interagir avec les patients et le personnel\n- Capacité à élaborer des programmes de rééducation adaptés aux besoins individuels\n- Sens aigu de l'écoute pour comprendre et répondre aux attentes des patients\nPour candidater merci de nous contacter :\nPerrine et Graziella\n02 47 70 07 14\ncentreatlantique@appel-medical.com\nà propos de notre client\nLa Clinique est un établissement de Soins Médicaux et de Réadaptation (SMR) reconnu pour la qualité et la diversité de ses prises en charge.\nLa clinique dispose de :\n112 lits d'hospitalisation complète,\n15 places d'hôpital de jour,\nOffrant ainsi des solutions de soins souples et adaptées à chaque situation.\nDomaines d'expertise\nDepuis plus de 10 ans, la Clinique s'engage à accompagner ses patients dans trois grands axes :\nNutrition pédiatrique : prise en charge spécialisée de l'obésité de l'enfant et de l'adolescent.\nNutrition adulte : suivi personnalisé des patients présentant une obésité ou un diabète, avec programmes d'éducation thérapeutique.\nRéadaptation polyvalente : accompagnement post-hospitalisation, consolidation des traitements et préparation au retour à domicile pour favoriser l'autonomie.\nDes services innovants\nEn complément des hospitalisations, la clinique propose :\nConsultations spécialisées (diabétologie, nutrition, plaies et cicatrisation),\nTélé-expertise OMNIDOC, permettant un lien direct avec les praticiens de ville et un suivi médical coordonné.",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Agence Kiné Centre Atlantique",
+    "marque": "appel medical",
+    "debut": "2027-01-28",
+    "fin": "2027-04-20",
+    "qualification": "Masseur kinésithérapeute (F/H)"
+   },
+   "uid": "randstad:307-CAK-D008102_01R",
+   "distance_km": 4.1,
+   "fp": "50f4651b0c16745a",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "randstad:307-CAK-D008102_01R",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le diplôme d'État de kinésithérapeute est obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Fizyoterapist",
+    "summary_tr": "Klinikte hastalara fizik tedavi. La Chaussée-Saint-Victor'da.",
+    "tasks_tr": [
+     "Hasta tedavisi",
+     "Program hazırlamak"
+    ],
+    "schedule_tr": "Yarı zamanlı %80",
+    "salary_tr": "Saati 19 €",
+    "duration_tr": "82 gün",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "crit",
+   "source_id": "ddfbbb72-417e-4608-89f1-474414f7bf16",
+   "title": "Assistant·e Administration des Ventes H/F",
+   "url": "https://www.crit-job.com/offres/ddfbbb72-417e-4608-89f1-474414f7bf16",
+   "company": "Crit",
+   "city": "Vineuil",
+   "postal_code": "41350",
+   "lat": 47.586,
+   "lon": 1.388,
+   "contract": "CDI",
+   "duration": "",
+   "salary": "1600 à 2500 € / mois",
+   "hours": "- Horaires : 8h30-12h00 / 13h30-17h00",
+   "description": "Notre agence recrute, pour le compte de son client spécialisé dans le commerce de gros d'appareils sanitaires et de produits de décoration, un·e Assistant·e Administration Des Ventes.\nAu sein d'une équipe dédiée à l'ADV, le ou la candidat·e retenu·e appuiera une équipe commerciale itinérante en lien avec des professionnels du secteur sanitaire (grossistes, installateurs). Ce poste sédentaire allie conseil technique et approche commerciale, principalement par téléphone et par mail.\nMissions principales :\n- Assurer l'accueil téléphonique et répondre aux demandes des clients professionnels\n- Effectuer le suivi des commandes et de la facturation\n- Établir des devis et vérifier les conditions de réalisation des commandes\n- Assurer le suivi administratif des dossiers clients\n- Développer et fidéliser la relation client\n- Gérer les ventes de la commande à la livraison, en veillant au respect des délais et de la conformité contractuelle\n- Mettre en oeuvre des actions commerciales et promotionnelles\n- Relayer les informations utiles entre les équipes commerciales et les clients\n- Traiter efficacement les informations liées aux commandes et aux livraisons\n- Apporter un conseil technique adapté aux besoins des clients\nConditions contractuelles :\n- Type de contrat : CDI\n- Lieu de travail : Vineuil (41)\n- Durée hebdomadaire : 35h, du lundi au vendredi\n- Horaires : 8h30-12h00 / 13h30-17h00\n- Télétravail possible le mercredi\n- Tickets restaurant : valeur faciale de 10,00 EUR, répartition 60% employeur / 40% salarié (6,00 EUR employeur - 4,00 EUR salarié)",
+   "published": "2026-11-03",
+   "phone": "",
+   "extra": {
+    "debut": "Dès que possible",
+    "secteur": "Commerce de gros & Import/Export",
+    "fonction": "Commercial / Vente",
+    "avantages": "télétravail, ticket restaurant"
+   },
+   "uid": "crit:ddfbbb72-417e-4608-89f1-474414f7bf16",
+   "distance_km": 3.9,
+   "fp": "c64fdc6e420239eb",
+   "first_seen": "2026-11-03",
+   "ai": {
+    "uid": "crit:ddfbbb72-417e-4608-89f1-474414f7bf16",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste administratif et commercial en CDI où le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış asistanı (ofis)",
+    "summary_tr": "Telefon ve mail ile müşteri takibi. Vineuil'de.",
+    "tasks_tr": [
+     "Telefona bakmak",
+     "Sipariş takibi",
+     "Teklif hazırlamak"
+    ],
+    "schedule_tr": "Pazartesi-cuma 8:30-12:00 / 13:30-17:00",
+    "salary_tr": "Ayda 1600-2500 €",
+    "duration_tr": "Süresiz (CDI)",
     "apply_message_fr": ""
    }
   },
