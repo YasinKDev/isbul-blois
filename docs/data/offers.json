@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-06T12:56:54+00:00",
+ "updated": "2026-11-06T18:43:56+00:00",
  "offers": [
+  {
+   "source": "francetravail",
+   "source_id": "216DXPS",
+   "title": "Préparateur de commandes F/H",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216DXPS",
+   "company": "SYNERGIE",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "Notre client est un acteur majeur de la distribution pharmaceutique, reconnu pour son exigence en matière de qualité de service et de satisfaction client. Afin de renforcer ses équipes logistiques,...",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216DXPS",
+   "distance_km": 0.0,
+   "fp": "394327b1491e3de0",
+   "also_on": [
+    {
+     "source": "meteojob",
+     "url": "https://www.meteojob.com/jobs/57948206"
+    }
+   ],
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "francetravail:216DXPS",
+    "suitable": true,
+    "score": 90,
+    "reason_fr": "Préparation de commandes en intérim dans la distribution pharmaceutique à Blois, très proche de son expérience.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlama elemanı",
+    "summary_tr": "İlaç dağıtım deposunda sipariş hazırlamak. Blois'da, SYNERGIE geçici iş.",
+    "tasks_tr": [
+     "Ürünleri toplamak",
+     "Siparişi hazırlamak",
+     "Paketlemek"
+    ],
+    "schedule_tr": "Yarı zamanlı",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de préparatrice de commandes. J'ai plusieurs années d'expérience en préparation de commandes au scanner et en conditionnement dans le secteur pharmaceutique. Je suis rapide, sérieuse et disponible tout de suite. Merci pour votre réponse."
+   }
+  },
   {
    "source": "jobijoba",
    "source_id": "117f76e3611dfe957807235b4490bdf6",
@@ -44,6 +94,52 @@
     "salary_tr": "Saatlik 12,31 €",
     "duration_tr": "Geçici iş, uzayabilir",
     "apply_message_fr": "Bonjour, je suis intéressée par la mission de manutentionnaire à Mer. J'ai plusieurs années d'expérience en manutention, chargement de colis et préparation de commandes. Je suis rapide, endurante et j'accepte tous les horaires, même la nuit. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57944317",
+   "title": "AGENT DE TRI (H/F/D)",
+   "url": "https://www.meteojob.com/jobs/57944317",
+   "company": "SAMSIC EMPLOI ",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": 47.70555,
+   "lon": 1.50621,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "À partir de 12,31 € par heure",
+   "hours": "Temps Plein",
+   "description": "Notre client recrute un Agent de Tri (H/F/D) pour renforcer son équipe dans un environnement logistique dynamique.\n Le poste :\nEn tant qu'Agent de Tri, vous intervenez au cœur de l'activité de l'entrepôt et contribuez au bon déroulement des opérations logistiques.\n Important :\nLes missions se déroulent principalement de nuit. Les premiers contrats peuvent être proposés pour 1 journée afin de valider la prise de poste, puis évoluer vers des contrats à la semaine selon les besoins et votre implication.\n Vos missions :\n Séparer manuellement les produits issus de la collecte.\n Travailler sur une chaîne de tri (tapis roulant) afin d'assurer un tri rapide et efficace.\n Charger manuellement les camions dans le respect des délais d'expédition.\nSAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.\n Profil recherché\n Votre motivation et votre sérieux sont essentiels. Une première expérience en logistique ou sur un poste similaire est appréciée mais non obligatoire.\n Compétences attendues :\n Rigueur et attention aux détails\n Capacité à travailler en équipe\n Respect des consignes et des normes de sécurité\n Savoir-être :\n Ponctualité\n Adaptabilité\n Autonomie\n Conditions et avantages\n Salaire : 12,31 € brut / heure\n + 25 % de majoration pour les heures de nuit\n Samsic Emploi, filiale du Groupe Samsic, recrute depuis 25 ans dans de nombreux secteurs d'activité sur tout type de contrats. Notre équipe accorde une importance toute particulière à l'accompagnement personnalisé et à la proximité avec nos candidats et clients. Samsic Emploi a été classé N1 par le magazine Capital comme \"Meilleure enseigne de Travail Temporaire\" pour la cinquième année consécutive en 2025 et a obtenu 5 étoiles dans le classement Les Echos pour la qualité de son réseau de 320 agences.\n Rejoignez-nous dès aujourd'hui pour contribuer à faire de votre carrière un véritable succès. Si vous êtes prêt à relever ce défi, n'hésitez pas à postuler !\n À compétences égales, toutes les candidatures sont étudiées sans distinction de genre, d'âge, d'origine, de situation de handicap ou d'orientation sexuelle.",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Agent de tri et de palettisation logistique (H/F)"
+    ]
+   },
+   "uid": "meteojob:57944317",
+   "distance_km": 18.4,
+   "fp": "eab49e967ff7277d",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "meteojob:57944317",
+    "suitable": true,
+    "score": 88,
+    "reason_fr": "Tri manuel sur tapis et chargement de camions sans diplôme, de nuit, proche de son expérience en tri.",
+    "category": "ayiklama",
+    "french_level": "az",
+    "title_tr": "Ayıklama elemanı",
+    "summary_tr": "Mer'de bir depoda ürün ayıklama işi. Çoğunlukla gece çalışılıyor.",
+    "tasks_tr": [
+     "Ürünleri elle ayırmak",
+     "Bantta ayıklama yapmak",
+     "Kamyon yüklemek"
+    ],
+    "schedule_tr": "Tam zamanlı, çoğunlukla gece",
+    "salary_tr": "Saati 12,31 € brüt, gece +%25",
+    "duration_tr": "Önce 1 gün, sonra haftalık",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de tri à Mer. J'ai plusieurs années d'expérience dans le tri de déchets, de courrier et de colis sur chaîne. Je suis disponible de nuit et j'ai une voiture. Merci pour votre attention."
    }
   },
   {
@@ -98,6 +194,93 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de production en industrie alimentaire à Blois. J'ai plusieurs années d'expérience en intérim sur des lignes de production et de conditionnement. Je suis rapide, endurante et j'accepte tous les horaires. Je suis disponible rapidement, merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "bd1e7a42a8a00aa6d5c57967fc99c57e",
+   "title": "Agent de Tri H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/bd1e7a42a8a00aa6d5c57967fc99c57e",
+   "company": "Samsic Emploi",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Notre client recrute un Agent de Tri (H/F/D) pour renforcer son équipe dans un environnement logistique dynamique. Le poste : En tant qu'Agent de Tri,",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Agent de tri"
+   },
+   "uid": "jobijoba:bd1e7a42a8a00aa6d5c57967fc99c57e",
+   "distance_km": 18.4,
+   "fp": "b35bde117f2ca012",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:bd1e7a42a8a00aa6d5c57967fc99c57e",
+    "suitable": true,
+    "score": 85,
+    "reason_fr": "Tri manuel en entrepôt sans diplôme, très proche de son expérience en tri.",
+    "category": "ayiklama",
+    "french_level": "az",
+    "title_tr": "Ayıklama elemanı",
+    "summary_tr": "Mer'de bir depoda ürün ayıklama işi. Geçici iş.",
+    "tasks_tr": [
+     "Ürünleri elle ayırmak",
+     "Bantta çalışmak",
+     "Kamyon yüklemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de tri à Mer. J'ai plusieurs années d'expérience dans le tri de colis, de courrier et de déchets. Je suis rapide, endurante et disponible à tous les horaires. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "c61392a5caf597db01a8c602b2486f63",
+   "title": "Magasinier H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/c61392a5caf597db01a8c602b2486f63",
+   "company": "H-Tube",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Réseau H-TUBE Nous recherchons pour notre agence de Blois (41) un Magasinier (H/F): Voici les missions : - Réception et préparations des commandes (mission",
+   "published": "2026-10-31",
+   "phone": "",
+   "extra": {
+    "metier": "Magasinier"
+   },
+   "uid": "jobijoba:c61392a5caf597db01a8c602b2486f63",
+   "distance_km": 0.0,
+   "fp": "49c0a88589028c80",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:c61392a5caf597db01a8c602b2486f63",
+    "suitable": true,
+    "score": 55,
+    "reason_fr": "Réception et préparation de commandes à Blois, mais l'offre manque de détails sur les exigences.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Depocu",
+    "summary_tr": "Blois'ta depo işi. Mal kabul ve sipariş hazırlama yapılıyor.",
+    "tasks_tr": [
+     "Mal kabul etmek",
+     "Sipariş hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de magasinier à Blois. J'ai plusieurs années d'expérience en préparation de commandes au scanner et en réception de marchandises. Je suis disponible rapidement et j'accepte tous les horaires. Merci pour votre attention."
    }
   },
   {
@@ -377,6 +560,51 @@
    }
   },
   {
+   "source": "jobijoba",
+   "source_id": "ce28527436c23be691a7802adbc3ef4c",
+   "title": "Preparateur de commandes caces (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/ce28527436c23be691a7802adbc3ef4c",
+   "company": "ACTUAL TAVERS",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "A propos de l'entreprise :\nNotre client, un acteur spécialisé dans l'entreposage et le stockage non frigorifique, s'appuie sur l'expertise de notre réseau national composé de 600 agences et 3550 collaborateurs pour renforcer ses équipes et vous accompagner vers l'emploi. \nA propos du poste :\nL'agence Actual est à la recherche d'un Préparateur de commandes CACES (H/F) dynamique pour une mission basée à Mer (41500). Dans le cadre de ce contrat, vous rejoindrez une équipe soudée pour participer activement aux opérations logistiques. Vos missions principales incluront : la préparation de commandes, la préparation en masse, ainsi que le transfert de produits au sein de l'entrepôt. Vous serez également amené à effectuer la conduite de chariot automoteur, sous réserve de la détention de votre CACES 1 et de la manutention (port de charges). Ce poste est à pourvoir sur une base de 35 heures par semaine, avec une rémunération horaire de 12,31 EUR. Si vous êtes rigoureux, investi et possédez les compétences CACES requises, nous serions ravis de recevoir votre candidature pour cette mission ! \nProfil recherché :\nPour occuper le poste de Préparateur de commandes CACES (H/F), nous recherchons une personne dynamique et rigoureuse. Une première expérience n'est pas forcément nécessaire car les personnes débutantes sont acceptées, à condition que vous soyez titulaire du CACES 1 (chariot à conducteur porté) et que vous fassiez preuve d'une réelle motivation pour le travail en entrepôt. Vous êtes reconnu pour votre sens de l'organisation, votre respect des consignes de sécurité et votre capacité à travailler efficacement en équipe. Si vous souhaitez vous investir dans une mission stimulante, votre profil nous intéresse.",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Préparateur de commandes",
+    "first_published": "2026-11-06"
+   },
+   "uid": "jobijoba:ce28527436c23be691a7802adbc3ef4c",
+   "distance_km": 18.4,
+   "fp": "e14f5ed391547412",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:ce28527436c23be691a7802adbc3ef4c",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le CACES 1 est obligatoire pour ce poste et elle ne l'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Forkliftli sipariş hazırlayıcı",
+    "summary_tr": "Mer'de depoda sipariş hazırlama işi. CACES 1 belgesi şart.",
+    "tasks_tr": [
+     "Sipariş hazırlamak",
+     "Ürün taşımak",
+     "Forklift kullanmak"
+    ],
+    "schedule_tr": "Haftada 35 saat",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de préparatrice de commandes à Mer. J'ai plusieurs années d'expérience en picking et en manutention. Je suis rapide et disponible. Merci pour votre attention."
+   }
+  },
+  {
    "source": "hellowork",
    "source_id": "85200391",
    "title": "Magasinier-Cariste Cross Dock H/F",
@@ -643,6 +871,100 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş",
     "apply_message_fr": "Bonjour, je suis intéressée par vos missions en industrie à Blois. J'ai plusieurs années d'expérience en production et conditionnement. Je suis sérieuse et j'apprends vite. Merci de me contacter."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85255636",
+   "title": "Magasinier - Vendeur Comptoir H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85255636.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "1 900 - 2 000 € / mois",
+   "hours": "",
+   "description": "Les missions du poste\n Le groupe ADWORK'S est un réseau de Travail Temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel. \nNotre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\nAdwork's Blois recherche pour un de ses clients, un profil Magasinier/Vendeur comptoir h/f pour une prise de poste dès que possible sur le secteur de Blois en mission d'intérim. \nPoste polyvalent au sein du magasin comprenant notamment: \nAccueil et conseil client au comptoir \nVente et renseignements techniques \nÉtablissement de devis \nPrise de commandes \nRéception et contrôle des marchandises \nGestion et rangement du stock \nPréparation de commandes \nLivraisons ponctuelles \nProfil recherché: \nVous possédez le caces 3 en cours de validité \nLe permis B est indispensable (livraisons) \nVous êtes à l'aise avec la relation client \nVous êtes reconnu(e) pour votre polyvalence, votre organisation et vous rigueur.\n Le profil recherché\n Titulaire du caces 3Permis BSens du relationnelRigueur, polyvalence, organisation\n Bienvenue chez Adwork’s Travail Temporaire\n Le groupe ADWORK'S est un réseau de Travail Temporaire en France constitué d'agences généralistes, au service des candidats à la recherche d'un emploi et des entreprises à la recherche de personnel.Notre réseau d'agences de recrutement à taille humaine est constitué de collaborateurs permanents, spécialistes du recrutement et des métiers de l'intérim dans de nombreux domaines (BTP, tertiaire, industrie, agroalimentaire, transport et logistique...).\n Mais aussi...\n -",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85255636",
+   "distance_km": 0.0,
+   "fp": "c91225b2d679e630",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "hellowork:85255636",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Le poste demande le CACES 3 et beaucoup de relation client, de vente et de devis.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Depocu - Tezgah satış elemanı",
+    "summary_tr": "Blois'ta bir mağazada depo ve satış işi. Müşteriyle çok konuşmak gerekiyor.",
+    "tasks_tr": [
+     "Müşteriye satış yapmak",
+     "Stok düzenlemek",
+     "Sipariş hazırlamak"
+    ],
+    "schedule_tr": "Tam zamanlı",
+    "salary_tr": "Ayda 1 900 - 2 000 €",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de magasinier à Blois. J'ai plusieurs années d'expérience en préparation de commandes et en manutention. Je suis disponible rapidement. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85249739",
+   "title": "Opérateur Fraiseur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85249739.html",
+   "company": "ADERIM",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41260",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "4 semaines",
+   "salary": "13 - 15,56 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\nQUI SOMMES-NOUS ? \nL'entreprise ADERIM s'est imposée comme une PME régionale avant de développer ses agences dans le reste de la France. Réseau Français indépendant et généraliste de travail temporaire, ADERIM fonctionne sur un schéma décisionnel simplifié, permettant aux clients d'obtenir immédiatement les réponses à leurs interrogations, en fournissant une qualité de service irréprochable.\nVous aimez voir une pièce brute devenir une pièce usinée précise ? Ici, vous pilotez un fraiseur CN en 2x8 à La Chaussée-Saint-Victor. \nVous travaillez sur des pièces à façon, avec des plans à lire, des réglages à ajuster et des tolérances à tenir. Le poste demande de l'attention, de la régularité et un vrai suivi de machine. \nDans ce rythme, vous échangez avec l'atelier pour sécuriser la production et signaler tout écart. Vous gardez la main sur la qualité, la cadence et les priorités du poste. \nLe poste s'inscrit dans un atelier où la qualité se vérifie à chaque étape. \nVos missions couvrent l'usinage, les réglages et le contrôle des pièces au quotidien. \n- Préparer la machine et monter les outils adaptés. \n- Régler les paramètres selon le plan et la gamme. \n- Lancer l'usinage sur commande numérique. \n- Contrôler les cotes et corriger les écarts. \n- Surveiller le déroulement de la production. \n- Signaler les anomalies et alerter en cas de dérive. \n- Renseigner les suivis et effectuer l'entretien de premier niveau. \nVous avancez avec des consignes claires et un cadre de travail organisé. L'objectif est simple : produire juste, tenir les délais et garder une qualité régulière.\n Le profil recherché\n Ce poste demande de la précision, du calme et des réflexes sûrs devant la machine, chaque jour.- Vous maîtrisez le fraisage sur commande numérique, le réglage machine et le lancement des usinages en série.- Vous lisez un plan, puis ajustez vos paramètres avec méthode, précision et sens des priorités.- Vous contrôlez des pièces avec rigueur, à l'aide d'outils de mesure fiables et adaptés.- Vous réagissez vite en cas d'écart, sans perdre le fil de la production ni la qualité.- Vous avez déjà travaillé en atelier industriel, idéalement sur fraiseuse et sur postes en cadence.- Vous acceptez un rythme en 2x8 et un cadre exigeant, avec une présence régulière.\n Bienvenue chez ADERIM\n QUI SOMMES-NOUS ?L'entreprise ADERIM s'est imposée comme une PME régionale avant de développer ses agences dans le reste de la France. Réseau Français indépendant et généraliste de travail temporaire, ADERIM fonctionne sur un schéma décisionnel simplifié, permettant aux clients d'obtenir immédiatement les réponses à leurs interrogations, en fournissant une qualité de service irréprochable.\n Mais aussi...\n Travailler chez ADERIM vous donne accès à de nombreux avantages tels que :- Une majoration de votre salaire brut d'environ 20% (10% IFM - 10% congés payés)- Accès à des formations professionnelles, diplômantes ou qualifiantes- Le coffre-fort ARMADO (vos documents sur vo",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85249739",
+   "distance_km": 3.9,
+   "fp": "412dbcb89cd0aa12",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "hellowork:85249739",
+    "suitable": false,
+    "score": 8,
+    "reason_fr": "Poste de fraiseur sur commande numérique qui exige la maîtrise du réglage et de la lecture de plans.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Freze operatörü",
+    "summary_tr": "CNC freze makinesinde parça işlemek. La Chaussée-Saint-Victor'da, 2 vardiya.",
+    "tasks_tr": [
+     "Makine ayarı",
+     "Parça işlemek",
+     "Ölçü kontrolü"
+    ],
+    "schedule_tr": "2x8 vardiya",
+    "salary_tr": "Saatte 13 - 15,56 €",
+    "duration_tr": "4 hafta",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et j'accepte le travail en 2x8. Je reste disponible. Merci."
    }
   },
   {
@@ -1050,6 +1372,139 @@
    }
   },
   {
+   "source": "francetravail",
+   "source_id": "216DRDV",
+   "title": "Vendeur H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216DRDV",
+   "company": "CELIO",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps partiel",
+   "description": "Description du poste\nVendeur 30h F/H CDD CC AUCHAN BLOIS/VINEUIL\nTon futur quotidien\nEn tant que vendeur.euse de magasin et sous la supervision du directeur.rice de magasin, ta mission consistera à...",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216DRDV",
+   "distance_km": 3.1,
+   "fp": "1aa481f64fd3bc0b",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "francetravail:216DRDV",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de vente où le français oral et le relationnel client sont centraux.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış elemanı",
+    "summary_tr": "Mağazada müşterilere satış yapmak. Vineuil'de CELIO mağazası.",
+    "tasks_tr": [
+     "Müşteriye yardım",
+     "Satış yapmak",
+     "Mağazayı düzenlemek"
+    ],
+    "schedule_tr": "Yarı zamanlı, haftada 30 saat",
+    "salary_tr": "",
+    "duration_tr": "Belirli süreli sözleşme (CDD)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de vendeuse. Je suis sérieuse et motivée. Je reste disponible pour un entretien. Merci."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8619866",
+   "title": "MENUISIER POSEUR H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8619866",
+   "company": "Adwork's La Chaussée St Victor",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Adwork's Blois recherche pour un de ses clients sur le secteur de Blois, un menuisier poseur h/f.\nVous procéderez à l'installation d'éléments en PVC et en aluminium intérieur/extérieur (fenêtres,...",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:8619866",
+   "distance_km": 0.0,
+   "fp": "8287e158085e92b3",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "francetravail:8619866",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Métier qualifié de menuisier poseur qui demande une formation spécifique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Doğramacı montajcı",
+    "summary_tr": "PVC ve alüminyum pencere takmak. Blois bölgesinde.",
+    "tasks_tr": [
+     "Pencere takmak",
+     "Kapı takmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et travailleuse. Je reste disponible pour en parler. Merci."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85237963",
+   "title": "Menuisier Poseur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85237963.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85237963",
+   "distance_km": 0.0,
+   "fp": "a455dd501109593e",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/08fd1b400f71af748ec4e809118e39ef"
+    }
+   ],
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "hellowork:85237963",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Menuisier poseur est un métier qualifié qui demande une formation spécifique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Marangoz - montajcı",
+    "summary_tr": "Blois'ta marangozluk ve montaj işi. Meslek bilgisi gerekiyor.",
+    "tasks_tr": [
+     "Kapı ve pencere takmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par cette mission à Blois. J'ai plusieurs années d'expérience en intérim dans l'industrie et la logistique. Je suis sérieuse et disponible. Merci pour votre attention."
+   }
+  },
+  {
    "source": "hellowork",
    "source_id": "85212617",
    "title": "Soudeur H/F",
@@ -1127,6 +1582,267 @@
     "salary_tr": "Saatte 13-15 €",
     "duration_tr": "18 ay",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "216DTDF",
+   "title": "MÉCANICIEN PL H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216DTDF",
+   "company": "CRIT INTERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Notre agence CRIT Blois recherche un Mécanicien Poids Lourds H/F pour une mission longue durée sur le secteur de Blois (41).\n Vos missions\nRattaché(e) au Responsable d'Atelier, vous assurez la...",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216DTDF",
+   "distance_km": 0.0,
+   "fp": "fcb14003e8ec34c3",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "francetravail:216DTDF",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de mécanicien poids lourds qui exige une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kamyon tamircisi",
+    "summary_tr": "Atölyede kamyon tamir etmek. Blois'da, CRIT.",
+    "tasks_tr": [
+     "Kamyon bakımı",
+     "Arıza tamiri"
+    ],
+    "schedule_tr": "Tam zamanlı",
+    "salary_tr": "",
+    "duration_tr": "Uzun geçici iş",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et motivée. Je reste disponible. Merci."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8620549",
+   "title": "TECHNICIEN ORDONNANCEMENT H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8620549",
+   "company": "SUPPLAY BLOIS",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Planifier la production en fonction des commandes clients et des capacités de fabrication.\nAssurer le lancement et le suivi des ordres de fabrication.\nVeiller au respect des délais annoncés aux...",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:8620549",
+   "distance_km": 0.0,
+   "fp": "3405dd9f60a2ea7a",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "francetravail:8620549",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien en planification avec beaucoup de travail écrit et informatique.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Üretim planlama teknisyeni",
+    "summary_tr": "Üretimi planlamak ve takip etmek. Blois'da.",
+    "tasks_tr": [
+     "Üretim planı",
+     "Sipariş takibi"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et motivée. Je reste disponible. Merci."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85262549",
+   "title": "Technicien Ordonnancement H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85262549.html",
+   "company": "Artus Interim",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "4 semaines",
+   "salary": "14 - 15 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85262549",
+   "distance_km": 3.9,
+   "fp": "a1f62ec1bc516aa1",
+   "also_on": [
+    {
+     "source": "meteojob",
+     "url": "https://www.meteojob.com/jobs/57943671"
+    }
+   ],
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "hellowork:85262549",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien en ordonnancement, administratif et qualifié.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Üretim planlama teknisyeni",
+    "summary_tr": "Üretimi planlamak. La Chaussée-Saint-Victor'da, Artus Interim.",
+    "tasks_tr": [
+     "Üretim planı",
+     "Takip"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 14 - 15 €",
+    "duration_tr": "4 hafta",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et motivée. Je reste disponible. Merci."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3b8f45af95851daffbb538272940b4fc",
+   "title": "Technicien ordonnancement H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3b8f45af95851daffbb538272940b4fc",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "15 € de l'heure",
+   "hours": "",
+   "description": "d’études minimum Bac et justifie d'une expérience en ordonnancement ou en lancement de production. La personne saura démontrer d'excellentes",
+   "published": "2026-11-05",
+   "phone": "",
+   "extra": {
+    "metier": "Technicien ordonnancement"
+   },
+   "uid": "jobijoba:3b8f45af95851daffbb538272940b4fc",
+   "distance_km": 0.0,
+   "fp": "63e2845828e33698",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:3b8f45af95851daffbb538272940b4fc",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien qui exige au minimum un bac.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Üretim planlama teknisyeni",
+    "summary_tr": "Blois'ta üretim planlama işi. Lise diploması ve tecrübe şart.",
+    "tasks_tr": [
+     "Üretimi planlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 15 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en production et conditionnement. Je suis sérieuse et disponible. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "17651772ea751c915e42f06cc86bdcec",
+   "title": "Mécanicien aéronautique",
+   "url": "https://www.jobijoba.com/fr/annonce/54/17651772ea751c915e42f06cc86bdcec",
+   "company": "Armée De Terre",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "votre spécialité consiste à réaliser des actes de préparation et de maintenance simples sur les hélicoptères de l’armée de Terre. Vous êtes spécialisé pour",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Mécanicien aéronautique"
+   },
+   "uid": "jobijoba:17651772ea751c915e42f06cc86bdcec",
+   "distance_km": 0.0,
+   "fp": "cb660ce3be06f3be",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:17651772ea751c915e42f06cc86bdcec",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de maintenance technique dans l'armée, hors de son profil.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Uçak teknisyeni",
+    "summary_tr": "Blois'ta ordu helikopterlerinin bakımı. Teknik bir iş.",
+    "tasks_tr": [
+     "Helikopter bakımı yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en industrie et logistique. Je suis sérieuse et motivée. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "695746c26b5ad87572868491472da50e",
+   "title": "Chauffeur / Chauffeuse de poids lourd",
+   "url": "https://www.jobijoba.com/fr/annonce/54/695746c26b5ad87572868491472da50e",
+   "company": "Graines & Compétences",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "22 404,2 € par an",
+   "hours": "",
+   "description": "- Assurer la conduite de poids lourds sur chantiers de travaux forestiers et d'aménagement paysager. \n - Entretenir, diagnostiquer et réparer les",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Chauffeur de poids lourd"
+   },
+   "uid": "jobijoba:695746c26b5ad87572868491472da50e",
+   "distance_km": 0.0,
+   "fp": "c2d707063e9d87e7",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:695746c26b5ad87572868491472da50e",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Le poste exige un permis poids lourd (C/CE) et des compétences en mécanique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kamyon şoförü",
+    "summary_tr": "Orman ve bahçe işlerinde kamyon sürmek. Yer: Blois.",
+    "tasks_tr": [
+     "Kamyon sürmek",
+     "Araç bakımı yapmak",
+     "Araç tamir etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 22 404 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en manutention et chargement de colis. Je suis sérieuse et disponible rapidement. Merci pour votre réponse."
    }
   },
   {
@@ -1247,6 +1963,142 @@
     "salary_tr": "Ayda 2 600 - 2 900 €",
     "duration_tr": "",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "adecco",
+   "source_id": "2145928601",
+   "title": "Électrotechnicien  (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2145928601",
+   "company": "Adecco",
+   "city": "Vineuil",
+   "postal_code": "41350",
+   "lat": 47.5855,
+   "lon": 1.3886,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco Blois BTP recrute pour le compte de son client, une entreprise experte de l’installation électrique dans tous locaux , où la qualité de pose et la mise en service font la différence sur le terrain. Pour 1 poste à VINEUIL (41350) , vous intégrez une équipe qui avance en journée , dans un environnement orienté performance et respect des règles de sécurité.\nAu quotidien, vous participez à la réalisation d’installations fiables, en veillant à la conformité des travaux et à la bonne coordination de chantier. Vous intervenez pour câbler, raccorder, contrôler et contribuer aux contrôles nécessaires avant la remise en fonction.\nVos principales missions seront les suivantes :\n- Réaliser le câblage électrique et assurer le raccordement des équipements à partir des plans et dossiers techniques.\n- Exploiter les schémas électriques pour installer, vérifier et fiabiliser les circuits.\n- Garantir la conformité des installations selon les exigences de mise en service, notamment la norme NFC 15-100 .\n- Monter et ajuster l’ appareillage basse tension en fonction des besoins du chantier.\n- Effectuer des contrôles de vérification à l’aide d’un multimètre , puis réaliser les tests attendus avant remise en fonction.\n- Contribuer à la préparation de chantier et à la gestion des priorités afin de respecter les étapes prévues.\nLe contrat proposé est un intérim à temps plein pour une durée de 18 mois , avec une prise de poste dès que possible.\nVotre profil\nVous êtes à l’aise sur chantier, attentif·ve aux détails, et motivé·e par le travail bien fait ? Une première expérience réussie en installation électrique vous a déjà permis de gagner en autonomie et de prendre de bonnes habitudes de contrôle.\nCompétences comportementales\n- Rigueur sécurité : indispensable pour travailler sereinement et sécuriser chaque étape du chantier.\n- Autonomie chantier : pour avancer efficacement, tout en respectant le cadre technique et les consignes.\n- Lecture de plans : pour passer rapidement du dossier à la réalisation, sans perdre de temps.\n- Sens du service : pour livrer une installation conforme aux attentes opérationnelles.\n- Travail en équipe : pour coordonner vos interventions avec les autres métiers présents sur le site.\nCompétences techniques\n- Maîtrise du câblage électrique : réaliser des raccordements propres, fiables et conformes.\n- Exploitation des schémas électriques : sécuriser le montage et le cheminement des circuits.\n- Connaissance des normes NFC 15-100 : garantir la conformité des installations.\n- Installation et adaptation d’ appareillage basse tension : ajuster selon la configuration et les besoins.\n- Réalisation de contrôles au multimètre : vérifier les points attendus avant mise en service.\nVous préparez votre avenir avec une mission durable, à VINEUIL : intérim à temps plein en journée , pour 18 mois , 1 poste à pourvoir , avec une arrivée prévue dès que possible .\nPermis B requis\nPrêt·e à rejoindre une équipe qui valorise la qualité d’exécution ?",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "secteur": "Bâtiment - Travaux Publics",
+    "postes": 1,
+    "debut_asap": true,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2145928601",
+    "agence": "ADFR_B49",
+    "debut": "2026-11-06"
+   },
+   "uid": "adecco:2145928601",
+   "distance_km": 4.0,
+   "fp": "7d7c58c6c4ef8b08",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "adecco:2145928601",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste d'électrotechnicien qui demande une qualification et des habilitations électriques.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Elektrik teknisyeni",
+    "summary_tr": "Binalarda elektrik tesisatı yapmak. Vineuil'de, Adecco.",
+    "tasks_tr": [
+     "Kablo çekmek",
+     "Bağlantı yapmak",
+     "Kontrol etmek"
+    ],
+    "schedule_tr": "Tam zamanlı, gündüz",
+    "salary_tr": "",
+    "duration_tr": "18 ay geçici iş",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et motivée. Je reste disponible. Merci."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "db9a83f4b0ff9d53ef512a32682d80ba",
+   "title": "Infirmier D.E H/F - EHPAD - Vacation - à 10min de Blois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/db9a83f4b0ff9d53ef512a32682d80ba",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "15,82 € de l'heure",
+   "hours": "",
+   "description": "chaque jour * Horaires : 7h00 - 17h30 ou 9h00 - 19h45 * Taux horaire selon votre expérience avec reprise d'ancienneté à 100 % * Application de la",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier ehpad"
+   },
+   "uid": "jobijoba:db9a83f4b0ff9d53ef512a32682d80ba",
+   "distance_km": 0.0,
+   "fp": "d192c917a79a5554",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:db9a83f4b0ff9d53ef512a32682d80ba",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Le poste exige le diplôme d'État d'infirmier.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (yaşlı bakımevi)",
+    "summary_tr": "Yaşlı bakımevinde hemşirelik. Blois yakınında.",
+    "tasks_tr": [
+     "Hastalara bakmak",
+     "İlaç vermek"
+    ],
+    "schedule_tr": "7:00-17:30 veya 9:00-19:45",
+    "salary_tr": "Saatte 15,82 €",
+    "duration_tr": "Geçici iş (günlük)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en intérim. Je suis sérieuse et disponible. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "5b97f024ce8bc0015b5dcf3d83e70ee1",
+   "title": "Chef de groupe mécanicien armement",
+   "url": "https://www.jobijoba.com/fr/annonce/54/5b97f024ce8bc0015b5dcf3d83e70ee1",
+   "company": "Armée De Terre",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "2,5. Vos qualités : goût de la planification et de l'organisation, aimer prendre des initiatives, goût des responsabilités À partir du bac Homme ou",
+   "published": "2026-11-05",
+   "phone": "",
+   "extra": {
+    "metier": "Mécanicien"
+   },
+   "uid": "jobijoba:5b97f024ce8bc0015b5dcf3d83e70ee1",
+   "distance_km": 0.0,
+   "fp": "bb8968a7de7b69fe",
+   "first_seen": "2026-11-06",
+   "ai": {
+    "uid": "jobijoba:5b97f024ce8bc0015b5dcf3d83e70ee1",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'encadrement technique dans l'armée qui demande au moins le bac.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Silah mekanik ekip şefi",
+    "summary_tr": "Orduda silah tamir ekibini yönetmek. Yer: Blois.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Silah tamiri",
+     "İş planlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en production et manutention. Je suis sérieuse et motivée. Merci pour votre réponse."
    }
   },
   {
