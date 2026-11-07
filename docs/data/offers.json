@@ -1,6 +1,660 @@
 {
- "updated": "2026-11-06T18:43:56+00:00",
+ "updated": "2026-11-07T11:43:46+00:00",
  "offers": [
+  {
+   "source": "jobijoba",
+   "source_id": "48589806321725a806b11cab38c2b830",
+   "title": "Agent De Production (H/F) - €12,7 Par Heure",
+   "url": "https://www.jobijoba.com/fr/annonce/54/48589806321725a806b11cab38c2b830",
+   "company": "Adecco",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste consiste à emballer, mettre en étuis et contrôler la qualité de produits cosmétiques. Une expérience dans les secteurs cosmétique, pharmaceutique ou agroalimentaire est exigée. Travail en 2x8 avec une rémunération horaire de 12.65€.",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Agent de production",
+    "first_published": "2026-11-07"
+   },
+   "uid": "jobijoba:48589806321725a806b11cab38c2b830",
+   "distance_km": 0.0,
+   "fp": "ee0f9a87792ea039",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/c71f7fe98d4eff5ed250888a3f7a9907"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:48589806321725a806b11cab38c2b830",
+    "suitable": true,
+    "score": 95,
+    "reason_fr": "Emballage et mise en étuis de cosmétiques à Blois, exactement son expérience en conditionnement cosmétique et pharmaceutique.",
+    "category": "paketleme",
+    "french_level": "az",
+    "title_tr": "Üretim elemanı (kozmetik paketleme)",
+    "summary_tr": "Kozmetik ürünleri paketleyip kutuya koyacaksınız. İş Blois'da.",
+    "tasks_tr": [
+     "Ürünleri paketlemek",
+     "Kutuya koymak",
+     "Kaliteyi kontrol etmek"
+    ],
+    "schedule_tr": "2 vardiya (2x8)",
+    "salary_tr": "Saatte 12,65 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de production en cosmétique à Blois. J'ai plusieurs années d'expérience en conditionnement et étiquetage dans la cosmétique et la pharmacie. Je suis rapide, sérieuse et disponible en 2x8. Je suis disponible pour un entretien quand vous voulez."
+   }
+  },
+  {
+   "source": "synergie",
+   "source_id": "685-843",
+   "title": "Préparateur de commandes F/H",
+   "url": "https://www.synergie.fr/trouver-un-emploi/preparateur-de-commandes-f-h-blois-41000/offre-685-843",
+   "company": "Agence Synergie Blois",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Interim",
+   "duration": "Du 30/11/2026 au 31/12/2026",
+   "salary": "<20 K€",
+   "hours": "- Horaires avec amplitude importante et coupure l'après-midi",
+   "description": "Descriptif du poste\nAu sein de l'entrepôt, vous intervenez dans la préparation des commandes pharmaceutiques à destination des clients.\nÀ ce titre, vous serez amené(e) à :\n- Préparer les commandes à l'aide d'un terminal embarqué (PDA).\n- Prélever les produits dans les différents emplacements de stockage.\n- Contrôler la conformité des articles préparés.\n- Veiller à la qualité et à l'exactitude des commandes.\n- Participer au réapprovisionnement des zones de picking.\n- Respecter les consignes de sécurité, d'hygiène et les procédures qualité.\nPoste nécessitant de la concentration, de la rapidité d'exécution et une grande minutie afin de garantir un taux d'erreur minimal.\nProfil recherché\nVous justifiez idéalement d'une première expérience réussie en préparation de commandes.\nLes candidatures de personnes issues de la restauration, de la vente ou de métiers nécessitant rigueur, rapidité et sens du détail seront également étudiées avec attention.\nVous êtes :\n- Dynamique et réactif(ve).\n- Sérieux(se) et ponctuel(le).\n- Organisé(e) et minutieux(se).\n- À l'aise avec une activité rythmée nécessitant précision et productivité.\n- Disponible pour travailler le samedi.\nConditions du poste :\n- Contrat intérim de 30h ou 35h / semaine.\n- Travail du lundi au samedi.\n- Horaires avec amplitude importante et coupure l'après-midi.\n- Mission de longue durée possible selon l'activité.\n- Intégration au sein d'une équipe dynamique et d'un secteur indispensable au quotidien.\nVous aimez les postes où chaque détail compte et où votre rigueur fait la différence ? Rejoignez une entreprise reconnue pour son exigence et son professionnalisme.\nA propos de notre client\nNotre client est un acteur majeur de la distribution pharmaceutique, reconnu pour son exigence en matière de qualité de service et de satisfaction client. Afin de renforcer ses équipes logistiques, il recherche des Préparateurs de commandes H/F rigoureux, dynamiques et impliqués.\nVous intégrerez un environnement de travail organisé où la précision, la réactivité et le respect des procédures sont essentiels pour garantir la bonne livraison des produits aux pharmacies.",
+   "published": "2026-11-06",
+   "phone": "02 54 90 50 60",
+   "extra": {
+    "metier": "Préparateur de commandes",
+    "secteur": "Pharmaceutique",
+    "fin": "2026-12-31"
+   },
+   "uid": "synergie:685-843",
+   "distance_km": 0.0,
+   "fp": "f4c99a45bef5f590",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "synergie:685-843",
+    "suitable": true,
+    "score": 92,
+    "reason_fr": "Préparation de commandes au PDA dans le pharmaceutique à Blois, très proche de son expérience en picking.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlama elemanı",
+    "summary_tr": "İlaç deposunda sipariş hazırlama. İş Blois'da.",
+    "tasks_tr": [
+     "El terminali ile sipariş hazırlamak",
+     "Ürünleri raftan almak",
+     "Ürünleri kontrol etmek"
+    ],
+    "schedule_tr": "Haftada 30 veya 35 saat, pazartesi-cumartesi, öğleden sonra ara var",
+    "salary_tr": "Yılda 20 bin €'dan az",
+    "duration_tr": "30/11/2026 - 31/12/2026, uzayabilir",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de préparatrice de commandes dans le pharmaceutique. J'ai plusieurs années d'expérience en préparation de commandes au scanner en entrepôt. Je suis rapide, sérieuse et disponible le samedi. Je reste à votre disposition pour un entretien."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3aff33c0fb96e4b5f2c5ac8a9adb3abd",
+   "title": "Préparateur de Commandes H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3aff33c0fb96e4b5f2c5ac8a9adb3abd",
+   "company": "Synergie",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "20 000 € par an",
+   "hours": "",
+   "description": "Notre client est un acteur majeur de la distribution pharmaceutique, reconnu pour son exigence en matière de qualité de service et de satisfaction client. Afin de renforcer ses équipes logistiques, il recherche des Préparateurs de commandes H/F rigoureux, dynamiques et impliqués. \nVous intégrerez un environnement de travail organisé où la précision, la réactivité et le respect des procédures sont essentiels pour garantir la bonne livraison des produits aux pharmacies. \nAu sein de l'entrepôt, vous intervenez dans la préparation des commandes pharmaceutiques à destination des clients. \nÀ ce titre, vous serez amené(e) à : \n- Préparer les commandes à l'aide d'un terminal embarqué (PDA). \n- Prélever les produits dans les différents emplacements de stockage. \n- Contrôler la conformité des articles préparés. \n- Veiller à la qualité et à l'exactitude des commandes. \n- Participer au réapprovisionnement des zones de picking. \n- Respecter les consignes de sécurité, d'hygiène et les procédures qualité. \nPoste nécessitant de la concentration, de la rapidité d'exécution et une grande minutie afin de garantir un taux d'erreur minimal. Vos avantages Synergie: \n+10% IFM + 10% CP, \nCSE Synergie, \nPrime Participation + CET à 6%, \nAides et Services (Mutuelle - Logement - Garde d'enfants...)",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Préparateur de commandes",
+    "first_published": "2026-11-07"
+   },
+   "uid": "jobijoba:3aff33c0fb96e4b5f2c5ac8a9adb3abd",
+   "distance_km": 0.0,
+   "fp": "85279e54fbd01106",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:3aff33c0fb96e4b5f2c5ac8a9adb3abd",
+    "suitable": true,
+    "score": 88,
+    "reason_fr": "Préparation de commandes pharmaceutiques au PDA à Blois, correspond à son expérience.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlama elemanı",
+    "summary_tr": "İlaç deposunda sipariş hazırlama. İş Blois'da.",
+    "tasks_tr": [
+     "El terminali ile sipariş hazırlamak",
+     "Ürünleri raftan almak",
+     "Rafları doldurmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 20 000 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je souhaite postuler au poste de préparatrice de commandes. J'ai plusieurs années d'expérience en picking au scanner en entrepôt. Je suis rapide, minutieuse et disponible tout de suite. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "78a03d0790b4b4eea5cd797a6b745969",
+   "title": "Opérateur De Fabrication H/F - €12,3 Par Heure",
+   "url": "https://www.jobijoba.com/fr/annonce/54/78a03d0790b4b4eea5cd797a6b745969",
+   "company": "ARTUS INTERIM Contres",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Nous recherchons un opérateur de production pour une entreprise agroalimentaire.",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Opérateur de fabrication"
+   },
+   "uid": "jobijoba:78a03d0790b4b4eea5cd797a6b745969",
+   "distance_km": 0.0,
+   "fp": "b88aeee6630f85d3",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/06af172eb299eb2e551e5596ee75ebd8"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:78a03d0790b4b4eea5cd797a6b745969",
+    "suitable": true,
+    "score": 75,
+    "reason_fr": "Poste d'opérateur en agroalimentaire à Blois, accessible sans diplôme, mais peu de détails sur les tâches et horaires.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim elemanı (gıda)",
+    "summary_tr": "Gıda fabrikasında üretimde çalışacaksınız. İş Blois'da.",
+    "tasks_tr": [
+     "Üretim hattında çalışmak",
+     "Ürünleri hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,30 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opérateur de fabrication en agroalimentaire à Blois. J'ai plusieurs années d'expérience en intérim en production et conditionnement. Je suis travailleuse, rapide et j'accepte tous les horaires. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "76472272",
+   "title": "Opérateur de Fabrication des Industries Chimiques H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/76472272.html",
+   "company": "ADERIM",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "6 mois",
+   "salary": "12,02 - 12,44 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n QUI SOMMES-NOUS ? \nL'entreprise ADERIM s'est imposée comme une PME régionale avant de développer ses agences dans le reste de la France. Réseau Français indépendant et généraliste de travail temporaire, ADERIM fonctionne sur un schéma décisionnel simplifié, permettant aux clients d'obtenir immédiatement les réponses à leurs interrogations, en fournissant une qualité de service irréprochable.\nAvez-vous le sens du détail et le goût du travail soigné en milieu industriel ? \nADERIM recrute un agent de fabrication pour une mission d'intérim au sein d'un site pharmaceutique. Vous évoluerez dans un environnement exigeant où la rigueur et la précision sont essentielles à chaque étape de production. \nAu quotidien, vous travaillez au sein d'une équipe encadrée par un chef d'atelier. Vous assurez la fabrication des produits selon les procédures qualité et les règles de sécurité en vigueur. Les horaires sont alternés, notamment en 2x8, selon la planification de production. \nVos principales missions sont les suivantes : \n- Préparer les matières premières et vérifier leur conformité \n- Conduire les équipements de fabrication selon les modes opératoires \n- Surveiller les paramètres de production et ajuster si nécessaire \n- Effectuer les contrôles en cours de fabrication et renseigner les documents de suivi \n- Nettoyer et entretenir le matériel et la zone de travail \n- Signaler toute anomalie ou déviation aux équipes qualité ou maintenance \n- Participer aux opérations de conditionnement ou de stockage en fin de cycle \nCe poste requiert une attention constante à la qualité et à la sécurité. Vous intervenez dans un cadre strictement réglementé, où la traçabilité et le respect des procédures sont incontournables.\n Le profil recherché\n Vous appréciez le travail en équipe et savez suivre des consignes précises sans négliger la qualité du résultat. \nPour réussir sur ce poste, les compétences suivantes sont attendues : \n- Expérience en production industrielle, idéalement dans le secteur pharmaceutique ou agroalimentaire \n- Connaissance des règles d'hygiène, de sécurité et des bonnes pratiques de fabrication \n- Capacité à utiliser des équipements de production automatisés ou semi-automatisés \n- Rigueur dans l'application des procédures et dans la tenue des enregistrements \n- Aptitude à travailler en horaires alternés, y compris en équipe 2x8 \n- Bon sens de l'observation et réactivité face aux anomalies \nUne formation technique ou scientifique de niveau CAP à Bac est appréciée, ainsi qu'une première expérience réussie en environnement industriel réglementé.\n Bienvenue chez ADERIM\n QUI SOMMES-NOUS ? \nL'entreprise ADERIM s'est imposée comme une PME régionale avant de développer ses agences dans le reste de la France. Réseau Français indépendant et généraliste de travail temporaire, ADERIM fonctionne sur un schéma décisionnel simplifié, permettant aux clients d'obtenir immédiatement les réponses à leurs interrogations, en fournissant une qualité de se",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:76472272",
+   "distance_km": 0.0,
+   "fp": "077cba78426ea233",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "hellowork:76472272",
+    "suitable": true,
+    "score": 62,
+    "reason_fr": "Production en site pharmaceutique en 2x8 sans diplôme obligatoire, mais conduite d'équipements et documents à remplir.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Kimya üretim operatörü",
+    "summary_tr": "İlaç fabrikasında üretim işi. İş Blois'da.",
+    "tasks_tr": [
+     "Hammaddeleri hazırlamak",
+     "Makineleri kullanmak",
+     "Temizlik ve paketleme"
+    ],
+    "schedule_tr": "2x8 vardiya",
+    "salary_tr": "Saati 12,02 - 12,44 €",
+    "duration_tr": "6 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par la mission d'opératrice de fabrication. J'ai plusieurs années d'expérience en conditionnement dans le pharmaceutique et la cosmétique. Je respecte bien les procédures d'hygiène et je suis disponible en 2x8. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "56844053",
+   "title": "Ouvrier paysagiste H/F",
+   "url": "https://www.meteojob.com/jobs/56844053",
+   "company": "ADEQUAT",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.59432,
+   "lon": 1.32912,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "1 867,02 € - 2 250 € par mois",
+   "hours": "Temps Plein",
+   "description": "Poste à pourvoir pour la saison - entreprise familiale \n Notre agence Adéquat de Blois recrute des nouveaux talents : un ouvrier paysagiste H/F pour son client expert dans le service d'aménagement paysager à une dizaine de Km au sud de Blois (41)\n Missions :\n - Entretien des jardins/pelouse/massif\n - Taille/ Elagage des arbustes\n - Préparation des sols\n - Conseiller la clientèle\n Profil :\n - Aimer le travail en extérieur\n - Avoir un bon contact avec la clientèle\n Rémunération :\n Selon profil et expérience\n Rémunération et avantages :\n - Taux horaire fixe + 10% de fin de mission + 10% de congés payés\n - Primes collective et/ou individuelle + participation aux bénéfices + CET 5%\n - Acompte de paye à la semaine si besoin,\n - Possibilité d'intégration rapide, de formation et d'évolution,\n - Bénéficiez d'aides et de services dédiés (mutuelle, logement, garde enfant, déplacement).\n Pour toutes questions, vous pouvez nous joindre au ***\n Rejoignez le groupe Adéquat, l'acteur le plus dynamique du secteur de l'emploi depuis 3 ans !\n Adéquat, Simplement pour vous !",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Ouvrier paysagiste (H/F)"
+    ]
+   },
+   "uid": "meteojob:56844053",
+   "distance_km": 1.0,
+   "fp": "74776363f254a280",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "meteojob:56844053",
+    "suitable": false,
+    "score": 25,
+    "reason_fr": "Paysagiste avec taille, élagage et conseil à la clientèle, loin de son expérience.",
+    "category": "tarim",
+    "french_level": "orta",
+    "title_tr": "Bahçıvan işçisi",
+    "summary_tr": "Bahçe bakımı işi. Blois'nın güneyinde.",
+    "tasks_tr": [
+     "Bahçe bakımı",
+     "Ağaç budamak",
+     "Müşteriye bilgi vermek"
+    ],
+    "schedule_tr": "Tam zamanlı",
+    "salary_tr": "Ayda 1867 - 2250 €",
+    "duration_tr": "Sezon boyunca",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste saisonnier. J'aime travailler dehors et j'ai fait des travaux agricoles. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "57511558",
+   "title": "Peintre polyvalent / Manoeuvre bâtiment H/F",
+   "url": "https://www.meteojob.com/jobs/57511558",
+   "company": "RAS Intérim",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41260",
+   "lat": 47.61621,
+   "lon": 1.36765,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "Salaire non précisé",
+   "hours": "Temps Plein",
+   "description": "En tant que peintre polyvalent / manœuvre bâtiment , vous intervenez sur des chantiers de rénovation intérieure à BLOIS et participez à la préparation et à la finition des pièces.\n Vos missions principales :\n Préparation des supports : protection des pièces, dépose de papiers peints, lessivage, enduisage des murs, ponçage.\n Travaux de peinture : application des sous-couches et peintures (manuelle ou machine), réalisation des finitions propres, utilisation de pouces à rechampir.\n Pose de revêtements : pose de toile de verre ou papier intissé dans le respect des règles de l'art.\n Aide logistique : participation au chargement et déchargement du véhicule, rangement et nettoyage de fin de chantier.\n Travaux complémentaires (selon profil) : aide au démontage de cuisine et salle de bain, préparation et montage de nouveaux meubles.\n Organisation et reporting : être autonome sur le chantier, respecter la productivité attendue tout en gardant une bonne qualité de finition, rendre compte du travail effectué.\n Vous êtes un(e) peintre polyvalent(e) / manœuvre bâtiment sérieux(se) et appliqué(e), souhaitant vous investir sur des chantiers variés.\n Compétences techniques : maîtrise des bases de la peinture intérieure (préparation des supports, sous-couche, mise en peinture), utilisation de brosses/pouces à rechampir, pose de toile de verre ou papier intissé.\n Polyvalence chantier : capacité à participer au déchargement/chargement du véhicule, aide au démontage de cuisine/salle de bain et au montage de meubles (atout apprécié).\n Autonomie et rigueur : savoir travailler seul sur chantier, organiser son travail, respecter les délais et les consignes de sécurité.\n Qualité de finition : sens du détail, travail propre, productif tout en conservant une bonne qualité et une bonne réactivité.\n Savoir-être : travailleur(se), motivé(e), fiable, sachant rendre compte du travail effectué.\n Langue : compréhension et expression orale minimum en français pour échanger efficacement sur les consignes.",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Ouvrier polyvalent en rénovation intérieure (H/F)"
+    ]
+   },
+   "uid": "meteojob:57511558",
+   "distance_km": 4.1,
+   "fp": "88ffdb3cf20aff71",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "meteojob:57511558",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Poste de peintre demandant des compétences techniques en bâtiment qu'elle n'a pas.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Boyacı / inşaat işçisi",
+    "summary_tr": "Evlerde boya ve tadilat işi. La Chaussée-Saint-Victor'da.",
+    "tasks_tr": [
+     "Duvar hazırlamak",
+     "Boya yapmak",
+     "Araç yüklemek"
+    ],
+    "schedule_tr": "Tam zamanlı",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste. J'ai de l'expérience en manutention et chargement. Je suis travailleuse et sérieuse. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3e3ceeb396df9cd4814b8f6250cdaa27",
+   "title": "PREPARATEUR DE COMMANDES CACES 1 (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3e3ceeb396df9cd4814b8f6250cdaa27",
+   "company": "",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Notre agence recherche, pour l'un de ses clients, un Préparateur de commande cace 1 H/F.\nVos missions :\n- Réception de marchandises\n- Gestion de colis\n- Gestion des stocks\n- Préparation de commandes cace 1\n- Rangement de la zone de stocks\n- Respecter les consignes de sécurité",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Préparateur de commandes",
+    "first_published": "2026-06-14"
+   },
+   "uid": "jobijoba:3e3ceeb396df9cd4814b8f6250cdaa27",
+   "distance_km": 18.4,
+   "fp": "b1940c0ab092e9b3",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:3e3ceeb396df9cd4814b8f6250cdaa27",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le CACES 1 est demandé dans l'intitulé et elle n'en a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlama (CACES 1)",
+    "summary_tr": "Depoda sipariş ve stok işi. CACES 1 belgesi gerekli, Mer'de.",
+    "tasks_tr": [
+     "Mal kabul",
+     "Sipariş hazırlamak",
+     "Stok düzenlemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste. Je n'ai pas encore le CACES 1 mais j'ai plusieurs années d'expérience en préparation de commandes. Je suis prête à être formée. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "fc5ab6d8c3024a00f481583c1a8d8fd8",
+   "title": "Magasinier/Vendeur comptoir (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/fc5ab6d8c3024a00f481583c1a8d8fd8",
+   "company": "Adwork's La Chaussée St Victor",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "A propos du poste : Adwork's Blois recherche pour un de ses clients, un profil Magasinier /Vendeur comptoir h/f pour une prise de poste dès que possible sur le",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Vendeur comptoir"
+   },
+   "uid": "jobijoba:fc5ab6d8c3024a00f481583c1a8d8fd8",
+   "distance_km": 0.0,
+   "fp": "d9fcc7055bd182fe",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/59a39a24dd3bd5b64ab8d06234e0ebc1"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:fc5ab6d8c3024a00f481583c1a8d8fd8",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le poste inclut la vente au comptoir, le français oral avec les clients est central.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Depocu / tezgah satış elemanı",
+    "summary_tr": "Depo işi ve müşteriye satış. İş Blois'da.",
+    "tasks_tr": [
+     "Depoda çalışmak",
+     "Müşteriye satış yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85260887",
+   "title": "Caissier H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85260887.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85260887",
+   "distance_km": 0.0,
+   "fp": "3af8e3ec49277fb0",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "hellowork:85260887",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de caisse avec beaucoup de contact client en français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kasiyer",
+    "summary_tr": "Mağazada kasa işi. Çok Fransızca konuşmak gerekir.",
+    "tasks_tr": [
+     "Kasada ödeme almak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai de l'expérience en mise en rayon et manutention. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "77e90b16be35ecb9ac925dcd7c95fe2b",
+   "title": "CAISSIER H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/77e90b16be35ecb9ac925dcd7c95fe2b",
+   "company": "SUPPLAY SIEGE",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "et orienter les clients avec professionnalisme Assurer l'encaissement des achats Gérer les différents moyens de paiement Veiller à la satisfaction et à",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Caissier"
+   },
+   "uid": "jobijoba:77e90b16be35ecb9ac925dcd7c95fe2b",
+   "distance_km": 0.0,
+   "fp": "bd5f532aba61ce3c",
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:77e90b16be35ecb9ac925dcd7c95fe2b",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de caisse avec relation client, le français est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kasiyer",
+    "summary_tr": "Mağazada kasada çalışmak. İş Blois'da.",
+    "tasks_tr": [
+     "Ödeme almak",
+     "Müşterilere yardım etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,31 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "c5725f3ccdfe645d6e02c2999f96c8d5",
+   "title": "Acheteur Matières Premières (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/c5725f3ccdfe645d6e02c2999f96c8d5",
+   "company": "LHH",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste consiste à gérer les achats de matières premières et emballages en appliquant la stratégie du groupe, effectuer une veille marché, rechercher et",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:c5725f3ccdfe645d6e02c2999f96c8d5",
+   "distance_km": 0.0,
+   "fp": "db15c559bc0b7109",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/3d04835e1156caa2217a85c187bf16ce"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/743ea7cfcf728eee583e5d57ab7a79f0"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:c5725f3ccdfe645d6e02c2999f96c8d5",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste d'acheteur qualifié, demande diplôme et beaucoup de français écrit.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hammadde satın alma uzmanı",
+    "summary_tr": "Hammadde ve ambalaj satın alma işi. Ofis işi, Blois'da.",
+    "tasks_tr": [
+     "Satın alma yapmak",
+     "Piyasayı takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "5ffd4573937470503b5d2cd33d70699f",
+   "title": "Acheteur Matières Premières (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/5ffd4573937470503b5d2cd33d70699f",
+   "company": "LHH",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Management de transition, et évaluation d'expert.e.s, cadres et dirigeant.e.s, recherche pour son client un Acheteur Matières Premières et Emballages",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:5ffd4573937470503b5d2cd33d70699f",
+   "distance_km": 18.4,
+   "fp": "2474b45992f9d626",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/d67d3d6564ba285aa8bdee29a107dcef"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "jobijoba:5ffd4573937470503b5d2cd33d70699f",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de cadre acheteur, qualification et français avancé nécessaires.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hammadde satın alma uzmanı",
+    "summary_tr": "Hammadde ve ambalaj satın alma işi. Ofis işi, Mer'de.",
+    "tasks_tr": [
+     "Satın alma yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85272704",
+   "title": "Chauffeur PL H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85272704.html",
+   "company": "Artus Interim",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "2 semaines",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-07",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85272704",
+   "distance_km": 0.0,
+   "fp": "0d1fac0f1382aafe",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/5e7aaa97e811664045ac24f26f1e542a"
+    }
+   ],
+   "first_seen": "2026-11-07",
+   "ai": {
+    "uid": "hellowork:85272704",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le permis poids lourd est obligatoire.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kamyon şoförü",
+    "summary_tr": "Kamyon şoförlüğü. Ehliyet C gerekli.",
+    "tasks_tr": [
+     "Kamyon sürmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "2 hafta",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. Je n'ai pas le permis poids lourd mais j'ai de l'expérience en manutention. Je reste à votre disposition."
+   }
+  },
   {
    "source": "francetravail",
    "source_id": "216DXPS",
