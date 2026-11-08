@@ -1,6 +1,225 @@
 {
- "updated": "2026-11-07T17:11:29+00:00",
+ "updated": "2026-11-08T11:55:48+00:00",
  "offers": [
+  {
+   "source": "jobijoba",
+   "source_id": "7c0724315c45b566265968a8a1477b82",
+   "title": "Chef D'Équipe (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/7c0724315c45b566265968a8a1477b82",
+   "company": "Adecco Recrutement",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste de Chef d'Équipe (h/f) Notre Cabinet Adecco Recrutement recrute pour son client, acteur industriel basé à Blois (41), un Chef d'Équipe Production",
+   "published": "2026-11-08",
+   "phone": "",
+   "extra": {
+    "metier": "Chef d'équipe production"
+   },
+   "uid": "jobijoba:7c0724315c45b566265968a8a1477b82",
+   "distance_km": 0.0,
+   "fp": "86849a51eb07bd59",
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "jobijoba:7c0724315c45b566265968a8a1477b82",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste d'encadrement d'équipe en production, hors profil.",
+    "category": "uretim",
+    "french_level": "cok",
+    "title_tr": "Ekip şefi",
+    "summary_tr": "Fabrikada ekip yönetmek. Blois şehrinde.",
+    "tasks_tr": [
+     "Ekibi yönetmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "81041653",
+   "title": "Soudeur TIG - Semi-Automatique H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/81041653.html",
+   "company": "Global Interim",
+   "city": "Mer",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "13 - 14,50 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-08",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:81041653",
+   "distance_km": 18.4,
+   "fp": "6624aa97b70aa5d4",
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "hellowork:81041653",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de soudeur TIG qui exige une qualification en soudure.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Kaynakçı (TIG)",
+    "summary_tr": "Kaynak işi. Mer şehrinde fabrika.",
+    "tasks_tr": [
+     "Metal kaynak yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatlik 13 - 14,50 €",
+    "duration_tr": "3 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "35d606af433f592bb672f419194eda63",
+   "title": "Acheteur Conseil H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/35d606af433f592bb672f419194eda63",
+   "company": "LHH",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Gestion des achats de matières premières et emballages , veille marché, négociation, gestion fournisseurs et reporting, avec une dimension internationale.",
+   "published": "2026-11-08",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:35d606af433f592bb672f419194eda63",
+   "distance_km": 0.0,
+   "fp": "313a98a531a9c74b",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/6d40e3d2c7b1fc3c6bd4e6dcf5b4bc0a"
+    }
+   ],
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "jobijoba:35d606af433f592bb672f419194eda63",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'acheteur avec négociation et reporting, le français et un diplôme sont centraux.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satın alma uzmanı",
+    "summary_tr": "Malzeme satın almak, pazarlık yapmak. Blois şehrinde.",
+    "tasks_tr": [
+     "Satın alma",
+     "Pazarlık"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "d4de5922156921d25b934eff67b63d05",
+   "title": "Acheteur Matières Premières (h/f)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/d4de5922156921d25b934eff67b63d05",
+   "company": "Joveo",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Management de transition, et évaluation d'expert.e.s, cadres et dirigeant.e.s, recherche pour son client un Acheteur Matières Premières et Emballages",
+   "published": "2026-11-08",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:d4de5922156921d25b934eff67b63d05",
+   "distance_km": 18.4,
+   "fp": "576ee097f38f7657",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/d67d3d6564ba285aa8bdee29a107dcef"
+    }
+   ],
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "jobijoba:d4de5922156921d25b934eff67b63d05",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste de cadre acheteur, qualification et français écrit indispensables.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hammadde satın alma uzmanı",
+    "summary_tr": "Hammadde ve ambalaj satın almak. Mer şehrinde.",
+    "tasks_tr": [
+     "Satın alma"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "4ea44dad04a61f2e35605edf4e8de00c",
+   "title": "Combattant engins blindés",
+   "url": "https://www.jobijoba.com/fr/annonce/54/4ea44dad04a61f2e35605edf4e8de00c",
+   "company": "Armée De Terre",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "de reconnaissance, d’attaque, d’appui de défense ou d’investigation à bord d’engins blindés, en qualité de pilote, de tireur ou d’opérateur rechargement. Vous",
+   "published": "2026-11-08",
+   "phone": "",
+   "extra": {},
+   "uid": "jobijoba:4ea44dad04a61f2e35605edf4e8de00c",
+   "distance_km": 0.0,
+   "fp": "9b9440a6db69147d",
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "jobijoba:4ea44dad04a61f2e35605edf4e8de00c",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Engagement militaire dans l'armée, sans rapport avec son profil.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Zırhlı araç askeri",
+    "summary_tr": "Orduda zırhlı araçta görev. Blois şehrinde.",
+    "tasks_tr": [
+     "Zırhlı araç kullanmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
   {
    "source": "jobijoba",
    "source_id": "48589806321725a806b11cab38c2b830",
