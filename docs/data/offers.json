@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T11:55:48+00:00",
+ "updated": "2026-11-08T17:25:47+00:00",
  "offers": [
+  {
+   "source": "jobijoba",
+   "source_id": "06af172eb299eb2e551e5596ee75ebd8",
+   "title": "Opérateur De Fabrication H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/06af172eb299eb2e551e5596ee75ebd8",
+   "company": "ARTUS INTERIM Contres",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "ARTUS INTERIM Contres recherche un opérateur de production H/F pour une entreprise dans le secteur de l’agroalimentaire.",
+   "published": "2026-11-06",
+   "phone": "",
+   "extra": {
+    "metier": "Opérateur de fabrication"
+   },
+   "uid": "jobijoba:06af172eb299eb2e551e5596ee75ebd8",
+   "distance_km": 0.0,
+   "fp": "2ad691b17b671c14",
+   "first_seen": "2026-11-08",
+   "ai": {
+    "uid": "jobijoba:06af172eb299eb2e551e5596ee75ebd8",
+    "suitable": true,
+    "score": 75,
+    "reason_fr": "Poste d'opératrice de production en agroalimentaire via une agence d'intérim, sans diplôme demandé, à Blois même.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim operatörü (gıda)",
+    "summary_tr": "Gıda fabrikasında üretim hattında çalışmak. İş Blois'da, ARTUS INTERIM ajansı ile.",
+    "tasks_tr": [
+     "Üretim hattında çalışmak",
+     "Ürünleri paketlemek",
+     "Kaliteye göz ile bakmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de fabrication dans l'agroalimentaire à Blois. J'ai plusieurs années d'expérience en intérim sur des lignes de production et de conditionnement. Je suis rapide, sérieuse et j'accepte tous les horaires. Je suis disponible rapidement et j'ai le permis B avec une voiture."
+   }
+  },
   {
    "source": "jobijoba",
    "source_id": "7c0724315c45b566265968a8a1477b82",
