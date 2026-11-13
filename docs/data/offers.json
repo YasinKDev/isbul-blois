@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-13T13:03:49+00:00",
+ "updated": "2026-11-13T18:59:17+00:00",
  "offers": [
+  {
+   "source": "francetravail",
+   "source_id": "8817931",
+   "title": "agent de conditionnement H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817931",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le secteur du conditionnement, un agent de conditionnement à Blois\nVos missions\n- Assurer le...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817931",
+   "distance_km": 0.0,
+   "fp": "41412181af566288",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817931",
+    "suitable": true,
+    "score": 92,
+    "reason_fr": "Poste de conditionnement à Blois, exactement dans son expérience.",
+    "category": "paketleme",
+    "french_level": "az",
+    "title_tr": "Paketleme elemanı",
+    "summary_tr": "Ürünleri paketleme işi. Blois'da bir paketleme firmasında.",
+    "tasks_tr": [
+     "Ürünleri paketlemek",
+     "Etiket yapıştırmak",
+     "Kutuları hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de conditionnement à Blois. J'ai plusieurs années d'expérience en conditionnement et étiquetage dans la cosmétique et le pharmaceutique. Je suis rapide, sérieuse et disponible sur tous les horaires. Je peux commencer rapidement."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "6fa142b104b1e920987608ec2f51803f",
+   "title": "Opérateur Chocolaterie H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/6fa142b104b1e920987608ec2f51803f",
+   "company": "CRIT BLOIS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le secteur de l'agroalimentaire, un opérateur . -",
+   "published": "2026-11-12",
+   "phone": "",
+   "extra": {
+    "metier": "Agroalimentaire"
+   },
+   "uid": "jobijoba:6fa142b104b1e920987608ec2f51803f",
+   "distance_km": 0.0,
+   "fp": "46fa70c4ff64d897",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/e62ed1e6a6fb10c1e3f993963927e8ae"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "jobijoba:6fa142b104b1e920987608ec2f51803f",
+    "suitable": true,
+    "score": 70,
+    "reason_fr": "Poste d'opérateur en agroalimentaire sans qualification demandée, à Blois.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Çikolata fabrikasında operatör",
+    "summary_tr": "Gıda fabrikasında üretim hattında çalışma. İş Blois'da.",
+    "tasks_tr": [
+     "Üretim hattında çalışmak",
+     "Ürün paketlemek",
+     "Kaliteyi kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatlik 12,31 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice en chocolaterie à Blois. J'ai plusieurs années d'expérience en intérim sur des lignes de conditionnement et d'emballage. Je suis rapide, sérieuse et j'accepte tous les horaires. Je suis disponible rapidement, merci pour votre réponse."
+   }
+  },
   {
    "source": "meteojob",
    "source_id": "57621968",
@@ -49,6 +143,50 @@
    }
   },
   {
+   "source": "francetravail",
+   "source_id": "8817929",
+   "title": "Manoeuvre (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817929",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Chez nous, le travail d'équipe n'est pas qu'une formule, c'est une véritable philosophie.\nSi vous êtes un(e) manoeuvre dynamique, prêt(e) à relever des défis et à contribuer à des projets variés,...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817929",
+   "distance_km": 0.0,
+   "fp": "fc5b3951fff73266",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817929",
+    "suitable": true,
+    "score": 50,
+    "reason_fr": "Poste de manœuvre sans diplôme, probablement sur chantier, physique mais accessible.",
+    "category": "diger",
+    "french_level": "az",
+    "title_tr": "Düz işçi",
+    "summary_tr": "Ekiple birlikte çeşitli işlerde yardım. Muhtemelen şantiyede, Blois'da.",
+    "tasks_tr": [
+     "Malzeme taşımak",
+     "Ekibe yardım etmek",
+     "Alanı temizlemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de manœuvre à Blois. J'ai plusieurs années d'expérience en manutention et chargement de colis. Je suis endurante, rapide et j'aime travailler en équipe. Je suis disponible rapidement."
+   }
+  },
+  {
    "source": "hellowork",
    "source_id": "80115941",
    "title": "Manoeuvre du Bâtiment H/F",
@@ -88,6 +226,91 @@
     "salary_tr": "",
     "duration_tr": "3 ay",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre de manœuvre. J'ai plusieurs années d'expérience en manutention et chargement de colis. Je suis endurante, rapide et j'ai le permis B avec voiture. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "1fc27c8d0345c5660090c5ebb68288a3",
+   "title": "Conducteur Installation H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/1fc27c8d0345c5660090c5ebb68288a3",
+   "company": "CRIT BLOIS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "vos missions : - Respecter les procédures qualités et consignes de sécurité. -Assurer la fabrication, de la réception des matières premières au chargement des",
+   "published": "2026-11-11",
+   "phone": "",
+   "extra": {},
+   "uid": "jobijoba:1fc27c8d0345c5660090c5ebb68288a3",
+   "distance_km": 0.0,
+   "fp": "cdb10f3afd069249",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "jobijoba:1fc27c8d0345c5660090c5ebb68288a3",
+    "suitable": true,
+    "score": 45,
+    "reason_fr": "Poste d'usine en intérim, mais la conduite d'installation peut être technique, donc adéquation incertaine.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Makine operatörü",
+    "summary_tr": "Fabrikada makine kullanma ve üretim işi. İş Blois'da, geçici iş.",
+    "tasks_tr": [
+     "Hammaddeyi teslim almak",
+     "Üretimi takip etmek",
+     "Kamyon yüklemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par la mission de conductrice d'installation à Blois. J'ai plusieurs années d'expérience en intérim en production, conditionnement et chargement de colis. J'apprends vite et je respecte les consignes de sécurité. Je suis disponible pour tous les horaires."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "474738c7c5c5e6c39c738cafc933a80a",
+   "title": "Gestionnaire de stocks (F/H)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/474738c7c5c5e6c39c738cafc933a80a",
+   "company": "Deret Logistique",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "N'attendez plus et rejoignez Deret Logistique en tant que Gestionnaire de Stock H/F sur notre site de Mer (41) ! Rejoins nous pour une aventure passionnante et",
+   "published": "2026-11-12",
+   "phone": "",
+   "extra": {
+    "metier": "Gestionnaire de stocks"
+   },
+   "uid": "jobijoba:474738c7c5c5e6c39c738cafc933a80a",
+   "distance_km": 18.4,
+   "fp": "fa12054083651efb",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "jobijoba:474738c7c5c5e6c39c738cafc933a80a",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "La gestion de stocks demande beaucoup d'informatique et d'écrit, et le contrat n'est pas précisé.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Stok yöneticisi",
+    "summary_tr": "Deret Logistique deposunda stok takibi işi. İş Mer'de.",
+    "tasks_tr": [
+     "Stokları takip etmek",
+     "Bilgisayarda kayıt yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
    }
   },
   {
@@ -132,6 +355,53 @@
     "salary_tr": "Sabit maaş ve primler",
     "duration_tr": "",
     "apply_message_fr": "Bonjour, je suis intéressée par votre poste de monteur emballage. J'ai plusieurs années d'expérience en conditionnement dans l'industrie. Je suis rapide, sérieuse et je respecte les consignes de sécurité. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85429841",
+   "title": "Agent Logistique Expédition H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85429841.html",
+   "company": "Partnaire",
+   "city": "La Chapelle-Vendômoise",
+   "postal_code": "41330",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 - 13 € / heure",
+   "hours": "Travail de jour",
+   "description": "Les missions du poste\n Partnaire, chercheur de talents en CDI, CDD et Intérim, vous propose de nombreuses opportunités d'emploi quel que soit votre métier, votre secteur d'activité et votre expérience.\nPartnaire Blois recrute pour son client, industrie spécialisée dans l'agroalimentaire, un technicien expédition. Notre client est une société avec plus de 50 ans d'expérience en conception de produits de nutrition animale. Le groupe possède 4 usines pour approvisionner les plus de 70 pays où ils sont présents. \nPiloter les installations automatisées à l'aide d'outils de supervision, afin de réaliser les opérations d'expédition des produits finis \n· Réaliser les opérations d'expédition en mode semi-automatique de chargement par le biais d'un chariot élévateur \n· Alimenter les équipements de la zone en consommables (palettes, film rétractable, étiquettes, ...) \n· Réaliser des opérations administratives d'expédition à l'aide d'outils informatiques \n· Réaliser des inventaires \nInformations complémentaires : \n-Poste à pourvoir en 3x8 : 06h-14h30 / 14h-22h / 22h-06h \n-Lieu : La Chapelle Vendômoise \n-Rémunération : 12,31EUR/h + 1EUR/h de 13ème mois + prime d'équipe...\n Le profil recherché\n Compétences requises : conduite de chariots (CACES 1B et 3) outils informatiques, maintenance de 1er niveau, esprit d'équipe, rigueur, autonomie, expérience en industrie souhaitéeMes avantages :- Une mutuelle santé / une prévoyance- Un CET, compte épargne temps qui rémunère votre épargne à 5%- Des indemnités de fin de mission à hauteur de 10%- Des chèques cadeaux parrainage jusqu'à 100 euros- Un comité d'entreprise dès le premier mois de mission\n Bienvenue chez Partnaire\n Partnaire, chercheur de talents en CDI, CDD et Intérim, vous propose de nombreuses opportunités d'emploi quel que soit votre métier, votre secteur d'activité et votre expérience.\n Mais aussi...\n CSE - CET - Mutuelle",
+   "published": "2026-11-12",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85429841",
+   "distance_km": 12.6,
+   "fp": "b181c38f90aed0ee",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "hellowork:85429841",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Le poste demande les CACES 1B et 3, du pilotage informatique et de l'administratif.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Sevkiyat lojistik elemanı",
+    "summary_tr": "Hayvan yemi fabrikasında sevkiyat işi. Yer: La Chapelle-Vendômoise.",
+    "tasks_tr": [
+     "Forklift ile yükleme",
+     "Otomatik makineleri yönetmek",
+     "Bilgisayarda kayıt"
+    ],
+    "schedule_tr": "3 vardiya: 06h-14h30 / 14h-22h / 22h-06h",
+    "salary_tr": "Saatlik 12,31 - 13 € + primler",
+    "duration_tr": "",
+    "apply_message_fr": ""
    }
   },
   {
@@ -273,6 +543,233 @@
   },
   {
    "source": "francetravail",
+   "source_id": "8812319",
+   "title": "Opérateur de saisie (H/F/D)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8812319",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recherchons un(e) Opérateur(trice) de saisie polyvalent(e) afin de renforcer l'équipe de l'un de nos clients situé à Blois.\nVous serez chargé(e) d'assurer différentes missions de saisie...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8812319",
+   "distance_km": 0.0,
+   "fp": "9bc2d3ae35f0fc64",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8812319",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de saisie informatique où le français écrit est central.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Veri giriş elemanı",
+    "summary_tr": "Bilgisayara veri girme işi. Blois'da bir firmada.",
+    "tasks_tr": [
+     "Bilgisayara bilgi yazmak",
+     "Belgeleri kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice de saisie à Blois. Je suis sérieuse et rigoureuse. Je suis disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8814574",
+   "title": "Cuisinier (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8814574",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "L'agence Actual recherche pour l'un de ses clients un Cuisinier grillardin (h/f) \nDans le cadre de cette mission vous serez en charge principalement de la cuisson des viandes et veillerez à la...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8814574",
+   "distance_km": 0.0,
+   "fp": "5b577e078eeb1bbb",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/bdbcb75a844f04cb6a2dbf68f26edfae"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8814574",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de cuisinier qualifié qui demande une expérience en cuisine.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Aşçı (ızgara)",
+    "summary_tr": "Restoranda et pişirme işi. Blois'da.",
+    "tasks_tr": [
+     "Et pişirmek",
+     "Mutfağı düzenli tutmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis rapide et sérieuse. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8817571",
+   "title": "Agent de production et cariste H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817571",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Dans le cadre de son développement, nous recherchons pour notre client, spécialisé dans la transformation des grains, un Agent de Production & Cariste H/F titulaire des CACES 1B et 3.\nVos missions\n-...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817571",
+   "distance_km": 0.0,
+   "fp": "de30f59649bf2abc",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817571",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Les CACES 1B et 3 sont exigés pour ce poste.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Üretim elemanı ve forklift operatörü",
+    "summary_tr": "Tahıl işleme fabrikasında üretim ve forklift. Blois'da.",
+    "tasks_tr": [
+     "Üretim işleri",
+     "Forklift kullanmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en production. J'ai de l'expérience dans le tri de semences et le conditionnement. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85429776",
+   "title": "Cariste H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85429776.html",
+   "company": "Partnaire",
+   "city": "Villebarou",
+   "postal_code": "41000",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € / heure",
+   "hours": "Travail de jour",
+   "description": "Les missions du poste\n Partnaire, chercheur de talents en CDI, CDD et Intérim, vous propose de nombreuses opportunités d'emploi quel que soit votre métier, votre secteur d'activité et votre expérience.\nNotre agence Partnaire Blois recrute un Cariste CACES 5 (H/F). \nVous intégrez cette entreprise logistique se distingue par son rôle pivot dans la chaîne d'approvisionnement. \nSitué sur le secteur de Blois, notre client intervient pour une gestion experte de l'entreposage, de la préparation de commandes, de l'emballage, et de la distribution. Leur expertise s'étend à la gestion des retours et à des solutions de logistique inversée, garantissant une flexibilité et une réactivité indispensables dans le paysage commercial actuel. \nAu coeur du site logistique, vous réaliserez les opérations suivantes : \n- Réception et stockage des marchandises à l'aide du caces R489 catégorie 5, ( obligatoire) \n- Préparation de commandes à l'aide de l'informatique embarqué, \n- Préparation des expéditions, \nÉquipe du matin : 07h00 - 14h00 \nÉquipe d'après-midi : 14h00 - 21h00 \nUne fois par mois : début de poste le dimanche soir à minuit \nDisponibilité pour heures supplémentaires \nDisponibilité pour travail de nuit : 21h00 - 04h00 \n- Rémunération: 12.09EUR/h + prime \n- Poste à pourvoir en intérim \n- Caces R489 catégorie 5 obligatoire \nPlus qu'un clic pour postuler... Go !\n Le profil recherché\n Nos attentes vis-à-vis du candidat :Être ponctuel et respecter les horairesFaire preuve de dynamisme et d'implicationRemonter toute anomalie ou problème rencontré sur le siteMaintenir un rythme de travail conforme aux objectifsJustifier d'au minimum 1 an d'expérience avec le CACES 5Vous sera demandé avant la mission: Extrait de casier judiciaireCopie du CACES 5 valideMes avantages :- Une mutuelle santé / une prévoyance- Un CET, compte épargne temps qui rémunère votre épargne à 5%- Des indemnités de fin de mission à hauteur de 10%- Des chèques cadeaux parrainage jusqu'à 100 euros- Un comité d'entreprise dès le premier mois de mission\n Bienvenue chez Partnaire\n Partnaire, chercheur de talents en CDI, CDD et Intérim, vous propose de nombreuses opportunités d'emploi quel que soit votre métier, votre secteur d'activité et votre expérience.\n Mais aussi...\n CET, CSE, mutuelle",
+   "published": "2026-11-12",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85429776",
+   "distance_km": 4.3,
+   "fp": "54f4d1df6dcc1b65",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "hellowork:85429776",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Le CACES R489 catégorie 5 est obligatoire avec un an d'expérience.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Forklift operatörü",
+    "summary_tr": "Lojistik deposunda forklift işi. Yer: Villebarou.",
+    "tasks_tr": [
+     "Malları forkliftle yerleştirmek",
+     "Sipariş hazırlamak",
+     "Sevkiyat hazırlamak"
+    ],
+    "schedule_tr": "07h-14h veya 14h-21h, bazen gece",
+    "salary_tr": "Saatlik 12,31 € + prim",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "c2db392e4c6801a540cd1ef587dc841d",
+   "title": "Cariste Manutentionaire H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/c2db392e4c6801a540cd1ef587dc841d",
+   "company": "CRIT Intérim - Offres Premium",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 12,31 € à 13 € de l'heure",
+   "hours": "",
+   "description": "Dans le cadre de son développement, nous recherchons pour notre client, spécialisé dans la transformation des grains, un Cariste manutentionnaire H/F titulaire des CACES 1B et 3. \nVos missions \n- Assurer la fabrication : réception des matières premières, suivi de production, chargement des camions \n- Conduire les chariots élévateurs CACES 1B et 3 pour l'approvisionnement et la gestion des flux \n- Contrôler la qualité et la conformité des produits \n- Surveiller, régler et ajuster les machines selon les procédures \n- Signaler les anomalies et participer à la maintenance de 1er niveau \n- Respecter les règles QHSE, porter les EPI, contribuer à la propreté et à la sécurité du site \n- Participer au nettoyage et à l'entretien des installations Panier",
+   "published": "2026-11-10",
+   "phone": "",
+   "extra": {
+    "metier": "Cariste",
+    "first_published": "2026-04-12"
+   },
+   "uid": "jobijoba:c2db392e4c6801a540cd1ef587dc841d",
+   "distance_km": 0.0,
+   "fp": "411e357cfe15cfe0",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "jobijoba:c2db392e4c6801a540cd1ef587dc841d",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Le poste exige les CACES 1B et 3, qu'elle ne possède pas.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Forklift operatörü ve yük taşıma",
+    "summary_tr": "Tahıl işleyen bir fabrikada forklift kullanma işi. Blois'da, CACES 1B ve 3 belgesi şart.",
+    "tasks_tr": [
+     "Forklift kullanmak",
+     "Kamyon yüklemek",
+     "Makineleri kontrol etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatlik 12,31 € - 13 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "216JZGM",
    "title": "Enquêteur TRANSPORTS BLOIS H/F (H/F)",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JZGM",
@@ -312,6 +809,55 @@
     "salary_tr": "",
     "duration_tr": "Belirli süreli (CDD)",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'enquêteur à Blois. Je suis sérieuse, ponctuelle et disponible à tous les horaires. J'ai plusieurs années d'expérience en intérim. Je reste à votre disposition pour un entretien."
+   }
+  },
+  {
+   "source": "adecco",
+   "source_id": "2149231201",
+   "title": "Serveur Restaurant (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2149231201",
+   "company": "Adecco",
+   "city": "Chambord",
+   "postal_code": "41250",
+   "lat": 47.6208,
+   "lon": 1.5374,
+   "contract": "Intérim",
+   "duration": "1 semaine",
+   "salary": "12,54 €/heure",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco recherche pour son client basé à Chambord un Serveur (h/f) :\nVos missions :\nAu sein de l’équipe de salle, vous contribuez directement à la qualité de l’expérience client, de son arrivée jusqu’à son départ. Vos principales missions seront :\n- Vous préparez la salle avant le service en installant le couvert, en vérifiant la propreté et la mise en place selon les standards définis.\n- Vous accueillez les clients, présentez la carte avec précision, conseillez sur les choix et prenez les commandes en veillant à la clarté des informations transmises en cuisine.\n- Vous assurez le service à l’assiette et au plateau, en respectant les priorités, les règles d’hygiène alimentaire et les techniques de vente additionnelle.\n- Vous encaissez les règlements, utilisez la caisse dans le respect des procédures, puis participez au débarrassage et à la remise en état de la salle en fin de service.\nMission le 20/11, 26/11 et 4/12 : 10h30-17h30\nVotre profil\nCompétences comportementales\n- Vous faites preuve d’un sens du service développé et adoptez en toute circonstance une attitude professionnelle et accueillante.\n- Vous savez gérer votre stress en période d’affluence tout en maintenant une communication claire avec vos interlocuteurs.\n- Vous travaillez en équipe de manière fluide, en organisant vos priorités et en restant attentif(ve) aux détails du service.\nCompétences techniques\n- Vous maîtrisez le service à l’assiette et le port de plateau, ainsi que la prise de commande et la connaissance de la carte.\n- Vous utilisez une caisse de manière fiable, assurez l’encaissement client et respectez les procédures internes.\n- Vous appliquez rigoureusement les règles d’hygiène alimentaire et mettez en œuvre des techniques de vente adaptées au contexte.",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "secteur": "Restauration",
+    "postes": 1,
+    "debut_asap": false,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2149231201",
+    "agence": "ADFR_169",
+    "debut": "2026-11-20"
+   },
+   "uid": "adecco:2149231201",
+   "distance_km": 15.6,
+   "fp": "d6011e5c14576429",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "adecco:2149231201",
+    "suitable": false,
+    "score": 8,
+    "reason_fr": "Serveur demande beaucoup de relation client, de conseil et d'encaissement.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Garson",
+    "summary_tr": "Restoranda müşterilere servis. Chambord'da.",
+    "tasks_tr": [
+     "Masa hazırlamak",
+     "Sipariş almak",
+     "Kasa"
+    ],
+    "schedule_tr": "20/11, 26/11, 4/12: 10:30-17:30",
+    "salary_tr": "Saatte 12,54 €",
+    "duration_tr": "1 hafta (3 gün)",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim. Je suis disponible rapidement. Merci pour votre retour."
    }
   },
   {
@@ -629,6 +1175,106 @@
   },
   {
    "source": "francetravail",
+   "source_id": "8778224",
+   "title": "Peintre en bâtiment (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8778224",
+   "company": "Start People",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Bien plus qu'une mission\nChez Start People, on vous aide à trouver la mission qui vous ressemble, mais en plus, on vous offre de nombreux avantages pour faciliter votre quotidien :\n-Prime de...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "START_PEOPLE"
+   },
+   "uid": "francetravail:8778224",
+   "distance_km": 0.0,
+   "fp": "2332bd5492de985e",
+   "also_on": [
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85454278.html"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/b9ebbade59a8cdef126e9b7ea96fa5e8"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/66cc08939de16109e3f5711b75c83d8f"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8778224",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Peintre en bâtiment est un métier qualifié du BTP.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Bina boyacısı",
+    "summary_tr": "Binalarda boya işi. Blois'da.",
+    "tasks_tr": [
+     "Duvar boyamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim dans la production. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8817939",
+   "title": "Cariste R485 H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817939",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "CRIT Blois recherche pour son client basé à Blois, un Cariste ayant le CACES R485 et R489 - 5. Vos missions :\n- Charger décharger les camions\n- Rangement des palettes\n- Préparation des commandes\n-...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817939",
+   "distance_km": 0.0,
+   "fp": "c90ebeb2ab37ab3d",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817939",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Les CACES R485 et R489 sont obligatoires.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Forklift operatörü",
+    "summary_tr": "Depoda forklift kullanmak. Blois'da.",
+    "tasks_tr": [
+     "Kamyon yükleme",
+     "Palet yerleştirme",
+     "Sipariş hazırlama"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en entrepôt. J'ai plusieurs années d'expérience en préparation de commandes. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "8798836",
    "title": "Technicien / Technicienne d'expérimentation (H/F)",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8798836",
@@ -753,6 +1399,89 @@
     ],
     "schedule_tr": "Gündüz, tam gün",
     "salary_tr": "Yılda 30 000 - 38 000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8808996",
+   "title": "Mécanicien Engins TP (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8808996",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recherchons pour l'un de nos clients un Mécanicien Engins TP (H/F) sur le secteur de Blois\nVos missions :\nAssurer l'entretien courant et les réparations des engins de travaux publics (pelles,...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8808996",
+   "distance_km": 0.0,
+   "fp": "c981ac32a6547e8b",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8808996",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de mécanicien qui demande une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "İş makinesi tamircisi",
+    "summary_tr": "İş makinelerini tamir etmek. Blois'da.",
+    "tasks_tr": [
+     "Makine bakımı",
+     "Tamir"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim dans la production et la logistique. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85408635",
+   "title": "Carreleur Mosaïste H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85408635.html",
+   "company": "Partnaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-11-11",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85408635",
+   "distance_km": 0.0,
+   "fp": "7ac7a2f860962a83",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "hellowork:85408635",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Carreleur mosaïste est un métier qualifié du bâtiment.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Fayans ustası",
+    "summary_tr": "İnşaatta fayans ve mozaik döşeme. Yer: Blois.",
+    "tasks_tr": [
+     "Fayans döşemek"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatlik 12,31 - 14 €",
     "duration_tr": "",
     "apply_message_fr": ""
    }
@@ -1063,6 +1792,303 @@
   },
   {
    "source": "francetravail",
+   "source_id": "8817299",
+   "title": "Aide-soignant DE H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817299",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "VITALIS Médical Blois, agence locale spécialisée dans l'intérim et le recrutement de professionnels de la santé, accompagne quotidiennement les établissements du Loir-et-Cher dans la recherche de...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817299",
+   "distance_km": 0.0,
+   "fp": "d2139797b92ccaba",
+   "also_on": [
+    {
+     "source": "francetravail",
+     "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817298"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817299",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le diplôme d'aide-soignant est obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı (diplomalı)",
+    "summary_tr": "Sağlık kurumlarında hasta bakımı. Blois'da.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8749228",
+   "title": "Aide soignant (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8749228",
+   "company": "Domino RH - Care Tours",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Domino Assist'm Tours est à la recherche d'un/e Aide-Soignant(e) (H/F) pour l'un de ses clients pour une durée de 3 mois.\nL'activité de cet emploi s'exerce en équipe au sein de structures en contact...",
+   "published": "2026-11-11",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:8749228",
+   "distance_km": 0.0,
+   "fp": "3465cc165ca16be8",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8749228",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste d'aide-soignante qui demande un diplôme.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı",
+    "summary_tr": "Hastalara bakım yapmak. Blois'da.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-BLS-R000256_11R",
+   "title": "AIDE-SOIGNANT (F/H)",
+   "url": "https://www.randstad.fr/emploi/aide-soignant-fh_cour-cheverny_307-bls-r000256_11r/",
+   "company": "Appel Medical",
+   "city": "Cour-Cheverny",
+   "postal_code": "41700",
+   "lat": 47.50871,
+   "lon": 1.45503,
+   "contract": "CDD",
+   "duration": "1 mois",
+   "salary": "16,78 €/heure",
+   "hours": "",
+   "description": "descriptif du poste\nEt si votre rôle d'Aide soignant (F/H) transformait le quotidien en établissement pour personnes âgées ?\nAu sein d'un établissement pour personnes âgées, vous contribuez chaque jour à préserver le confort, la dignité et l'autonomie des résident·e·s - Assurer les soins d'hygiène, de confort et de prévention adaptés aux besoins de chaque résident·e - Accompagner les résident·e·s dans les gestes essentiels de la vie quotidienne avec bienveillance - Observer l'état de santé des résident·e·s et transmettre les informations utiles à l'équipe soignante - Participer à la création d'un environnement rassurant, propre et sécurisé pour les résident·e·s - Encourager le maintien du lien social et soutenir les résident·e·s lors des activités quotidiennes\nUne proposition inédite pour ce poste:\n- Contrat: CDD\n- Durée: 1/mois\n- Salaire: 16.78 euros/heure\nprofil recherché\nVous êtes un·e aide-soignant·e engagé·e, prêt·e à offrir un accompagnement attentif aux personnes âgées en établissement - Titulaire du Diplôme d'État d'Aide-Soignant, vous maîtrisez les soins d'hygiène et de confort - Vous justifiez d'une première expérience auprès de personnes âgées, avec bienveillance et respect - Vous appliquez rigoureusement les protocoles d'hygiène, de sécurité et de prévention des risques - Votre écoute et votre patience favorisent une relation de confiance avec les résidents et résidentes - Vous appréciez le travail en équipe et transmettez des informations fiables aux professionnel·les de santé\nProcessus de recrutement\nRejoignez notre équipe en 3 étapes faciles ! Postulez, validez votre candidature et inutile de vous soucier de la suite, nous nous occupons de tout.\nà propos de notre client\nNous recherchons pour le compte de notre client, un ehpad public situé secteur Cour-Cheverny, un aide-soignant (F/H) diplômé.\nLe poste est à pourvoir dès que possible en CDD en temps plein de 35H semaine\nNombre de résidents 68\néquipe : médecin co, cadre de santé, ide, psychologue, psychomotricien, ASG, AIS, ASH,AES...)\navantages : primes",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Ag Appel médical Blois",
+    "marque": "appel medical",
+    "debut": "2026-12-20",
+    "fin": "2027-01-20",
+    "qualification": "Aide soignant (F/H)"
+   },
+   "uid": "randstad:307-BLS-R000256_11R",
+   "distance_km": 12.4,
+   "fp": "090606004a847b6c",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "randstad:307-BLS-R000256_11R",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le poste exige le Diplôme d'État d'Aide-Soignant.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı (yaşlı evi)",
+    "summary_tr": "Yaşlı bakım evinde bakım işi. Yer: Cour-Cheverny.",
+    "tasks_tr": [
+     "Yaşlılara temizlik bakımı",
+     "Günlük işlerde yardım",
+     "Ekibe bilgi vermek"
+    ],
+    "schedule_tr": "Haftada 35 saat, tam gün",
+    "salary_tr": "Saatlik 16,78 €",
+    "duration_tr": "1 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-BLS-R000232_10R",
+   "title": "AIDE SOIGNANT (F/H)",
+   "url": "https://www.randstad.fr/emploi/aide-soignant-fh_la-chaussee-saint-victor_307-bls-r000232_10r/",
+   "company": "Appel Medical",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41260",
+   "lat": 47.61593,
+   "lon": 1.36724,
+   "contract": "CDD",
+   "duration": "1 mois",
+   "salary": "12,02 €/heure",
+   "hours": "",
+   "description": "descriptif du poste\nSouhaitez-vous valoriser vos compétences d'Aide-soignant(e) (F/H) au sein d'un établissement pour personnes âgées ?\nVous contribuerez au bien-être, au confort et à l'autonomie des personnes accueillies au sein d'un établissement pour personnes âgées\n- Vous dispenserez les soins d'hygiène et de confort conformément aux protocoles établis\n- Vous accompagnerez les résidents et les résidentes dans les actes essentiels de la vie quotidienne\n- Vous surveillerez l'état de santé des personnes accueillies et transmettrez les observations à l'équipe pluridisciplinaire\n- Vous participerez à l'entretien de l'environnement immédiat des résidents et des résidentes ainsi qu'à la gestion du matériel\n- Vous favoriserez une relation respectueuse, bienveillante et sécurisante avec les personnes accueillies et leurs proches\nTout ce que vous devez savoir sur l'offre se trouve ici :\n- Contrat: CDD\n- Durée: 1/mois\n- Salaire: 12.02 euros/heure\nprofil recherché\nVous êtes aide-soignant(e) diplômé(e), doté(e) d'une première expérience auprès de personnes âgées et d'un sens aigu de l'accompagnement\n- Vous détenez le Diplôme d'État d'Aide-Soignant ou une certification équivalente reconnue\n- Vous maîtrisez les soins d'hygiène, de confort et de prévention adaptés aux personnes âgées\n- Vous faites preuve d'écoute, de bienveillance et de respect envers chaque résident(e)\n- Vous appliquez rigoureusement les protocoles d'hygiène, de sécurité et de confidentialité\n- Vous appréciez le travail en équipe pluridisciplinaire et communiquez avec clarté\nProcessus de recrutement\nLe processus de recrutement est simple. Postulez en cliquant sur le bouton postuler. Un(e) consultant(e) vous contactera dans les 48h pour valider votre candidature.\nà propos de notre client\nNous recherchons pour le compte de notre client, un ehpad privée, un aide-soignant diplômé (F/H).\nposte de jour AIS, plusieurs postes vacants, 7h15-19h15 ou 8h45-20h45 (12h payé 10h) : coupure 15 minutes matin le midi une heure quinze et 30 minutes soir, rémunération : reprise ancienneté 100%, salaire brut minimal 2241€ brut, roulements semaine de 40H et semaine de 30h (mardi mercredi samedi dimanche la première semaine / lundi jeudi vendredi la deuxième semaine)",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Ag Appel médical Blois",
+    "marque": "appel medical",
+    "debut": "2027-01-10",
+    "fin": "2027-02-10",
+    "qualification": "Aide soignant (F/H)"
+   },
+   "uid": "randstad:307-BLS-R000232_10R",
+   "distance_km": 4.1,
+   "fp": "c6a767004367a6ee",
+   "also_on": [
+    {
+     "source": "randstad",
+     "url": "https://www.randstad.fr/emploi/aide-soignant-fh_la-chaussee-saint-victor_307-bls-0000481_02l/"
+    },
+    {
+     "source": "randstad",
+     "url": "https://www.randstad.fr/emploi/aide-soignant-fh_la-chaussee-saint-victor_307-bls-0000480_02l/"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "randstad:307-BLS-R000232_10R",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le poste exige le Diplôme d'État d'Aide-Soignant.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı (yaşlı evi)",
+    "summary_tr": "Özel yaşlı bakım evinde bakım işi. Yer: La Chaussée-Saint-Victor.",
+    "tasks_tr": [
+     "Yaşlılara temizlik bakımı",
+     "Günlük işlerde yardım",
+     "Sağlık durumunu izlemek"
+    ],
+    "schedule_tr": "7h15-19h15 veya 8h45-20h45, haftada 40 saat / 30 saat",
+    "salary_tr": "Saatlik 12,02 €",
+    "duration_tr": "1 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-BLS-R000248_10R",
+   "title": "AIDE-SOIGNANTE (F/H)",
+   "url": "https://www.randstad.fr/emploi/aide-soignante-fh_vallieres-les-grandes_307-bls-r000248_10r/",
+   "company": "Appel Medical",
+   "city": "Vallières-les-Grandes",
+   "postal_code": "41400",
+   "lat": 47.42295,
+   "lon": 1.14813,
+   "contract": "CDD",
+   "duration": "3 mois",
+   "salary": "12 €/an",
+   "hours": "",
+   "description": "descriptif du poste\nPrêt(e) à valoriser votre rôle d'Aide soignant(e) (F/H) en établissement pour personnes âgées ?\nVous contribuez au bien-être quotidien des résident·e·s en leur apportant une présence attentive, humaine et essentielle au sein de l'établissement - Assurer les soins d'hygiène, de confort et de prévention adaptés à chaque résident·e - Accompagner les résident·e·s dans les gestes du quotidien en préservant leur autonomie - Observer l'état de santé des résident·e·s et transmettre les informations utiles à l'équipe soignante - Participer à la création d'un environnement sécurisant, chaleureux et respectueux des habitudes de vie - Collaborer avec l'équipe pluridisciplinaire pour garantir un accompagnement personnalisé et de qualité\nDécouvrez cette offre alléchante :\n- Contrat: CDD\n- Durée: 3/mois\n- Salaire: 12 euros/an\nLaissez-vous séduire par des avantages irrésistibles :\nprofil recherché\nVous alliez expérience, bienveillance et rigueur pour accompagner les résident·e·s avec attention au sein d'un établissement pour personnes âgées\n- Vous détenez le Diplôme d'État d'Aide-Soignant·e, garantissant des pratiques de soins maîtrisées\n- Vous justifiez d'une première expérience auprès de personnes âgées, valorisant une approche adaptée et respectueuse\n- Vous faites preuve d'écoute, d'empathie et de patience pour créer une relation de confiance\n- Vous appliquez rigoureusement les protocoles d'hygiène, de sécurité et de prévention des risques\n- Vous travaillez avec esprit d'équipe et transmettez les informations essentielles aux professionnel·le·s de santé\nProcessus de recrutement\nRejoignez notre équipe en 3 étapes faciles ! Postulez, validez votre candidature et inutile de vous soucier de la suite, nous nous occupons de tout.\nà propos de notre client\nNous recherchons pour le compte de notre client, un EHPAD privée situé secteur Vallières les Grandes, un aide-soignant (F/H) en poste de jour.\nLe poste est à pourvoir dès que possible en temps plein, contrat CDD de plusieurs mois, les horaires de 6H30-19H ou 8h30-21H, semaine de 30H et 40H, 10H payé (au total 12h30 d'amplitude), un weekend sur deux travaillé, 64 résidents dont 14 en UP et 50 à l'étage, 2 ais par étages, 2 AIS en UP et une AIS volante",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Ag Appel médical Blois",
+    "marque": "appel medical",
+    "debut": "2026-12-27",
+    "fin": "2027-03-27",
+    "qualification": "Aide soignant (F/H)"
+   },
+   "uid": "randstad:307-BLS-R000248_10R",
+   "distance_km": 23.0,
+   "fp": "65c96ef16cc4e620",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "randstad:307-BLS-R000248_10R",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Le poste exige le Diplôme d'État d'Aide-Soignant.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı (yaşlı evi)",
+    "summary_tr": "Özel yaşlı bakım evinde gündüz bakım işi. Yer: Vallières-les-Grandes.",
+    "tasks_tr": [
+     "Yaşlılara temizlik bakımı",
+     "Günlük işlerde yardım",
+     "Ekiple çalışmak"
+    ],
+    "schedule_tr": "6h30-19h veya 8h30-21h, iki haftada bir hafta sonu",
+    "salary_tr": "12 € (belirsiz)",
+    "duration_tr": "3 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85491106",
+   "title": "Aide Soignant H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85491106.html",
+   "company": "Adecco Medical",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "25 déc. - 25 déc.",
+   "salary": "12,31 - 15,63 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85491106",
+   "distance_km": 3.9,
+   "fp": "efdea59c9118709c",
+   "also_on": [
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85491196.html"
+    },
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85491190.html"
+    }
+   ],
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "hellowork:85491106",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Aide-soignant demande un diplôme obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı",
+    "summary_tr": "Sağlık alanında bakım işi. Yer: La Chaussée-Saint-Victor.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatlik 12,31 - 15,63 €",
+    "duration_tr": "25 Aralık, 1 gün",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "8797023",
    "title": "Cours particuliers en MATHEMATIQUES en classe de 2NDE à HUISSEAU SUR COSSON (41350) (H/F)",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8797023",
@@ -1145,6 +2171,95 @@
     "schedule_tr": "Tam gün",
     "salary_tr": "Ayda 1 867 - 2 250 €",
     "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "randstad",
+   "source_id": "307-BLS-R000264_10R",
+   "title": "INFIRMIER (F/H)",
+   "url": "https://www.randstad.fr/emploi/infirmier-fh_selommes_307-bls-r000264_10r/",
+   "company": "Appel Medical",
+   "city": "Selommes",
+   "postal_code": "41100",
+   "lat": 47.75793,
+   "lon": 1.19143,
+   "contract": "CDD",
+   "duration": "1 mois",
+   "salary": "16,68 €/heure",
+   "hours": "",
+   "description": "descriptif du poste\nDans un établissement pour personnes âgées, vous assurerez la santé et le bien-être des résidents en dispensant des soins et en prodiguant un soutien attentif\n- Coordonner les soins médicaux quotidiens des résidents en collaboration avec l'équipe médicale\n- Évaluer l'état de santé global des résidents et ajuster les plans de soins en conséquence\n- Administrer les traitements et les médicaments prescrits en veillant au respect des protocoles médicaux\n- Documenter rigoureusement les dossiers médicaux des résidents pour assurer un suivi précis et régulier\n- Contribuer à la formation continue du personnel soignant et à l'amélioration des pratiques de soins\nprofil recherché\nVous détenez le Diplôme d'État d'Infirmier et justifiez d'une première expérience en établissement pour personnes âgées\n- Vous maîtrisez les soins infirmiers et l'administration sécurisée des traitements\n- Vous faites preuve d'écoute, d'empathie et de respect envers les personnes accompagnées\n- Vous appréciez le travail pluridisciplinaire et transmettez des informations fiables aux équipes\n- Vous démontrez rigueur, réactivité et discernement face aux situations de soins\n- Vous respectez scrupuleusement les protocoles d'hygiène, de sécurité et de confidentialité\nProcessus de recrutement\nVous avez toujours rêvé(e) de travailler dans ce domaine ? Nous sommes impatients de découvrir votre candidature ! Nous vous garantissons un processus de recrutement chaleureux et personnalisé, avec un(e) consultant(e) dédié(e) pour vous guider à chaque étape.\nà propos de notre client\nNous recherchons pour le compte de notre client, un ehpad public situé secteur de Selommes, un infirmier diplômé (F/H).\nVoici les informations sur le poste :\n- poste possible en 80%\n- horaires : matin de 6h45 - 14h39, la journée de 7h45 - 14h39, le soir de 11h36 - 19h30, weekend et jour férié de 7h-19h (en 12h)\n- travail un weekend sur quatre\n- roulements de 4 semaines non-fixes car se module en fonction des impératifs de chacun\n- 60 résidents avec ouverture prochaine sur le second semestre 2026 d'un UPAD avec 12 lits\n- directions et encadrements partagés sur deux structures",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "secteur": "santé / social",
+    "agence": "Ag Appel médical Blois",
+    "marque": "appel medical",
+    "debut": "2026-12-27",
+    "fin": "2027-01-27",
+    "qualification": "Infirmier DE (F/H)"
+   },
+   "uid": "randstad:307-BLS-R000264_10R",
+   "distance_km": 22.0,
+   "fp": "665b8860118b3f3d",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "randstad:307-BLS-R000264_10R",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Le diplôme d'État d'infirmier est obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire",
+    "summary_tr": "Huzurevinde hemşirelik. Selommes'da.",
+    "tasks_tr": [
+     "Bakım",
+     "İlaç vermek",
+     "Dosya tutmak"
+    ],
+    "schedule_tr": "Vardiyalı, ayda bir hafta sonu",
+    "salary_tr": "Saatte 16,68 €",
+    "duration_tr": "1 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions. J'ai plusieurs années d'expérience en intérim. Je suis disponible rapidement. Merci pour votre retour."
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85491150",
+   "title": "Etudiant Infirmier H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85491150.html",
+   "company": "Adecco Medical",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "24 déc. - 24 déc.",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85491150",
+   "distance_km": 3.9,
+   "fp": "8332d2d8d46e5644",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "hellowork:85491150",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Le poste est réservé aux étudiants infirmiers.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşirelik öğrencisi",
+    "summary_tr": "Sağlık alanında öğrenci işi. Yer: La Chaussée-Saint-Victor.",
+    "tasks_tr": [
+     "Hasta bakımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatlik 12,31 €",
+    "duration_tr": "24 Aralık, 1 gün",
     "apply_message_fr": ""
    }
   },
@@ -1319,6 +2434,175 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en industrie. Je suis sérieuse et motivée. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8817319",
+   "title": "Infirmier IBO Expérience Bloc H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817319",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recherchons un(e) Infirmier(e) de bloc opératoire DE ou un(e) Infirmier(e) DE avec une expérience au bloc opératoire validée pour des remplacements en intérim dans une clinique située à...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817319",
+   "distance_km": 0.0,
+   "fp": "347f21889729ee9d",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817319",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Exige un diplôme d'infirmier.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Ameliyathane hemşiresi",
+    "summary_tr": "Klinikte ameliyathane hemşiresi. Diploma gerekli.",
+    "tasks_tr": [
+     "Ameliyatlarda yardım"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et disponible. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8817316",
+   "title": "Infirmier de bloc opératoire - IBODE ou IBO - H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8817316",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recherchons un(e) Infirmier(e) de bloc opératoire DE ou un(e) Infirmier(e) DE avec une expérience au bloc opératoire validée pour des remplacements en intérim dans une clinique située à...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8817316",
+   "distance_km": 0.0,
+   "fp": "8ee0fa6d27d69dc7",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8817316",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Exige un diplôme d'infirmier de bloc.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Ameliyathane hemşiresi",
+    "summary_tr": "Klinikte ameliyathane hemşiresi. Diploma gerekli.",
+    "tasks_tr": [
+     "Ameliyatlarda yardım"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et disponible. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8810234",
+   "title": "Mécanicien TP (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8810234",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recherchons pour notre client basé sur le secteur de Blois un Mécanicien TP (H/F)\nVos missions :\n-réaliser l'entretien régulier des véhicules ;\n-anticiper les besoins de révision ou d'entretien...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8810234",
+   "distance_km": 0.0,
+   "fp": "87868c3fec526cbf",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8810234",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de mécanicien qui demande une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "İş makinesi tamircisi",
+    "summary_tr": "Araç ve makine bakımı. Blois bölgesinde.",
+    "tasks_tr": [
+     "Araç bakımı yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et disponible. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8809327",
+   "title": "Conducteur/receveur de bus (H/F/D)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8809327",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Vous êtes à la recherche d'une opportunité professionnelle dans le secteur du transport urbain ?\nNotre client, spécialisé dans le réseau de transport urbain recrute un(e) conducteur(trice) de bus.\nEn...",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8809327",
+   "distance_km": 0.0,
+   "fp": "e17214d72842e17e",
+   "first_seen": "2026-11-13",
+   "ai": {
+    "uid": "francetravail:8809327",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Exige le permis D et beaucoup de contact avec le public.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Otobüs şoförü",
+    "summary_tr": "Şehir içi otobüs kullanmak. Blois'da.",
+    "tasks_tr": [
+     "Otobüs kullanmak",
+     "Bilet satmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. Je suis sérieuse et disponible. Merci pour votre réponse."
    }
   },
   {
