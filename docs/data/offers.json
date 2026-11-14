@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:07:03+00:00",
+ "updated": "2026-11-14T17:30:20+00:00",
  "offers": [
   {
    "source": "hellowork",
@@ -554,6 +554,92 @@
    }
   },
   {
+   "source": "francetravail",
+   "source_id": "8860303",
+   "title": "PARQUETEUR (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8860303",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Le GROUPE LIP recherche pour l'un de ses clients un(e) PARQUETEUR (H/F) pour intervenir sur un chantier dans un château sur le département du 41, pour de la rénovation et la pose de parquets\nVOS...",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:8860303",
+   "distance_km": 0.0,
+   "fp": "2052813a29f6f27f",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "francetravail:8860303",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de parqueteur qualifié dans le bâtiment, hors de son expérience.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Parke ustası",
+    "summary_tr": "Bir şatoda parke döşeme ve yenileme. Blois bölgesinde şantiye işi.",
+    "tasks_tr": [
+     "Parke döşemek",
+     "Eski parkeyi yenilemek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "d9ab7cbfafafea3d0331d30bc628c7cb",
+   "title": "Technicien de Maintenance (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/d9ab7cbfafafea3d0331d30bc628c7cb",
+   "company": "Hiring & Apply",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Cette usine est l'un des plus importants sites de production de shampooings du groupe et produit plus de 2 millions de bouteilles par jour. En tant que",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Technicien maintenance"
+   },
+   "uid": "jobijoba:d9ab7cbfafafea3d0331d30bc628c7cb",
+   "distance_km": 18.4,
+   "fp": "1edb76417d1486f8",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:d9ab7cbfafafea3d0331d30bc628c7cb",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de technicien de maintenance qui demande une formation technique.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Bakım teknisyeni",
+    "summary_tr": "Şampuan fabrikasında makine bakımı. Mer'de.",
+    "tasks_tr": [
+     "Makineleri tamir etmek",
+     "Arıza bulmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "jobijoba",
    "source_id": "14d48c84a188213decae909d01f14ade",
    "title": "Plombiers Sanitaires H/F",
@@ -595,6 +681,346 @@
     "salary_tr": "Saatlik 11,88 €",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en intérim dans la production, le conditionnement et la manutention. Je suis sérieuse, rapide et disponible sur tous les horaires. Je serais heureuse de vous rencontrer."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "881a3bc5dca7ea8b254a29e20dac42d1",
+   "title": "Responsable Restauration Collective (H/F) - Ma Blois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/881a3bc5dca7ea8b254a29e20dac42d1",
+   "company": "Ministère De La Justice",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Corporelle et tenues vestimentaires des personnes détenues, · Met en place le calendrier de nettoyage et de désinfection des cuisines, · Prépare",
+   "published": "2026-11-09",
+   "phone": "",
+   "extra": {
+    "metier": "Responsable en restauration"
+   },
+   "uid": "jobijoba:881a3bc5dca7ea8b254a29e20dac42d1",
+   "distance_km": 0.0,
+   "fp": "95a9f224d2786706",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:881a3bc5dca7ea8b254a29e20dac42d1",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de responsable en restauration collective, encadrement et administratif.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Yemekhane sorumlusu",
+    "summary_tr": "Cezaevinde mutfak yönetimi. Blois'da.",
+    "tasks_tr": [
+     "Mutfağı yönetmek",
+     "Temizlik planı yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "78edccb745471556381ea7ad61e3c5b4",
+   "title": "Aide-soignant DE H/F - Vacation - à 7km de Blois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/78edccb745471556381ea7ad61e3c5b4",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13,01 € de l'heure",
+   "hours": "",
+   "description": "Une restauration sur place possible. N'hésitez pas à postuler dès maintenant, Lauriane et Salomé seront ravies de vous rencontrer pour échanger sur vos",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Aide soignant"
+   },
+   "uid": "jobijoba:78edccb745471556381ea7ad61e3c5b4",
+   "distance_km": 0.0,
+   "fp": "7c0ac59fc9e1ca91",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:78edccb745471556381ea7ad61e3c5b4",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Le poste exige le diplôme d'État d'aide-soignant, qu'elle ne possède pas.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı (diploma gerekli)",
+    "summary_tr": "Blois yakınında hasta bakım işi. Devlet diploması gerekiyor.",
+    "tasks_tr": [
+     "Hastalara bakmak",
+     "Temizlik ve yemekte yardım"
+    ],
+    "schedule_tr": "Vardiya (vacation)",
+    "salary_tr": "Saati 13,01 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. Je n'ai pas le diplôme d'aide-soignante, mais j'ai plusieurs années d'expérience en intérim dans la production et le conditionnement. Je suis sérieuse et disponible rapidement. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8855175",
+   "title": "TECHNICIEN(-NE) DE DEVELOPPEMENT ANALYTIQUE H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8855175",
+   "company": "",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Rattaché(e) à notre Directrice Contrôle Qualité, vous aurez en charge les missions suivantes :\n- Réaliser les mises en stabilité et les analyses physico-chimiques des stabilités servant au dépôt...",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8855175",
+   "distance_km": 0.0,
+   "fp": "7941facbd56b243f",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "francetravail:8855175",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de technicien de laboratoire qui demande un diplôme scientifique.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Laboratuvar teknisyeni",
+    "summary_tr": "Kalite kontrol laboratuvarında analiz işi. Blois'da.",
+    "tasks_tr": [
+     "Kimyasal analiz yapmak",
+     "Sonuçları yazmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85509706",
+   "title": "Chef d'Équipe Electricité H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85509706.html",
+   "company": "Partnaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "14 - 17 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85509706",
+   "distance_km": 0.0,
+   "fp": "38835a8c8a63f9b8",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "hellowork:85509706",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste d'encadrement en électricité qui exige une qualification.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Elektrik ekip şefi",
+    "summary_tr": "Elektrikçi ekibini yönetmek. Blois'da.",
+    "tasks_tr": [
+     "Ekibi yönetmek",
+     "Elektrik işleri"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatte 14-17 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "07bd064717bc3421894509aea3067673",
+   "title": "Infirmier D.E H/F EHPAD à 8min de Blois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/07bd064717bc3421894509aea3067673",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "dédiée à mettre en relation des professionnels de santé qualifiés avec des opportunités d'emploi enrichissantes. Vous êtes un(e) infirmier(e) qualifié(e)",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier ehpad"
+   },
+   "uid": "jobijoba:07bd064717bc3421894509aea3067673",
+   "distance_km": 0.0,
+   "fp": "332d03a2d1122834",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:07bd064717bc3421894509aea3067673",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'infirmier qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (huzurevi)",
+    "summary_tr": "Huzurevinde hemşirelik. Blois yakınında.",
+    "tasks_tr": [
+     "Hastalara bakmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "226308dd9e63a4b27d39fb8b58bb89b0",
+   "title": "Infirmier D.E H/F - NUIT - Clinique - Blois",
+   "url": "https://www.jobijoba.com/fr/annonce/54/226308dd9e63a4b27d39fb8b58bb89b0",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13,16 € de l'heure",
+   "hours": "",
+   "description": "une équipe engagée dans l'accompagnement des patients, nous vous invitons à soumettre votre candidature sans délai. Lauriane et Salomé se feront un",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:226308dd9e63a4b27d39fb8b58bb89b0",
+   "distance_km": 0.0,
+   "fp": "43e88985193fbf28",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:226308dd9e63a4b27d39fb8b58bb89b0",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'infirmier de nuit qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Gece hemşiresi",
+    "summary_tr": "Klinikte gece hemşireliği. Blois'da.",
+    "tasks_tr": [
+     "Hastalara bakmak"
+    ],
+    "schedule_tr": "Gece",
+    "salary_tr": "Saatte 13,16 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "6fdbc55287a9808d215f77b9c3632efa",
+   "title": "Infirmier de Prélèvement H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/6fdbc55287a9808d215f77b9c3632efa",
+   "company": "Domino Rh",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 30 000 € à 40 000 € par an",
+   "hours": "",
+   "description": "d'anomalies des DMU, du matériel... · Participer aux vigilances · Informer le médecin responsable de la collecte de tout évènement indésirable donneur et",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:6fdbc55287a9808d215f77b9c3632efa",
+   "distance_km": 0.0,
+   "fp": "5b2900ec5fcaa448",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:6fdbc55287a9808d215f77b9c3632efa",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'infirmier de prélèvement qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kan alma hemşiresi",
+    "summary_tr": "Kan bağışında hemşirelik. Blois'da.",
+    "tasks_tr": [
+     "Kan almak",
+     "Doktora bilgi vermek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Yılda 30.000-40.000 €",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "978ee9c207732e7dcc87bff54cd6cbfc",
+   "title": "Infirmier D.E H/F - Soins à domicile - Vacation",
+   "url": "https://www.jobijoba.com/fr/annonce/54/978ee9c207732e7dcc87bff54cd6cbfc",
+   "company": "Vitalis Médical",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 16,49 € à 21,65 € de l'heure",
+   "hours": "",
+   "description": "* Un accompagnement personnalisé tout au long de votre parcours ; * Une gestion simplifiée de vos démarches administratives ; * Une équipe réactive,",
+   "published": "2026-11-14",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:978ee9c207732e7dcc87bff54cd6cbfc",
+   "distance_km": 0.0,
+   "fp": "4bebd31d403861f8",
+   "first_seen": "2026-11-14",
+   "ai": {
+    "uid": "jobijoba:978ee9c207732e7dcc87bff54cd6cbfc",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Le poste d'infirmier exige un diplôme d'État et beaucoup de français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (diploma gerekli)",
+    "summary_tr": "Blois'da evde hasta bakımı. Hemşire diploması gerekiyor.",
+    "tasks_tr": [
+     "Evde tedavi yapmak",
+     "Hastaları takip etmek"
+    ],
+    "schedule_tr": "Vardiya (vacation)",
+    "salary_tr": "Saati 16,49 € - 21,65 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, j'ai vu votre offre à Blois. Je n'ai pas le diplôme d'infirmière, mais j'ai plusieurs années d'expérience en intérim dans le conditionnement et la logistique. Je suis disponible pour d'autres missions. Merci pour votre réponse."
    }
   },
   {
