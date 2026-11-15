@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T12:42:49+00:00",
+ "updated": "2026-11-15T18:11:35+00:00",
  "offers": [
   {
    "source": "jobijoba",
@@ -228,6 +228,98 @@
     "salary_tr": "Saat 12,31 - 12,40 €",
     "duration_tr": "1 ay",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "58053365",
+   "title": "Magasinier Cariste (H/F/D)",
+   "url": "https://www.meteojob.com/jobs/58053365",
+   "company": "SAMSIC EMPLOI ",
+   "city": "Mer",
+   "postal_code": "41500",
+   "lat": 47.70555,
+   "lon": 1.50621,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "À partir de 12,31 € par heure",
+   "hours": "Temps Plein",
+   "description": "Vous êtes à la recherche d'une opportunité professionnelle dynamique dans le secteur de la logistique ? Notre client recrute un Agent Administratif Opérationnel Quai (H/F/D) pour renforcer ses équipes rapidement.\n Vous jouerez un rôle clé dans la gestion quotidienne des opérations sur le quai. Nous vous offrons la possibilité de travailler dans un environnement stimulant avec des horaires fixes de 8h à 16h, incluant des pauses de 10 minutes le matin et l'après-midi, et une pause déjeuner de 40 minutes.\n Les missions attendues du poste incluent :\n Participer activement à la manutention de colis volumineux tels que meubles, matelas, appareils électroménagers et canapés.\n Utiliser le CACES 1 pour le déplacement sécurisé des marchandises.\n Gérer l'administration et le suivi des colis lourds sur le quai.\n Interagir avec les équipes du quai pour optimiser les flux logistiques.\n Être à l'aise avec l'utilisation de logiciels informatiques pour la gestion des mails et des tableaux.\nSAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.\n Nous recherchons un candidat ayant une première expérience dans un environnement logistique, capable de combiner efficacité et précision.\n Compétences attendues pour le poste :\n Aisance avec les outils informatiques, notamment le pack Office et les logiciels de gestion des mails.\n Capacité à gérer des charges lourdes et à assurer un suivi administratif rigoureux.\n Bonnes compétences en communication et esprit d'équipe.\n Capacité à travailler de manière autonome tout en maintenant une bonne coordination avec les collègues.\n Les avantages :\n Rémunération de 12,31€/h.\n Tickets restaurant\n Samsic Emploi, filiale du Groupe Samsic, recrute depuis 25 ans dans de nombreux secteurs d'activité sur tout type de contrats. Notre équipe accorde une importance toute particulière à l'accompagnement personnalisé et à la proximité avec nos candidats et clients. Samsic Emploi a été classé N1 par le magazine Capital comme \"Meilleure enseigne de Travail Temporaire\" pour la cinquième année consécutive en 2025 et a obtenu 5 étoiles dans le classement Les Echos pour la qualité de son réseau de 320 agences.\n Si vous êtes prêt à relever ce défi et à mettre vos compétences au service de notre client, n'hésitez pas à postuler.\n À compétences égales, toutes les candidatures sont étudiées sans distinction de genre, d'âge, d'origine, de situation de handicap ou d'orientation sexuelle.",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Magasinier cariste (H/F)",
+     "Agent de logistique et de manutention en grande distribution (H/F)"
+    ]
+   },
+   "uid": "meteojob:58053365",
+   "distance_km": 18.4,
+   "fp": "f9b9c25cdf60b54c",
+   "first_seen": "2026-11-15",
+   "ai": {
+    "uid": "meteojob:58053365",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le poste exige le CACES 1 et un suivi administratif avec mails et tableaux, ce qui demande un bon français écrit.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Depo görevlisi, forklift (rampa)",
+    "summary_tr": "Mer'de bir depoda ağır kolilerle çalışma. Forklift belgesi ve bilgisayar işi istiyor.",
+    "tasks_tr": [
+     "Ağır koli taşımak",
+     "Forklift kullanmak",
+     "Bilgisayarda takip yapmak"
+    ],
+    "schedule_tr": "8:00 - 16:00, tam gün",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste sur le quai à Mer. J'ai plusieurs années d'expérience en manutention et chargement de colis en entrepôt. Je suis rapide, endurante et disponible tout de suite. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "aec2cf8aa609b28e0a95619769766cdf",
+   "title": "Magasinier Cariste H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/aec2cf8aa609b28e0a95619769766cdf",
+   "company": "Samsic Emploi",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Vous êtes à la recherche d'une opportunité professionnelle dynamique dans le secteur de la logistique ? Notre client recrute un Agent Administratif Opérationnel Quai (H/F/D) pour renforcer ses équipes rapidement.\nVous jouerez un rôle clé dans la gestion quotidienne des opérations sur le quai. Nous vous offrons la possibilité de travailler dans un environnement stimulant avec des horaires fixes de 8h à 16h, incluant des pauses de 10 minutes le matin et l'après-midi, et une pause déjeuner de 40 minutes.\nLes missions attendues du poste incluent :\n- Participer activement à la manutention de colis volumineux tels que meubles, matelas, appareils électroménagers et canapés.\n- Utiliser le CACES 1 pour le déplacement sécurisé des marchandises.\n- Gérer l'administration et le suivi des colis lourds sur le quai.\n- Interagir avec les équipes du quai pour optimiser les flux logistiques.\n- Être à l'aise avec l'utilisation de logiciels informatiques pour la gestion des mails et des tableaux.\nSAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap. 12.31 € / heure",
+   "published": "2026-11-13",
+   "phone": "",
+   "extra": {
+    "metier": "Magasinier",
+    "first_published": "2026-11-13"
+   },
+   "uid": "jobijoba:aec2cf8aa609b28e0a95619769766cdf",
+   "distance_km": 18.4,
+   "fp": "5b5c16e1b24f7a2f",
+   "first_seen": "2026-11-15",
+   "ai": {
+    "uid": "jobijoba:aec2cf8aa609b28e0a95619769766cdf",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le poste demande le CACES 1 et de la gestion administrative sur ordinateur.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Depo görevlisi, forklift (rampa)",
+    "summary_tr": "Mer'de bir depoda ağır kolilerle çalışma. Forklift belgesi ve bilgisayar işi istiyor.",
+    "tasks_tr": [
+     "Ağır koli taşımak",
+     "Forklift kullanmak",
+     "Bilgisayarda takip yapmak"
+    ],
+    "schedule_tr": "8:00 - 16:00",
+    "salary_tr": "Saati 12,31 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste sur le quai à Mer. J'ai plusieurs années d'expérience en manutention et chargement de colis. Je suis rapide et disponible rapidement. Merci pour votre réponse."
    }
   },
   {
@@ -460,6 +552,51 @@
   },
   {
    "source": "jobijoba",
+   "source_id": "fba277ecb4407d3c418ccc893e8a1171",
+   "title": "Magasinier Cariste Industrie F/h - Horaires de Jour - Caces 1-3-5",
+   "url": "https://www.jobijoba.com/fr/annonce/54/fba277ecb4407d3c418ccc893e8a1171",
+   "company": "RANDSTAD INHOUSE SERVICES ADK",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Job Description Marque Randstad Inhouse, est un concept unique en France d'agence intérim hébergée au cœur du site de production de nos clients. Forte de plus de 250 agences, nous accompagnons chaque année plus de 65 000 intérimaires. L'esprit de famille incarne notre ADN : étant chez nos clients aux côtés de nos intérimaires, nous “travaillons en famille”! Nous rejoindre, c'est également bénéficier de nombreux avantages proposés par notre CE et nos partenaires. Client Intégrez le pôle logistique stratégique d'un géant industriel mondial basé à Grande-Synthe. Rejoindre ce site de production hors norme, c'est l'assurance d'évoluer en tant que magasinier cariste dans un environnement exigeant où la sécurité est la priorité absolue. Nous vous offrons une opportunité rare sur ce type de site : une stabilité garantie avec un contrat longue durée pouvant aller jusqu'à 18 mois. Poste L'atout majeur de ce poste logistique ? Vous profitez d'une qualité de vie optimale grâce à des horaires de journée (07h50 - 16h26) du lundi au vendredi, sans travail posté ! Au sein des magasins, vous êtes le garant du bon flux des pièces de rechange (électriques, mécaniques) et des consommables, vitaux pour le fonctionnement de l'usine. Vos missions de magasinier cariste au quotidien :Logistique & Flux physiques : Vous assurez la gestion des stocks, la réception et l'expédition à l'aide de vos chariots élévateurs (CACES 1, 3, 5) et du pont à commande au sol. Gestion informatique : Vous assurez la traçabilité des pièces en utilisant quotidiennement le logiciel SAP. Profil Pour ce poste clé, nous ne cherchons pas un simple manutentionnaire, mais un véritable Cariste Industriel expérimenté, organisé et à l'aise avec l'outil informatique ! Vos pré-requis impératifs : Niveau d'études : Vous êtes obligatoirement titulaire d'un niveau d'études Bac. Expérience : Vous justifiez d'au moins 1 an d'expérience solide en tant que cariste / magasinier dans un environnement industriel exigeant. Habilitations : Vous possédez vos CACES 1, 3 et 5 en cours de validité, le pont commande au sol et tout autre chariot serait un plus. Compétences clés : Vous êtes parfaitement à l'aise avec l'informatique de gestion (la connaissance de SAP est un atout majeur) et faites preuve d'une grande rigueur.",
+   "published": "2026-11-15",
+   "phone": "",
+   "extra": {
+    "metier": "Magasinier",
+    "first_published": "2026-11-15"
+   },
+   "uid": "jobijoba:fba277ecb4407d3c418ccc893e8a1171",
+   "distance_km": 18.4,
+   "fp": "ad8cab8319c74703",
+   "first_seen": "2026-11-15",
+   "ai": {
+    "uid": "jobijoba:fba277ecb4407d3c418ccc893e8a1171",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Le poste exige les CACES 1, 3 et 5, un niveau bac et l'usage du logiciel SAP.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Forkliftçi depo görevlisi",
+    "summary_tr": "Büyük bir fabrikada yedek parça deposu. Forklift belgeleri ve lise diploması şart.",
+    "tasks_tr": [
+     "Stok yönetmek",
+     "Forklift kullanmak",
+     "SAP programında kayıt"
+    ],
+    "schedule_tr": "Pazartesi-cuma, 07:50 - 16:26",
+    "salary_tr": "",
+    "duration_tr": "18 aya kadar",
+    "apply_message_fr": "Bonjour, je suis intéressée par ce poste en logistique. J'ai plusieurs années d'expérience en préparation de commandes et manutention. Je suis sérieuse et travailleuse. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
    "source_id": "f6b2b7b0428d31a2b735a478f80e1cdf",
    "title": "Infirmier D.E H/F - EHPAD - CDD - à 8min de Blois",
    "url": "https://www.jobijoba.com/fr/annonce/54/f6b2b7b0428d31a2b735a478f80e1cdf",
@@ -593,6 +730,49 @@
     "salary_tr": "Saat 16,32 - 21,22 €",
     "duration_tr": "",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "a23def9fcd4f2366dfeb8450b6a6d53c",
+   "title": "Mécanicien TP H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/a23def9fcd4f2366dfeb8450b6a6d53c",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 12,31 € à 15 € de l'heure",
+   "hours": "",
+   "description": "sur cher CET une expérience dans ce domaine est un plus. Le Groupe Adwork's est un groupe de travail temporaire en France constitué d'agences",
+   "published": "2026-11-15",
+   "phone": "",
+   "extra": {
+    "metier": "Mécanicien"
+   },
+   "uid": "jobijoba:a23def9fcd4f2366dfeb8450b6a6d53c",
+   "distance_km": 0.0,
+   "fp": "52d3b83a3aa1535a",
+   "first_seen": "2026-11-15",
+   "ai": {
+    "uid": "jobijoba:a23def9fcd4f2366dfeb8450b6a6d53c",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "C'est un poste de mécanicien qui demande une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "İş makinesi tamircisi",
+    "summary_tr": "Blois bölgesinde iş makinesi tamiri. Teknik bilgi gerekiyor.",
+    "tasks_tr": [
+     "Makine tamir etmek",
+     "Bakım yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saati 12,31 € - 15 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions d'intérim à Blois. J'ai plusieurs années d'expérience en production et conditionnement. Je suis travailleuse et disponible. Merci pour votre réponse."
    }
   },
   {
