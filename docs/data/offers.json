@@ -1,6 +1,100 @@
 {
- "updated": "2026-11-19T14:22:20+00:00",
+ "updated": "2026-11-19T19:47:32+00:00",
  "offers": [
+  {
+   "source": "francetravail",
+   "source_id": "216QRWG",
+   "title": "Préparateur de commandes (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216QRWG",
+   "company": "PROMAN",
+   "city": "Villebarou",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Le poste :\nVotre agence d'intérim PROMAN recrute un Préparateur de commandes / Coliseur H/F. Vous interviendrez dans un environnement de travail dédié à la logistique et vos missions consisteront à :...",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216QRWG",
+   "distance_km": 4.3,
+   "fp": "d921120924f9e104",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:216QRWG",
+    "suitable": true,
+    "score": 88,
+    "reason_fr": "Poste de préparation de commandes en intérim tout proche, qui correspond à son expérience en picking.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Sipariş hazırlama elemanı",
+    "summary_tr": "Lojistik deposunda sipariş hazırlama ve paketleme. Yer: Villebarou.",
+    "tasks_tr": [
+     "Siparişleri toplamak",
+     "Kolileri hazırlamak",
+     "Paketleri etiketlemek"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de préparatrice de commandes à Villebarou. J'ai plusieurs années d'expérience en préparation de commandes et picking au scanner dans un entrepôt logistique. Je suis rapide, sérieuse et disponible tout de suite, pour tous les horaires. Je vous remercie de votre attention."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "216NDPR",
+   "title": "Manutentionnaire de colis (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216NDPR",
+   "company": "CRIT INTERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Tu es du matin ou de l'après midi et tu veux bosser dans une équipe dynamique ?\nNotre client, expert en logistique et transport, cherche un Agent de Tri à Mer (41500) pour un contrat en intérim pour...",
+   "published": "2026-11-17",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216NDPR",
+   "distance_km": 0.0,
+   "fp": "e8f9721567803117",
+   "also_on": [
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85613288.html"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:216NDPR",
+    "suitable": true,
+    "score": 85,
+    "reason_fr": "Tri et manutention de colis en intérim, proche de son expérience, à Mer.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Koli ayıklama elemanı",
+    "summary_tr": "Lojistik firmasında koli ayıklama ve taşıma. Yer: Mer (41500).",
+    "tasks_tr": [
+     "Kolileri ayıklamak",
+     "Kolileri taşımak",
+     "Kamyon yüklemek"
+    ],
+    "schedule_tr": "Tam gün, sabah veya öğleden sonra",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'agent de tri de colis à Mer. J'ai plusieurs années d'expérience en tri, manutention et chargement de colis. Je suis endurante, rapide et j'ai une voiture. Je suis disponible le matin ou l'après-midi."
+   }
+  },
   {
    "source": "francetravail",
    "source_id": "8979261",
@@ -362,6 +456,91 @@
   },
   {
    "source": "hellowork",
+   "source_id": "85630982",
+   "title": "Conducteur de Ligne Pharmaceutique H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85630982.html",
+   "company": "Partnaire",
+   "city": "Valloire-sur-Cisse",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-11-18",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85630982",
+   "distance_km": 11.2,
+   "fp": "2f3deae46e0fa42a",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "hellowork:85630982",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Conduite de ligne pharmaceutique, poste technique avec réglages et documents à remplir.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "İlaç üretim hattı sürücüsü",
+    "summary_tr": "İlaç fabrikasında üretim hattını yönetmek. Yer: Valloire-sur-Cisse.",
+    "tasks_tr": [
+     "Hattı çalıştırmak",
+     "Makine ayarı yapmak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatte 13 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai de l'expérience en conditionnement dans le secteur pharmaceutique. Je respecte bien les règles d'hygiène et je travaille vite. Je suis disponible rapidement."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "c536ff2bde2d1f6d462d51cb4f28c0ab",
+   "title": "Assistant Logistique F/H",
+   "url": "https://www.jobijoba.com/fr/annonce/54/c536ff2bde2d1f6d462d51cb4f28c0ab",
+   "company": "Terrena",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste de Assistant Logistique F/H ? Tu veux évoluer dans un univers où la logistique est synonyme de mouvement, de coordination et de",
+   "published": "2026-11-18",
+   "phone": "",
+   "extra": {
+    "metier": "Assistant logistique"
+   },
+   "uid": "jobijoba:c536ff2bde2d1f6d462d51cb4f28c0ab",
+   "distance_km": 18.4,
+   "fp": "64efa363d8fc536f",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "jobijoba:c536ff2bde2d1f6d462d51cb4f28c0ab",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Poste d'assistant logistique axé sur la coordination, avec une part administrative et du français écrit, et un type de contrat non précisé.",
+    "category": "depo",
+    "french_level": "cok",
+    "title_tr": "Lojistik asistanı",
+    "summary_tr": "Lojistik işlerini düzenleme ve takip etme işi. Yer: Mer, Terrena.",
+    "tasks_tr": [
+     "Sevkiyatları düzenlemek",
+     "Bilgisayarda takip yapmak",
+     "Ekiplerle konuşmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'assistant logistique. J'ai plusieurs années d'expérience en préparation de commandes et en manutention. Je suis sérieuse, rapide et disponible sur tous les horaires. Je serais heureuse d'en parler avec vous."
+   }
+  },
+  {
+   "source": "hellowork",
    "source_id": "76921892",
    "title": "Plieur Régleur H/F",
    "url": "https://www.hellowork.com/fr-fr/emplois/76921892.html",
@@ -440,6 +619,53 @@
     "salary_tr": "Ayda 1 867 - 2 250 €",
     "duration_tr": "12 ay",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85700212",
+   "title": "Opérateur Régleur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85700212.html",
+   "company": "Artus Interim",
+   "city": "Le Controis-en-Sologne",
+   "postal_code": "41120",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "12,31 € / heure",
+   "hours": "",
+   "description": "Les missions du poste\n Votre prochaine mission d'intérim, CDD, CDI ou contrat saisonnier est peut-être à un clic ! \nAvec ses 90 agences en France, faites confiance à ARTUS, spécialiste du recrutement depuis plus de 30 ans.\nARTUS INTERIM Contres recherche un collaborateur pour une entreprise dans le secteur de la mécanique de précision. \nVos missions principales sont : \n- Préparer les opérations d'usinage en s'assurant de la disponibilité des matières premières \n- Régler les machines mécaniquement \n- Démonter et monter les outils servant à la production \n- Réaliser les opérations d'usinage \n- Effectuer un contrôle qualité des pièces usinées à l'aide d'outils \n- Détecter les anomalies et dysfonctionnements au cours de la fabrication \n- Assurer l'entretien et la maintenance de premier niveau des machines \n- Renseigner les supports qualité et les documents de suivi de production \nHoraire : contrat du lundi au jeudi, horaire de journée \nSalaire : 12.31EUR \nAvantages rémunération : 10% d'Indemnité de Fin de Mission + 10% de Congés Payés\n Le profil recherché\n Expérience sur un poste similaire souhaitée. Rigueur et sens de l'attention ; Intérêt pour le secteur de la mécanique de précision.Les Avantages : - CET à 8% - Parrainage - Carte CE - Participation aux bénéfices - Acompte de paie à la semaine si besoin - Montée en compétences via formation - Bénéficiez d'aides et de services dédiés (mutuelle, logement, garde enfant, déplacement). - Signatures des contrats électroniques Maintenant, c'est à vous de jouer ! N'hésitez plus et rejoignez la ARTUS Family ! Expérience sur un poste similaire souhaitée.\n Bienvenue chez Artus Interim\n Votre prochaine mission d'intérim, CDD, CDI ou contrat saisonnier est peut-être à un clic !Avec ses 90 agences en France, faites confiance à ARTUS, spécialiste du recrutement depuis plus de 30 ans.\n Mais aussi...\n NON",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "employmentType": [
+     "TEMPORARY",
+     "FULL_TIME"
+    ]
+   },
+   "uid": "hellowork:85700212",
+   "distance_km": 19.9,
+   "fp": "dac8fae8b3acd5b7",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "hellowork:85700212",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Poste de régleur en usinage qui demande des compétences techniques (réglage, montage d'outils, maintenance).",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Makine ayar operatörü",
+    "summary_tr": "Hassas mekanik fabrikasında makine ayarı ve işleme. Yer: Le Controis-en-Sologne.",
+    "tasks_tr": [
+     "Makineleri ayarlamak",
+     "Parça işlemek",
+     "Kalite kontrol yapmak"
+    ],
+    "schedule_tr": "Pazartesi-perşembe, gündüz",
+    "salary_tr": "Saatte 12,31 €",
+    "duration_tr": "18 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre mission d'intérim. J'ai plusieurs années d'expérience en production et conditionnement en usine. Je suis rigoureuse, rapide et prête à apprendre. Je suis disponible rapidement."
    }
   },
   {
@@ -572,6 +798,46 @@
     "salary_tr": "Saat 12,31 - 13 €",
     "duration_tr": "18 ay",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85698678",
+   "title": "Mécanicien Monteur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85698678.html",
+   "company": "SIM Agences d’emploi – Région Centre",
+   "city": "Vineuil",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 - 13,50 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85698678",
+   "distance_km": 3.1,
+   "fp": "bccaec584016282f",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "hellowork:85698678",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Poste de mécanicien monteur qui demande une qualification technique en mécanique.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Mekanik montajcı",
+    "summary_tr": "Mekanik parça montajı. Yer: Vineuil.",
+    "tasks_tr": [
+     "Parça monte etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 13 - 13,50 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en usine et en manutention. Je suis sérieuse et je travaille vite. Je suis disponible rapidement."
    }
   },
   {
@@ -871,6 +1137,133 @@
   },
   {
    "source": "francetravail",
+   "source_id": "8981216",
+   "title": "Maçon du paysage F/H",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8981216",
+   "company": "",
+   "city": "Saint-Claude-De-Diray",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Notre client accompagne ses clients dans la création et la valorisation de leurs extérieurs. Dans le cadre de son développement, l'antenne situé à Saint-Claude-de-Diray recherche un Maçon Paysager...",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8981216",
+   "distance_km": 7.1,
+   "fp": "6eb987dbb652b42e",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:8981216",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Maçon paysager : métier qualifié du bâtiment, hors de son expérience.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Bahçe duvarcısı",
+    "summary_tr": "Bahçelerde duvar ve taş işleri. Yer: Saint-Claude-De-Diray.",
+    "tasks_tr": [
+     "Duvar örmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "216NMMP",
+   "title": "Hôte de caisse H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216NMMP",
+   "company": "CRIT INTERIM",
+   "city": "Villebarou",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Dans le cadre du développement de son activité, nous recherchons pour notre client, spécialisé dans le secteur de la distribution de matériaux de construction et de bricolage, un hôte de caisse en...",
+   "published": "2026-11-18",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216NMMP",
+   "distance_km": 4.3,
+   "fp": "dacd807626038040",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:216NMMP",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de caisse avec beaucoup de contact client en français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kasiyer",
+    "summary_tr": "Yapı marketinde kasada çalışmak. Yer: Villebarou.",
+    "tasks_tr": [
+     "Kasada ödeme almak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "71357afbd4d77d5cfd5f831a1242f0d8",
+   "title": "CORDISTE (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/71357afbd4d77d5cfd5f831a1242f0d8",
+   "company": "CRIT GIEN",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "qu'une agence d'emploi : toujours à vos côtés pour vous accompagner dans votre projet professionnel, en vous proposant des missions en CDI, CDD, CDI",
+   "published": "2026-11-18",
+   "phone": "",
+   "extra": {
+    "metier": "Cordiste"
+   },
+   "uid": "jobijoba:71357afbd4d77d5cfd5f831a1242f0d8",
+   "distance_km": 0.0,
+   "fp": "a9a3383d075f3239",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "jobijoba:71357afbd4d77d5cfd5f831a1242f0d8",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Le métier de cordiste demande une certification obligatoire pour le travail en hauteur sur cordes.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Halatla yüksekte çalışan işçi",
+    "summary_tr": "İp ve halatla yüksekte çalışma işi. Yer: Blois, geçici iş.",
+    "tasks_tr": [
+     "Halatla yüksekte çalışmak",
+     "Bina veya yapı üzerinde iş yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions d'intérim à Blois. J'ai plusieurs années d'expérience en intérim dans la manutention et le conditionnement. Je suis rapide, endurante et disponible sur tous les horaires. Je reste à votre disposition pour d'autres missions."
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "216QLVP",
    "title": "Formateur mécanicien (H/F)",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216QLVP",
@@ -1081,6 +1474,180 @@
     "schedule_tr": "",
     "salary_tr": "Saatte 12,31 €",
     "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "216QTZL",
+   "title": "Conducteur de pelle  H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216QTZL",
+   "company": "ADEQUAT INTERIM",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Poste à pourvoir de suite - Conduite de pelle 100 tonnes LIEBHERR H/F - Expérience en carrière souhaité\nNotre agence Adéquat de Blois recrute de nouveau talent : conducteur de pelle H/F pour son...",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216QTZL",
+   "distance_km": 0.0,
+   "fp": "2dc05a18456f2d6c",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:216QTZL",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Conduite de pelle de carrière : poste qualifié avec engin, hors de son profil.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Kepçe operatörü",
+    "summary_tr": "Taş ocağında büyük kepçe kullanmak. Yer: Blois.",
+    "tasks_tr": [
+     "Kepçe kullanmak"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8981217",
+   "title": "Mécanicien d'engins de manutention F/H",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8981217",
+   "company": "",
+   "city": "Saint-Gervais-La-Forêt",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Nous recrutons, pour notre client spécialisé dans la fabrication de matériels de transport et de manutention, un Mécanicien agricole F/H pour une mission d'intérim évolutive vers une opportunité à...",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "origin": "DIRECTEMPLOI"
+   },
+   "uid": "francetravail:8981217",
+   "distance_km": 2.6,
+   "fp": "3e682d19beebf2d3",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:8981217",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de mécanicien qualifié, demande une formation technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Makine tamircisi",
+    "summary_tr": "Taşıma makinelerini tamir etmek. Yer: Saint-Gervais-La-Forêt.",
+    "tasks_tr": [
+     "Makine tamiri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "8925879",
+   "title": "Vendeur Outillage Jardinage F/H - MAGNITUDE",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8925879",
+   "company": "MAGNITUDE",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Le projet & Vos perspectives\nVous avez le sens du commerce, une vraie aisance relationnelle et un attrait pour le bricolage, les espaces verts ou l'outillage électroportatif ? Devenez le visage de...",
+   "published": "2026-11-17",
+   "phone": "",
+   "extra": {
+    "origin": "WE_RECRUIT"
+   },
+   "uid": "francetravail:8925879",
+   "distance_km": 0.0,
+   "fp": "bdc61972db7899fe",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "francetravail:8925879",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de vente qui demande une bonne aisance à l'oral.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış elemanı",
+    "summary_tr": "Mağazada bahçe aletleri satmak. Yer: Blois.",
+    "tasks_tr": [
+     "Müşteriye satış"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "CDD",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "adecco",
+   "source_id": "2151456401",
+   "title": "Assistant ADV (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2151456401",
+   "company": "Adecco",
+   "city": "Talcy",
+   "postal_code": "41370",
+   "lat": 47.7697,
+   "lon": 1.4425,
+   "contract": "Intérim",
+   "duration": "1 mois",
+   "salary": "",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco recherche un Assistant Administration des ventes (h/f) sur Talcy :\nVos missions :\n- Gestion des commandes clients\n- Réception, saisie et suivi des commandes dans le système ERP\n- Vérification de la conformité des commandes (prix, quantités, délais)\n- Coordination avec le service commercial pour confirmer la disponibilité des produits\n- Suivi logistique et expéditions\n- Organisation des expéditions avec le service logistique et les transporteurs\n- Suivi des plannings de livraisons en fonction des contraintes de récolte et de conditionnement\n- Gestion des documents d'expédition (bons de livraison, bordereaux, certificats qualité...)\n- Relation client\n- Réception des appels clients, réponse aux demandes d'informations\n- Gestion des réclamations liées aux livraisons ou aux produits\n- Suivi de la satisfaction client et remontée des besoins spécifiques au service commercial\n- Facturation et gestion administrative\n- Mise à jour des dossiers clients et produits\n- Mise à jour tarifaire\n- Coordination interne\n- Interface entre les services production, qualité, logistique et commercial\n- Transmission des informations sur les contraintes liées à la récolte\n- Participation à l'amélioration des process ADV\n- Gestion des stocks et prévisions\n- Suivi des niveaux de stock en coordination avec le service production\n- Aide à la planification des besoins clients en fonction des récoltes\n- Participation aux inventaires périodiques\nVotre profil\nVotre profil :\n- Maitrise des ERP\n- Bonne maitrise du Pack Office (Excel, Word, Outlook)\n- Saisie et suivi des commandes clients\n- Edition et contrôle des documents commerciaux (bons de commande, bons de livraison, factures)\n- Gestion des encaissements et relances clients\n- Organisation des expéditions et coordination avec les transporteurs\n- Gestion des documents de transport\n- Suivi des stocks et gestion des inventaires\n- Connaissance des conditions générales de vente, tarifs et délais de paiement\n- Connaissance des normes agroalimentaires (traçabilité, qualité)\n- Rédaction professionnelle et communication client\n- Analyse et reporting commercial",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "secteur": "Commerce - Vente",
+    "postes": 1,
+    "debut_asap": false,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2151456401",
+    "agence": "ADFR_169",
+    "debut": "2026-11-23"
+   },
+   "uid": "adecco:2151456401",
+   "distance_km": 21.9,
+   "fp": "e51b067b9fbcec1a",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "adecco:2151456401",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste administratif avec saisie, informatique et relation client en français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Satış idari asistanı",
+    "summary_tr": "Ofiste sipariş ve fatura işleri. Yer: Talcy.",
+    "tasks_tr": [
+     "Sipariş girişi",
+     "Müşteri telefonları"
+    ],
+    "schedule_tr": "Tam gün, gündüz",
+    "salary_tr": "",
+    "duration_tr": "1 ay",
     "apply_message_fr": ""
    }
   },
@@ -1659,6 +2226,225 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85706036",
+   "title": "Comptable H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85706036.html",
+   "company": "Derichebourg Intérim",
+   "city": "La Chaussée-Saint-Victor",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 - 15 € / heure",
+   "hours": "Télétravail partiel",
+   "description": "",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85706036",
+   "distance_km": 3.9,
+   "fp": "84b20a0c24a9135e",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "hellowork:85706036",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de comptable qui demande un diplôme et beaucoup de français écrit.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Muhasebeci",
+    "summary_tr": "Büro işi, muhasebe. Yer: La Chaussée-Saint-Victor.",
+    "tasks_tr": [
+     "Hesap tutmak"
+    ],
+    "schedule_tr": "Kısmen evden çalışma",
+    "salary_tr": "Saatte 13 - 15 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en intérim. Je suis sérieuse et disponible."
+   }
+  },
+  {
+   "source": "meteojob",
+   "source_id": "58176601",
+   "title": "Conducteur de pelle  H/F",
+   "url": "https://www.meteojob.com/jobs/58176601",
+   "company": "ADEQUAT",
+   "city": "Blois",
+   "postal_code": "41000",
+   "lat": 47.59432,
+   "lon": 1.32912,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "1 867,02 € - 2 250 € par mois",
+   "hours": "Temps Plein",
+   "description": "Poste à pourvoir de suite - Conduite de pelle 100 tonnes LIEBHERR H/F - Expérience en carrière souhaité\n Notre agence Adéquat de Blois recrute de nouveau talent : conducteur de pelle H/F pour son client situé à Le Loir-et-Cher (41) expert dans la fabrication et la vente de béton prêt à l'emploi aux entreprises et particuliers. Missions :\n- Conduite d'une pelle 100 tonnes LIEHERR dan le respect des règles de sécurité.\n- Extraire et déplacer des matériaux (terre sable gravier)\n- Effectuer des excavations.\n- Respecter les règles de sécurité, plan de circulation et procédures environnementales ainsi qu'appliquer les consignes en cas d'incident/accident\n- Faire un rapport quotidien à son responsable\n- Transmettre les documents liés au chargement, au transport et aux heures de travail \n Profil :\n - Expérience indispensable en conduite de pelle à chenille 100 tonnes\n- Connaissances des normes de sécurité sur un chantier\n- Posséder son CACES R482 B1 (pelle) à jour\n- Connaissance de base en mécanique et hydraulique\n- Titulaire du permis B \n Horaire :\n- du lundi au vendredi\n- 39 h/semaine avec HS payées ou récupérées\n Rémunération :\n - Salaire Annuel entre 23 000€ à 26 000€ brut/annuel selon expérience Rémunération et avantages :\n - Taux horaire fixe + 10% de fin de mission + 10% de congés payés - Primes collective et/ou individuelle + participation aux bénéfices + CET 5% - Acompte de paye à la semaine si besoin, - Possibilité d'intégration rapide, de formation et d'évolution, - Bénéficiez d'aides et de services dédiés (mutuelle, logement, garde enfant, déplacement). Pour toutes questions, vous pouvez nous joindre au *** Rejoignez le groupe Adéquat, l'acteur le plus dynamique du secteur de l'emploi depuis 3 ans ! Adéquat, Simplement pour vous !",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "jobs": [
+     "Conducteur de pelle (H/F)"
+    ]
+   },
+   "uid": "meteojob:58176601",
+   "distance_km": 1.0,
+   "fp": "b7be8d2188234ebf",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "meteojob:58176601",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Le CACES pelle et une expérience de conduite d'engin sont obligatoires.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Ekskavatör operatörü",
+    "summary_tr": "Taş ocağında 100 tonluk ekskavatör kullanmak. Yer: Blois.",
+    "tasks_tr": [
+     "Ekskavatör kullanmak",
+     "Toprak, kum taşımak",
+     "Günlük rapor yazmak"
+    ],
+    "schedule_tr": "Pazartesi-cuma, haftada 39 saat",
+    "salary_tr": "Ayda 1 867 - 2 250 € brüt",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en manutention. Je suis sérieuse et disponible."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "187c687d3063f03279c5e295282c8b5a",
+   "title": "Contrôleur De Gestion Industriel Senior",
+   "url": "https://www.jobijoba.com/fr/annonce/54/187c687d3063f03279c5e295282c8b5a",
+   "company": "Talent Sourcing",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Le poste nécessite une véritable proximité avec les opérations : au-delà de la production du reporting, l'enjeu est de comprendre les flux",
+   "published": "2026-11-17",
+   "phone": "",
+   "extra": {
+    "metier": "Contrôleur de gestion"
+   },
+   "uid": "jobijoba:187c687d3063f03279c5e295282c8b5a",
+   "distance_km": 0.0,
+   "fp": "323286bc9a017486",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/cc99d7aabd9f9044491878f0eb3968c6"
+    }
+   ],
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "jobijoba:187c687d3063f03279c5e295282c8b5a",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste de cadre en contrôle de gestion qui exige un diplôme supérieur.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kıdemli mali kontrolör",
+    "summary_tr": "Fabrika için finans takibi ve rapor. Yer: Blois.",
+    "tasks_tr": [
+     "Rapor hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en industrie. Je suis sérieuse et disponible."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3d04835e1156caa2217a85c187bf16ce",
+   "title": "Acheteur Matières Premières (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3d04835e1156caa2217a85c187bf16ce",
+   "company": "Joveo",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Management de transition, et évaluation d'expert.E.S, cadres et dirigeant.E.S, recherche pour son client un Acheteur Matières Premières et Emballages",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "metier": "Acheteur"
+   },
+   "uid": "jobijoba:3d04835e1156caa2217a85c187bf16ce",
+   "distance_km": 0.0,
+   "fp": "e20474e545a99543",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "jobijoba:3d04835e1156caa2217a85c187bf16ce",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'acheteur, métier commercial avec beaucoup de français et un diplôme.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hammadde satın alma uzmanı",
+    "summary_tr": "Hammadde ve ambalaj satın almak. Yer: Blois.",
+    "tasks_tr": [
+     "Tedarikçilerle görüşmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en industrie. Je suis sérieuse et disponible."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "316309188ef54cea7a83e36c77caa585",
+   "title": "CONDUCTEUR DE PELLE 100T LIEBHERR H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/316309188ef54cea7a83e36c77caa585",
+   "company": "",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 € de l'heure",
+   "hours": "",
+   "description": "100 tonnes dans le respect des règles de sécurité. • Extraire et déplacer des matériaux (terre, sable, gravier) • Effectuer des excavations. • Alimenter et",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "metier": "Conducteur de pelle"
+   },
+   "uid": "jobijoba:316309188ef54cea7a83e36c77caa585",
+   "distance_km": 18.4,
+   "fp": "2cf2f2c307aa37eb",
+   "first_seen": "2026-11-19",
+   "ai": {
+    "uid": "jobijoba:316309188ef54cea7a83e36c77caa585",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Conduite de pelle de 100 tonnes, il faut un CACES et de l'expérience sur engin.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Ekskavatör operatörü 100 ton",
+    "summary_tr": "Büyük ekskavatörle malzeme taşımak. Yer: Mer.",
+    "tasks_tr": [
+     "Ekskavatör kullanmak",
+     "Kazı yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 13 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en manutention. Je suis sérieuse et disponible."
    }
   },
   {
