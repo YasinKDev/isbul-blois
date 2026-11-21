@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:26:39+00:00",
+ "updated": "2026-11-21T18:28:57+00:00",
  "offers": [
   {
    "source": "francetravail",
@@ -114,6 +114,56 @@
     "salary_tr": "Yılda yaklaşık 22000 € + %10 bitiş primi + %10 izin",
     "duration_tr": "3 ay, hemen başlıyor",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre de chargement de colis à Mer. J'ai plusieurs années d'expérience en intérim en manutention, chargement de colis et tri. Je suis rapide, endurante et j'accepte tous les horaires. J'ai le permis et une voiture, je suis disponible tout de suite."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "216PVPP",
+   "title": "Opérateur de production industrie alimentaire (H/F)",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216PVPP",
+   "company": "PARTNAIRE 41",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Temps plein",
+   "description": "Notre agence Partnaire Blois recrute des Agents de Production H/F, pour notre client spécialisé dans la fabrication de recettes traditionnelles destinées à son réseaux de Boulangeries.\nAu coeur de...",
+   "published": "2026-11-19",
+   "phone": "",
+   "extra": {
+    "origin": "France Travail"
+   },
+   "uid": "francetravail:216PVPP",
+   "distance_km": 0.0,
+   "fp": "572854b344ff679e",
+   "also_on": [
+    {
+     "source": "hellowork",
+     "url": "https://www.hellowork.com/fr-fr/emplois/85693119.html"
+    }
+   ],
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "francetravail:216PVPP",
+    "suitable": true,
+    "score": 88,
+    "reason_fr": "Poste d'agent de production en agroalimentaire sans qualification, à Blois, proche de son expérience en usine.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Gıda üretim işçisi",
+    "summary_tr": "Fırınlar için geleneksel ürün yapan bir fabrikada çalışmak. Yer Blois.",
+    "tasks_tr": [
+     "Üretim hattında çalışmak",
+     "Ürünleri paketlemek",
+     "Temizlik ve düzen"
+    ],
+    "schedule_tr": "Tam gün",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'opératrice de production en industrie alimentaire à Blois. J'ai plusieurs années d'expérience en intérim en production, conditionnement et emballage. Je suis rapide, sérieuse et disponible pour tous les horaires. Je vous remercie pour votre réponse."
    }
   },
   {
@@ -710,6 +760,49 @@
   },
   {
    "source": "francetravail",
+   "source_id": "9070800",
+   "title": "Conducteur de bus H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9070800",
+   "company": "ARTUS INTERIM BLOIS",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "ARTUS Intérim Blois recherche un conducteur de bus H/F pour dans entreprise du secteur du transport urbain.\nVos missions principales sont :\n-Transporter et accueillir les clients dans les meilleures...",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:9070800",
+   "distance_km": 0.0,
+   "fp": "d3532e5a8ac06582",
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "francetravail:9070800",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de conducteur de bus qui exige un permis D et beaucoup de contact avec les clients.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Otobüs şoförü",
+    "summary_tr": "Blois şehir içinde otobüs kullanmak. Yolcuları taşımak.",
+    "tasks_tr": [
+     "Otobüs kullanmak",
+     "Yolcuları karşılamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "216RVXK",
    "title": "Hôte d'Accueil (h/f) (H/F)",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216RVXK",
@@ -987,6 +1080,53 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "85765177",
+   "title": "Mecanicien H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85765177.html",
+   "company": "Interaction Intérim",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "13 - 14 € / heure",
+   "hours": "Travail de jour",
+   "description": "",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85765177",
+   "distance_km": 0.0,
+   "fp": "e6e7834e7137c71d",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/5ee52a8ec6ea4de9d86504e0a2cf692d"
+    }
+   ],
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "hellowork:85765177",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de mécanicien qui demande une formation technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Tamirci",
+    "summary_tr": "Blois'da araç veya makine tamiri. Gündüz çalışma.",
+    "tasks_tr": [
+     "Tamir yapmak",
+     "Bakım yapmak"
+    ],
+    "schedule_tr": "Gündüz",
+    "salary_tr": "Saatlik 13-14 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "216RXPG",
    "title": "Assistant Juridique (h/f) (H/F)",
@@ -1171,6 +1311,92 @@
     "salary_tr": "",
     "duration_tr": "Geçici iş (intérim)",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai plusieurs années d'expérience en intérim. Je suis sérieuse et disponible. Merci pour votre réponse."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "9070833",
+   "title": "TECHNICIEN CVC ITINERANT H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9070833",
+   "company": "ARTUS INTERIM BLOIS",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "ARTUS Intérim Blois, recherche pour son client spécialisé en maintenance, un TECHNICIEN CVC Itinérant (H/F).\nVos missions principales seront :\n- Intervenir auprès d'une clientèle de professionnels...",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "origin": "TALENTPLUG"
+   },
+   "uid": "francetravail:9070833",
+   "distance_km": 0.0,
+   "fp": "41245889fc21445c",
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "francetravail:9070833",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de technicien en maintenance qui demande une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Gezici ısıtma-klima teknisyeni",
+    "summary_tr": "Firmalarda ısıtma ve klima bakımı yapmak. Blois bölgesinde gezerek çalışmak.",
+    "tasks_tr": [
+     "Cihaz bakımı",
+     "Arıza onarımı"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "17651772ea751c915e42f06cc86bdcec",
+   "title": "Mécanicien aéronautique",
+   "url": "https://www.jobijoba.com/fr/annonce/54/17651772ea751c915e42f06cc86bdcec",
+   "company": "Armée De Terre",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "votre spécialité consiste à réaliser des actes de préparation et de maintenance simples sur les hélicoptères de l’armée de Terre. Vous êtes spécialisé pour",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "metier": "Mécanicien aéronautique"
+   },
+   "uid": "jobijoba:17651772ea751c915e42f06cc86bdcec",
+   "distance_km": 0.0,
+   "fp": "cb660ce3be06f3be",
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "jobijoba:17651772ea751c915e42f06cc86bdcec",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de mécanicien aéronautique dans l'armée, avec formation technique et engagement militaire.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Helikopter tamircisi (ordu)",
+    "summary_tr": "Kara ordusunda helikopter bakımı yapmak. Yer Blois.",
+    "tasks_tr": [
+     "Helikopter bakımı",
+     "Basit onarımlar"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
    }
   },
   {
@@ -1510,6 +1736,48 @@
     "summary_tr": "Blois'ta kamyon tamiri. Meslek diploması gerekli.",
     "tasks_tr": [
      "Kamyon tamir etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "b33fa6d0332b7b422ef74c942a292e94",
+   "title": "Ingénieur de production informatique (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/b33fa6d0332b7b422ef74c942a292e94",
+   "company": "Inetum",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Description du poste Dans le cadre du renforcement d’une équipe en charge de la production applicative, nous recherchons un profil Ingénieur de",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "metier": "Ingénieur production"
+   },
+   "uid": "jobijoba:b33fa6d0332b7b422ef74c942a292e94",
+   "distance_km": 0.0,
+   "fp": "9545eb7df23d535c",
+   "first_seen": "2026-11-21",
+   "ai": {
+    "uid": "jobijoba:b33fa6d0332b7b422ef74c942a292e94",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'ingénieur en informatique qui exige un diplôme supérieur.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Bilgisayar mühendisi",
+    "summary_tr": "Inetum firmasında bilgisayar sistemleriyle çalışmak. Yer Blois.",
+    "tasks_tr": [
+     "Yazılımları takip etmek"
     ],
     "schedule_tr": "",
     "salary_tr": "",
