@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-23T15:55:51+00:00",
+ "updated": "2026-11-23T23:06:16+00:00",
  "offers": [
+  {
+   "source": "jobijoba",
+   "source_id": "117f76e3611dfe957807235b4490bdf6",
+   "title": "Manutentionnaire H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/117f76e3611dfe957807235b4490bdf6",
+   "company": "Supplay",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Rejoignez notre client en tant que Manutentionnaire ! \nNotre client, acteur reconnu de son secteur, recherche plusieurs Manutentionnaires (H/F) pour renforcer ses équipes. \nVos missions \nChargement et déchargement de marchandises \nTri, contrôle et préparation des produits \nPalettisation et filmage des palettes \nManutention manuelle et port de charges \nApprovisionnement des lignes ou des zones de stockage \nRespect des consignes de sécurité et des procédures internes \nMaintien de la propreté de votre poste de travail CSE / PARTICIPATION / MUTUELLE /CET",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "metier": "Manutentionnaire",
+    "first_published": "2026-11-21"
+   },
+   "uid": "jobijoba:117f76e3611dfe957807235b4490bdf6",
+   "distance_km": 18.4,
+   "fp": "2c50326b6079a01f",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:117f76e3611dfe957807235b4490bdf6",
+    "suitable": true,
+    "score": 85,
+    "reason_fr": "Manutention, tri et palettisation sans diplôme, proche de son expérience.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Depo işçisi",
+    "summary_tr": "Mer'de yük taşıma ve ayıklama işi. Geçici iş.",
+    "tasks_tr": [
+     "Yük yükleme ve boşaltma",
+     "Ürün ayıklama ve kontrol",
+     "Palet hazırlama"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,31 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste de manutentionnaire à Mer. J'ai plusieurs années d'expérience en manutention, chargement de colis et préparation de commandes. Je suis rapide, endurante et j'ai une voiture. Je suis disponible pour tous les horaires."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "9106016",
+   "title": "Opérateur Laverie H/F",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9106016",
+   "company": "Hays France",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Au sein du service fabrication, vous intervenez sur plusieurs zones de lavage : pôle lavage manuel pour les petites pièces, pôle lavage humide pour les bidons de matières premières et box sec pour le...",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "origin": "BROADBEAN"
+   },
+   "uid": "francetravail:9106016",
+   "distance_km": 0.0,
+   "fp": "4018846b0abb69e3",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "francetravail:9106016",
+    "suitable": true,
+    "score": 80,
+    "reason_fr": "Poste d'exécution en lavage de pièces en usine, formation sur place possible, en intérim à Blois.",
+    "category": "uretim",
+    "french_level": "az",
+    "title_tr": "Yıkama operatörü",
+    "summary_tr": "Fabrikada parça ve bidon yıkamak. Blois'da.",
+    "tasks_tr": [
+     "Küçük parçaları elle yıkamak",
+     "Bidonları yıkamak",
+     "Kuru temizlik yapmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par le poste d'opératrice laverie à Blois. J'ai plusieurs années d'expérience en intérim dans l'industrie, notamment en blanchisserie industrielle et en conditionnement. Je suis rapide, sérieuse et j'accepte tous les horaires. Je suis disponible rapidement."
+   }
+  },
   {
    "source": "jobijoba",
    "source_id": "56cb67096f3fa27e30930225e1190eda",
@@ -313,6 +402,51 @@
    }
   },
   {
+   "source": "jobijoba",
+   "source_id": "5d1f2375e66da420563d6f6db8612af2",
+   "title": "Formation Cariste en préparation logistique (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/5d1f2375e66da420563d6f6db8612af2",
+   "company": "Adecco",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "Job Description\nL'agence Adecco recrute pour ses clients, basé à Blois et ses alentours (30km), un groupe pour suivre une formation d'un titre professionnel préparateur de commande (H/F). Nous vous accompagnons dans votre développement de compétences pour devenir préparateur de commande / cariste et obtenir les CACES R489 de catégorie 1B/3/5 ! Une formation qui pourra vous apporter une stabilité financière et professionnelle avec avec la proposition d'un CDI-Intérimaire dès le premier jour de la formation. Vos missions après la formation comprendront : Préparation des commandes en respectant les consignes de tri et d'emballage Utilisation des CACES R489 de catégorie 1B/3/5 Utilisation des outils informatiques pour la gestion des stocks Participation à l'optimisation des processus logistiques Les horaires de travail sont en journée pendant la formation, puis vous intégrerez des entreprises principalement en horaire d'équipe 2x8 ou 3x8. Début de la formation mi-janvier Adecco s'engage à promouvoir la diversité et l'égalité des chances. Toute information liée à la candidature est traitée avec la plus stricte confidentialité. Un CDI ? Une formation pour préparer votre avenir ? Une alternance pour apprendre durablement un métier ? Chez Adecco, on sait que derrière chaque CV, il y a une vraie vie qui mérite un vrai job. Avec 850 agences partout en France , nos recruteurs sont là pour vous écouter, vous conseiller et vous aider à trouver l'emploi qui vous correspond vraiment. En agence ou via nos applications Adecco & Moi et QAPA , vous gardez la main sur votre parcours, selon vos envies et les étapes de votre vie. Parce qu'un job, ce n'est pas seulement un contrat . Avec Adecco, vous bénéficiez d'un accompagnement personnalisé , d' avantages exclusifs et d'opportunités qui peuvent vraiment compter dans votre parcours. Intérim, CDD, CDI ou formation : à chacun sa voie, à chacun son rythme .",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Cariste",
+    "first_published": "2026-11-23"
+   },
+   "uid": "jobijoba:5d1f2375e66da420563d6f6db8612af2",
+   "distance_km": 0.0,
+   "fp": "06618d051776ed1f",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:5d1f2375e66da420563d6f6db8612af2",
+    "suitable": true,
+    "score": 55,
+    "reason_fr": "Formation payée pour devenir préparatrice cariste, sans diplôme demandé, mais c'est un CDI intérimaire avec beaucoup de formation.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Forklift ve sipariş hazırlama kursu",
+    "summary_tr": "Blois'ta Adecco ile kurs. Sonra depoda sipariş hazırlama ve forklift işi.",
+    "tasks_tr": [
+     "Sipariş hazırlamak",
+     "Forklift kullanmak",
+     "Paketlemek"
+    ],
+    "schedule_tr": "Kursta gündüz, sonra 2x8 veya 3x8",
+    "salary_tr": "",
+    "duration_tr": "Ocak ortası başlar, CDI intérimaire",
+    "apply_message_fr": "Bonjour, je suis intéressée par la formation de préparateur de commandes et cariste. J'ai plusieurs années d'expérience en préparation de commandes et picking en entrepôt. Je suis motivée pour obtenir les CACES. J'accepte les horaires en 2x8 et 3x8."
+   }
+  },
+  {
    "source": "hellowork",
    "source_id": "84732644",
    "title": "Technicien Expédition - 3x8 H/F",
@@ -489,6 +623,50 @@
    }
   },
   {
+   "source": "jobijoba",
+   "source_id": "5d20348027fa3364e52f2204d695f7dd",
+   "title": "Preparateur Commande H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/5d20348027fa3364e52f2204d695f7dd",
+   "company": "Proman",
+   "city": "Mer",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "12,31 € de l'heure",
+   "hours": "",
+   "description": "Votre agence d'intérim PROMAN recrute pour un de ses client un Préparateur de commandes Cariste 1 H/F.\nVous serez chargé des tâches suivantes : déchargement des conteneurs, préparation des commandes et diverses manutentions.\nLieu de la mission : MER\nMission à pourvoir immédiatement.\nPour plus d'offres d'emploi, téléchargez notre application myPROMAN intérimaires sur ou .\nPréparateur de commandes Cariste H/F\nCompétences requises : \n- Maîtrise des engins de manutention (chariot élévateur, transpalette, etc.) \n- Connaissance des règles de sécurité et de manutention \n- Capacité à gérer le stock et à effectuer des inventaires \n- Rigueur et organisation dans la préparation des commandes \n- Sens de l'efficacité et rapidité d'exécution \n- Bonnes compétences en communication pour travailler en équipe \n- Aisance avec l'informatique et les outils de gestion de stock\nQualités professionnelles : \n- Autonomie et sens des responsabilités \n- Proactivité et esprit d'initiative \n- Souci du détail et précision dans l'exécution des tâches \n- Adaptabilité face aux imprévus\nDescription concise du profil candidat recherché : \nNous recherchons un préparateur de commandes cariste H/F disposant d'un CAP ou équivalent dans le domaine de la logistique ou de la manutention. Le candidat idéal possède une solide expérience dans la manipulation des chariots élévateurs et une bonne connaissance des procédures de sécurité. Il fait preuve d'organisation et de rigueur, tout en ayant un bon esprit d'équipe et une capacité à travailler de manière autonome.\nTous nos postes sont ouverts aux personnes en situation de handicap.\n Salaire : 12.31 €",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Préparateur de commandes",
+    "first_published": "2026-11-23"
+   },
+   "uid": "jobijoba:5d20348027fa3364e52f2204d695f7dd",
+   "distance_km": 18.4,
+   "fp": "e06b744c8965df0d",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:5d20348027fa3364e52f2204d695f7dd",
+    "suitable": false,
+    "score": 25,
+    "reason_fr": "Le poste demande la maîtrise du chariot élévateur et un CAP logistique.",
+    "category": "depo",
+    "french_level": "orta",
+    "title_tr": "Sipariş hazırlayıcı forklift",
+    "summary_tr": "Mer'de depo işi. Forklift ve CAP isteniyor.",
+    "tasks_tr": [
+     "Konteyner boşaltmak",
+     "Sipariş hazırlamak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 12,31 €",
+    "duration_tr": "Hemen başlar",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions de préparation de commandes. J'ai plusieurs années d'expérience en picking et manutention. Je suis disponible rapidement. Merci pour votre attention."
+   }
+  },
+  {
    "source": "adecco",
    "source_id": "2152729301",
    "title": "Conducteur de Ligne de Fabrication (h/f)",
@@ -580,6 +758,55 @@
    }
   },
   {
+   "source": "adecco",
+   "source_id": "2133718601",
+   "title": "Agent en Logistique (h/f)",
+   "url": "https://www.adecco.com/fr-fr/offres-emploi/detail/2133718601",
+   "company": "Adecco",
+   "city": "La Chaussee St Victor",
+   "postal_code": "41260",
+   "lat": 47.6097,
+   "lon": 1.3599,
+   "contract": "Intérim",
+   "duration": "1 semaine",
+   "salary": "12,5 €/heure",
+   "hours": "Temps plein · Jour",
+   "description": "Votre mission\nAdecco recrute ! Nous recherchons un cariste R485 pour l'un de nos clients spécialisé dans la boulangerie, pâtisserie basée à La chaussée Saint Victor (41260)\nVos missions:\n- Charger/décharger les camions à l’aide des transpalettes\n- Rangement palette\n- Préparation de commande\n- Manutention\n- Montage carton si besoin\n- Entretien de l’espace logistique\n- Utilisation du CACES R485 de catégorie 2\nContraintes : port de charges lourdes, zone froide (grand congélateur à -18), gestes répétitifs\nLes horaires : lundi 9h-16h45 et le reste de la semaine 8h-15h45\nTaux horaire: 12,50€\nAvantage: Prime chaud ou froid (selon poste de travail) / majoration de nuit / avantage sur les repas\nPoste à pourvoir au plus vite, basé à la Chaussée Saint Victor (41260)\nVotre profil\nCe que nous recherchons :\n- Vous avez une connaissance parfaite et respect des règles d'hygiène et de sécurité alimentaires.\n- Vous êtes reconnu pour votre sérieux, votre assiduité, votre dynamisme et votre esprit d’équipe.\n- Le travail avec une cadence rythmée ne vous fait pas peur\n- Vous êtes titulaire du CACES R485 de catégorie 2\nCe poste vous intéresse merci de postuler en ligne sur adecco.fr",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "secteur": "Exploitation de logistique - supply chain",
+    "postes": 1,
+    "debut_asap": true,
+    "postuler": "https://candidat.fr.adecco.com/apply?OF=2133718601",
+    "agence": "ADFR_169",
+    "debut": "2026-11-23"
+   },
+   "uid": "adecco:2133718601",
+   "distance_km": 3.2,
+   "fp": "9396a27fed22279e",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "adecco:2133718601",
+    "suitable": false,
+    "score": 20,
+    "reason_fr": "Le CACES R485 catégorie 2 est exigé, ce qu'elle n'a pas.",
+    "category": "depo",
+    "french_level": "az",
+    "title_tr": "Depo elemanı (forklift belgesi şart)",
+    "summary_tr": "Fırın ürünleri deposunda yükleme ve sipariş hazırlama. La Chaussee St Victor'da, soğuk ortam.",
+    "tasks_tr": [
+     "Kamyon yüklemek",
+     "Sipariş hazırlamak",
+     "Palet dizmek"
+    ],
+    "schedule_tr": "Pazartesi 9:00-16:45, diğer günler 8:00-15:45",
+    "salary_tr": "12,50 €/saat",
+    "duration_tr": "1 hafta",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "9103215",
    "title": "E.Leclerc - EMPLOYE COMMERCIAL RAYON EPICERIE - H/F",
@@ -667,6 +894,49 @@
     "salary_tr": "Ayda 1 867 € - 2 250 €",
     "duration_tr": "Uzun geçici iş",
     "apply_message_fr": "Bonjour, je suis intéressée par votre mission à Mer. J'ai plusieurs années d'expérience en préparation de commandes et en manutention de colis. Je n'ai pas encore le CACES mais j'apprends vite. Je suis disponible rapidement, merci de votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "692c13e3ec44e2aca706885c8668efae",
+   "title": "Agent Maintenance et Environnement",
+   "url": "https://www.jobijoba.com/fr/annonce/54/692c13e3ec44e2aca706885c8668efae",
+   "company": "Adecco",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "vos envies et les étapes de votre vie. Parce qu'un job, ce n'est pas seulement un contrat. Avec Adecco, vous bénéficiez d'un accompagnement",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Agent de maintenance"
+   },
+   "uid": "jobijoba:692c13e3ec44e2aca706885c8668efae",
+   "distance_km": 0.0,
+   "fp": "8732975e5b0e42a8",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:692c13e3ec44e2aca706885c8668efae",
+    "suitable": false,
+    "score": 15,
+    "reason_fr": "Poste de maintenance, qui demande en général des compétences techniques hors de son profil.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Bakım ve çevre elemanı",
+    "summary_tr": "Blois'ta bakım işi. Teknik bilgi isteniyor.",
+    "tasks_tr": [
+     "Bakım işleri",
+     "Çevre temizliği"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre d'agent maintenance et environnement à Blois. J'ai plusieurs années d'expérience en intérim, notamment en tri des déchets et en manutention. Je suis sérieuse, rapide et disponible pour tous les horaires. Je serais heureuse d'en parler avec vous."
    }
   },
   {
@@ -898,6 +1168,46 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "85801410",
+   "title": "Menuisier Fabricant H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85801410.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "12,31 - 14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85801410",
+   "distance_km": 0.0,
+   "fp": "d8bac26a47456ba0",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "hellowork:85801410",
+    "suitable": false,
+    "score": 10,
+    "reason_fr": "Métier qualifié de menuisier nécessitant une formation spécifique.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Marangoz",
+    "summary_tr": "Ahşap mobilya yapmak. Blois'da.",
+    "tasks_tr": [
+     "Ahşap kesmek ve birleştirmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "12,31 - 14 €/saat",
+    "duration_tr": "3 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "216STXD",
    "title": "Menuisier poseur H/F",
@@ -1123,6 +1433,132 @@
   },
   {
    "source": "francetravail",
+   "source_id": "9104205",
+   "title": "Auxiliaire de Crèche en alternance F/H - Walter Learning",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9104205",
+   "company": "Walter Learning",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "CDD",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Walter Learning, organisme de formation en alternance, recherche (un)e auxiliaire pour une de ses entreprises partenaires.\nVos missions en tant qu'auxiliaire de crèche : \n- \nAccompagner...",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "origin": "WE_RECRUIT"
+   },
+   "uid": "francetravail:9104205",
+   "distance_km": 0.0,
+   "fp": "4d9df4868587983c",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "francetravail:9104205",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste d'auxiliaire de crèche en alternance avec formation diplômante et beaucoup de relationnel en français.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Kreş yardımcısı (okul + iş)",
+    "summary_tr": "Kreşte çocuklara bakmak. Blois'da, okul ile birlikte.",
+    "tasks_tr": [
+     "Çocuklara bakmak",
+     "Ailelerle konuşmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85801640",
+   "title": "Menuisier Poseur H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85801640.html",
+   "company": "Adwork’s Travail Temporaire",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "3 mois",
+   "salary": "",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85801640",
+   "distance_km": 0.0,
+   "fp": "a455dd501109593e",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "hellowork:85801640",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de menuisier poseur qui demande un métier qualifié.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Marangoz montajcı",
+    "summary_tr": "Blois'ta ahşap montaj işi. Meslek bilgisi gerekir.",
+    "tasks_tr": [
+     "Kapı ve pencere takmak",
+     "Ahşap işleri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "3 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en intérim. J'ai plusieurs années d'expérience en production et manutention. Je suis disponible rapidement. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "0cbf190924e4911ecf4170ff39f87e90",
+   "title": "Agent de Gestion Maintenance F/H",
+   "url": "https://www.jobijoba.com/fr/annonce/54/0cbf190924e4911ecf4170ff39f87e90",
+   "company": "Adecco",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "vos envies et les étapes de votre vie. Parce qu'un job, ce n'est pas seulement un contrat. Avec Adecco, vous bénéficiez d'un accompagnement",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Maintenance"
+   },
+   "uid": "jobijoba:0cbf190924e4911ecf4170ff39f87e90",
+   "distance_km": 0.0,
+   "fp": "948b82f45ff816d8",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:0cbf190924e4911ecf4170ff39f87e90",
+    "suitable": false,
+    "score": 5,
+    "reason_fr": "Poste de gestion de maintenance, administratif et technique.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Bakım yönetim elemanı",
+    "summary_tr": "Blois'ta bakım ile ilgili büro işi.",
+    "tasks_tr": [
+     "Bakım işlerini takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en production. J'ai plusieurs années d'expérience en conditionnement. Je suis disponible rapidement. Merci."
+   }
+  },
+  {
+   "source": "francetravail",
    "source_id": "9102275",
    "title": "Technicien de maintenance H/F",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/9102275",
@@ -1299,6 +1735,231 @@
     "salary_tr": "Saati 14,01 €",
     "duration_tr": "Geçici iş",
     "apply_message_fr": "Bonjour, je suis intéressée par ce poste. Je suis sérieuse et disponible. Je reste à votre disposition."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "9104657",
+   "title": "Aide-Soignant H/F (41) F/H - MH RECRUT",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9104657",
+   "company": "MH RECRUT",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Poste de jour comme de nuit sur tout type de structures (EHPAD; Hôpitaux; Clinique etc...).\nNous recrutons des aides-soignants sérieux et dévoués (H/F) à Blois et ses environs.\nMISSION...",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "origin": "WE_RECRUIT"
+   },
+   "uid": "francetravail:9104657",
+   "distance_km": 0.0,
+   "fp": "7df240f2dece3c17",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "francetravail:9104657",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Le diplôme d'aide-soignante est obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı",
+    "summary_tr": "Hastane ve huzurevinde hasta bakımı. Diploma şart.",
+    "tasks_tr": [
+     "Hastalara bakmak"
+    ],
+    "schedule_tr": "Gündüz veya gece",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "hellowork",
+   "source_id": "85790093",
+   "title": "Aide-Soignant 41 H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85790093.html",
+   "company": "MH Recrut",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "1 mois",
+   "salary": "14 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85790093",
+   "distance_km": 0.0,
+   "fp": "827247b129c250b2",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/1747da10d7c1e76e68cfd07ae3977b21"
+    }
+   ],
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "hellowork:85790093",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Le poste d'aide-soignant exige un diplôme obligatoire.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hasta bakıcı",
+    "summary_tr": "Blois'ta hasta bakım işi. Diploma gerekir.",
+    "tasks_tr": [
+     "Hastalara bakmak"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 14 €",
+    "duration_tr": "1 ay",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en intérim. J'ai plusieurs années d'expérience en conditionnement et tri. Je suis disponible rapidement. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "2184850f14c6d893c0e01ce6672fc3b6",
+   "title": "TECHNICIEN DE MAINTENANCE (F/H)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/2184850f14c6d893c0e01ce6672fc3b6",
+   "company": "Randstad Blois",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "\\n Nous recherchons pour le compte de notre client, spécialisé dans la création et la fabrication d'emballages alimentaires, un technicien de maintenance",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Technicien maintenance"
+   },
+   "uid": "jobijoba:2184850f14c6d893c0e01ce6672fc3b6",
+   "distance_km": 0.0,
+   "fp": "5054da603cedd135",
+   "also_on": [
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/4a8af00c0409c6aca72c62db3c17915c"
+    },
+    {
+     "source": "jobijoba",
+     "url": "https://www.jobijoba.com/fr/annonce/54/378c21747bd7a276f05cbcd3c7cc6882"
+    }
+   ],
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:2184850f14c6d893c0e01ce6672fc3b6",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien de maintenance qualifié.",
+    "category": "uretim",
+    "french_level": "orta",
+    "title_tr": "Bakım teknisyeni",
+    "summary_tr": "Blois'ta fabrika bakım işi. Teknik bilgi gerekir.",
+    "tasks_tr": [
+     "Makine tamiri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en production. J'ai plusieurs années d'expérience en conditionnement. Je suis disponible rapidement. Merci."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "3b8f45af95851daffbb538272940b4fc",
+   "title": "Technicien Ordonnancement H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/3b8f45af95851daffbb538272940b4fc",
+   "company": "Proman",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "15 € de l'heure",
+   "hours": "",
+   "description": "également le suivi de l'avancement des ordres de fabrication et l'anticipation des éventuels retards. Une analyse des besoins, un ajustement des",
+   "published": "2026-11-21",
+   "phone": "",
+   "extra": {
+    "metier": "Technicien ordonnancement"
+   },
+   "uid": "jobijoba:3b8f45af95851daffbb538272940b4fc",
+   "distance_km": 0.0,
+   "fp": "58d760b166af8e68",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:3b8f45af95851daffbb538272940b4fc",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de technicien en planification, administratif et qualifié.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Üretim planlama teknisyeni",
+    "summary_tr": "Blois'ta büro işi. Üretim planı takibi.",
+    "tasks_tr": [
+     "Üretimi takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 15 €",
+    "duration_tr": "",
+    "apply_message_fr": "Bonjour, je suis intéressée par vos missions en production. J'ai plusieurs années d'expérience en conditionnement. Je suis disponible rapidement. Merci."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "e9e944ee62716851d580bac931a02332",
+   "title": "Mécanicien monteur (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/e9e944ee62716851d580bac931a02332",
+   "company": "ACTUAL BLOIS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "d'organisation et de réactivité. Votre appétence pour le monde agricole et votre sens du service client seront des atouts déterminants pour réussir à ce",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Mécanicien monteur"
+   },
+   "uid": "jobijoba:e9e944ee62716851d580bac931a02332",
+   "distance_km": 0.0,
+   "fp": "ad9d68044a2d648c",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:e9e944ee62716851d580bac931a02332",
+    "suitable": false,
+    "score": 3,
+    "reason_fr": "Poste de mécanicien qualifié avec relation client, hors de son profil.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Montaj tamircisi",
+    "summary_tr": "Blois'ta tarım makineleri tamiri. Teknik bilgi gerekli.",
+    "tasks_tr": [
+     "Makine montajı",
+     "Tamir"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en intérim dans la production et la manutention. Je suis sérieuse et disponible. Merci pour votre attention."
    }
   },
   {
@@ -1530,6 +2191,172 @@
    }
   },
   {
+   "source": "hellowork",
+   "source_id": "85799794",
+   "title": "Technicien de Maintenance H/F",
+   "url": "https://www.hellowork.com/fr-fr/emplois/85799794.html",
+   "company": "Supplay",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "18 mois",
+   "salary": "13 - 15 € / heure",
+   "hours": "",
+   "description": "",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {},
+   "uid": "hellowork:85799794",
+   "distance_km": 0.0,
+   "fp": "0269d65b45c2e4b2",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "hellowork:85799794",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Poste de technicien de maintenance, qualification technique requise.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Bakım teknisyeni",
+    "summary_tr": "Makine bakımı ve tamiri. Blois'da.",
+    "tasks_tr": [
+     "Makine tamir etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "13 - 15 €/saat",
+    "duration_tr": "18 ay",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "e5990c8a0b44390c4fc492793362816f",
+   "title": "Electricien automobile (H/F)",
+   "url": "https://www.jobijoba.com/fr/annonce/54/e5990c8a0b44390c4fc492793362816f",
+   "company": "ACTUAL BLOIS",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "",
+   "description": "tout en respectant strictement les procédures de sécurité et la réglementation en vigueur. Le permis B demandé car vous pouvez être amener à déplacer les",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Electricien automobile"
+   },
+   "uid": "jobijoba:e5990c8a0b44390c4fc492793362816f",
+   "distance_km": 0.0,
+   "fp": "567ec5bba47c35ff",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:e5990c8a0b44390c4fc492793362816f",
+    "suitable": false,
+    "score": 2,
+    "reason_fr": "Métier d'électricien qui exige une qualification technique.",
+    "category": "diger",
+    "french_level": "orta",
+    "title_tr": "Oto elektrikçisi",
+    "summary_tr": "Blois'ta araba elektrik tamiri. Diploma ve deneyim gerekli.",
+    "tasks_tr": [
+     "Araç elektrik tamiri"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en intérim dans la production et la logistique. Je suis sérieuse et disponible. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "9104636",
+   "title": "Infirmier en gériatrie en vacation (41) F/H - MH RECRUT",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9104636",
+   "company": "MH RECRUT",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Poste de jour comme de nuit pour tous les services.\nNous recrutons des infirmiers sérieux et dévoués (H/F) à Blois et ses environs.\nMissions générales :\n- Assurer des soins de...",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "origin": "WE_RECRUIT"
+   },
+   "uid": "francetravail:9104636",
+   "distance_km": 0.0,
+   "fp": "fe42e4615553e95d",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "francetravail:9104636",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'infirmier exigeant un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (yaşlı bakımı)",
+    "summary_tr": "Yaşlılara hemşirelik. Diploma şart.",
+    "tasks_tr": [
+     "Tıbbi bakım yapmak"
+    ],
+    "schedule_tr": "Gündüz veya gece",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
+   "source": "francetravail",
+   "source_id": "9104629",
+   "title": "Infirmier service hospitalier H/F (41) F/H - MH RECRUT",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9104629",
+   "company": "MH RECRUT",
+   "city": "Blois",
+   "postal_code": "41",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "",
+   "hours": "Non renseigné",
+   "description": "Poste de jour comme de nuit sur tout type de structures (EHPAD; Hôpitaux; Clinique etc...).\nNous recrutons des infirmiers sérieux et dévoués (H/F) à Blois et ses environs.\nMissions...",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "origin": "WE_RECRUIT"
+   },
+   "uid": "francetravail:9104629",
+   "distance_km": 0.0,
+   "fp": "ee28a4b30d1033f6",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "francetravail:9104629",
+    "suitable": false,
+    "score": 1,
+    "reason_fr": "Poste d'infirmier exigeant un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hemşire (hastane)",
+    "summary_tr": "Hastanede hemşirelik. Diploma şart.",
+    "tasks_tr": [
+     "Tıbbi bakım yapmak"
+    ],
+    "schedule_tr": "Gündüz veya gece",
+    "salary_tr": "",
+    "duration_tr": "",
+    "apply_message_fr": ""
+   }
+  },
+  {
    "source": "francetravail",
    "source_id": "216SLHR",
    "title": "Professeur(e)s d'espagnol / Loir et Cher (H/F)",
@@ -1694,6 +2521,90 @@
     "salary_tr": "",
     "duration_tr": "12 ay",
     "apply_message_fr": "Bonjour, je suis intéressée par votre offre. J'ai de l'expérience en production en usine. Je vous remercie pour votre réponse."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "33178ba02bf694b8c309fd93fa1ab189",
+   "title": "Infirmier en Gériatrie en Vacation 41 H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/33178ba02bf694b8c309fd93fa1ab189",
+   "company": "MH Recrut",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "21 € de l'heure",
+   "hours": "",
+   "description": "établies. - Administrer les soins aux résidents conformément aux prescriptions médicales et dans le cadre de ses responsabilités. - Promouvoir",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:33178ba02bf694b8c309fd93fa1ab189",
+   "distance_km": 0.0,
+   "fp": "8a96ff7ef001c0b7",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:33178ba02bf694b8c309fd93fa1ab189",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Huzurevinde hemşire",
+    "summary_tr": "Blois'ta yaşlılara bakım. Hemşirelik diploması şart.",
+    "tasks_tr": [
+     "Tedavi uygulamak"
+    ],
+    "schedule_tr": "Vardiyalı",
+    "salary_tr": "Saatte 21 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en intérim. Je suis sérieuse et disponible. Merci pour votre attention."
+   }
+  },
+  {
+   "source": "jobijoba",
+   "source_id": "47b1dd0e743983c6514cb695067a1cc8",
+   "title": "Infirmier Service Hospitalier 41 H/F",
+   "url": "https://www.jobijoba.com/fr/annonce/54/47b1dd0e743983c6514cb695067a1cc8",
+   "company": "MH Recrut",
+   "city": "Blois",
+   "postal_code": "",
+   "lat": null,
+   "lon": null,
+   "contract": "Intérim",
+   "duration": "",
+   "salary": "De 19 € à 23 € de l'heure",
+   "hours": "",
+   "description": "- Reconnaître et réagir en cas de signes de dégradation de l'état de santé des patients, en tenant comptes des pathologies et des besoins spécifiques -",
+   "published": "2026-11-23",
+   "phone": "",
+   "extra": {
+    "metier": "Infirmier"
+   },
+   "uid": "jobijoba:47b1dd0e743983c6514cb695067a1cc8",
+   "distance_km": 0.0,
+   "fp": "31cca738393c6ffa",
+   "first_seen": "2026-11-23",
+   "ai": {
+    "uid": "jobijoba:47b1dd0e743983c6514cb695067a1cc8",
+    "suitable": false,
+    "score": 0,
+    "reason_fr": "Poste d'infirmier hospitalier qui exige un diplôme d'État.",
+    "category": "diger",
+    "french_level": "cok",
+    "title_tr": "Hastanede hemşire",
+    "summary_tr": "Blois'ta hastanede hasta bakımı. Hemşirelik diploması şart.",
+    "tasks_tr": [
+     "Hastaları takip etmek"
+    ],
+    "schedule_tr": "",
+    "salary_tr": "Saatte 19 € - 23 €",
+    "duration_tr": "Geçici iş (intérim)",
+    "apply_message_fr": "Bonjour, je suis intéressée par votre offre à Blois. J'ai plusieurs années d'expérience en intérim. Je suis sérieuse et disponible. Merci pour votre attention."
    }
   },
   {
